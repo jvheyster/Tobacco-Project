@@ -9,7 +9,7 @@ st.set_page_config(
 
 st.markdown("# Welcome to the QUIT Project")
 
-st.image("Frontpage.png", caption="QUIT: Quantifying the Impact of Tobacco control measures", use_column_width=True)
+st.image("Streamlit Pics/Frontpage.png", caption="QUIT: Quantifying the Impact of Tobacco control measures", use_column_width=True)
 
 st.markdown("""
 ---

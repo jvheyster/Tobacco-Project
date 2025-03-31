@@ -10,8 +10,8 @@ st.set_page_config(
 
 st.markdown("# Introduction to the QUIT Project")
 
-# 📌 Background
-st.markdown("## 📌 Background")
+# Background
+st.markdown("## Background")
 
 with st.expander("🚬 Tobacco Use and Health Risks"):
     col1, col2 = st.columns([2, 1])
@@ -29,7 +29,7 @@ with st.expander("🚬 Tobacco Use and Health Risks"):
         Smoking prevalence varies widely—from **0.4% to 35.7%** across countries.
         """)
     with col2:
-        st.image("LungCancer.png", use_column_width=True)
+        st.image("Streamlit Pics/LungCancer.png", use_column_width=True)
 
 with st.expander("🧱 WHO MPOWER Framework"):
     col_top1, col_top2 = st.columns([3, 2])
@@ -38,7 +38,7 @@ with st.expander("🧱 WHO MPOWER Framework"):
         The **MPOWER** framework was introduced by the **World Health Organization (WHO)** in **2008** to help countries implement the **WHO Framework Convention on Tobacco Control (FCTC)**, the first international public health treaty.
         """)
     with col_top2:
-        st.image("MPOWERGOAL_yellow.png", width=200)
+        st.image("Streamlit Pics/MPOWERGOAL_yellow.png", width=200)
 
     st.markdown("""
     The overall goal of the MPOWER strategy is to provide countries with a structured, evidence-based approach to reduce tobacco use, prevent initiation—particularly among youth—and ultimately reduce morbidity and mortality linked to tobacco consumption, thus improving public health outcomes on a global scale.
@@ -57,24 +57,24 @@ with st.expander("🧱 WHO MPOWER Framework"):
         - **R – Raise**: Increase tobacco taxes to reduce affordability and consumption, especially among youth.
         """)
     with col2:
-        rotated_image = Image.open("NoSmoking.png").rotate(90, expand=True)
+        rotated_image = Image.open("Streamlit Pics/NoSmoking.png").rotate(90, expand=True)
         st.image(rotated_image, use_column_width=True)
 
     st.markdown("""
     MPOWER policies are **evaluated using standardized compliance indicators**, allowing for cross-country comparison and tracking over time. These indicators guide national governments in measuring progress and identifying areas for improvement.
     """)
 
-# 📌 QUIT Project Framework
-st.markdown("## 📌 QUIT Project Framework")
+# QUIT Project Framework
+st.markdown("## QUIT Project Framework")
 
 st.markdown("""
-### 🌟 Goal
+### Goal
 To assess the effectiveness of tobacco control measures and tobacco pricing on tobacco use prevalence,  
 with a focus on **regional and gender differences**, to identify best practices for policy design.
 """)
 
 # Display as matching tabs per research question
-st.markdown("### ❓ Research Questions and Objectives")
+st.markdown("### Research Questions and Objectives")
 
 with st.expander("🔍 Explore Research Questions & Objectives"):
     tabs = st.tabs(["RQ1", "RQ2", "RQ3"])
