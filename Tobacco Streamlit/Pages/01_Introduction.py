@@ -8,10 +8,19 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.markdown("# Introduction to the QUIT Project")
+# -------------------------------------------
+# 📖 Introduction
+# -------------------------------------------
+
+# Display banner image at the top of the page
+banner = Image.open("Streamlit Pics/Introduction.png")
+st.image(banner, use_column_width=True)
+
+# Main heading
+st.markdown("## Introduction")
 
 # Background
-st.markdown("## Background")
+st.markdown("### Background")
 
 with st.expander("🚬 Tobacco Use and Health Risks"):
     col1, col2 = st.columns([2, 1])
@@ -37,9 +46,6 @@ with st.expander("🧱 WHO MPOWER Framework"):
         st.markdown("""
         The **MPOWER** framework was introduced by the **World Health Organization (WHO)** in **2008** to help countries implement the **WHO Framework Convention on Tobacco Control (FCTC)**, the first international public health treaty.
         """)
-    with col_top2:
-        st.image("Streamlit Pics/MPOWERGOAL_yellow.png", width=200)
-
     st.markdown("""
     The overall goal of the MPOWER strategy is to provide countries with a structured, evidence-based approach to reduce tobacco use, prevent initiation—particularly among youth—and ultimately reduce morbidity and mortality linked to tobacco consumption, thus improving public health outcomes on a global scale.
     """)
@@ -65,22 +71,22 @@ with st.expander("🧱 WHO MPOWER Framework"):
     """)
 
 # QUIT Project Framework
-st.markdown("## QUIT Project Framework")
+st.markdown("### QUIT Project Framework")
 
 st.markdown("""
-### Goal
+#### Goal
 To assess the effectiveness of tobacco control measures and tobacco pricing on tobacco use prevalence,  
 with a focus on **regional and gender differences**, to identify best practices for policy design.
 """)
 
 # Display as matching tabs per research question
-st.markdown("### Research Questions and Objectives")
+st.markdown("#### Research Questions and Objectives")
 
 with st.expander("🔍 Explore Research Questions & Objectives"):
     tabs = st.tabs(["RQ1", "RQ2", "RQ3"])
 
     with tabs[0]:
-        st.markdown("#### RQ1: How effective are tobacco control measures, and which are most impactful?")
+        st.markdown("##### RQ1: How effective are tobacco control measures, and which are most impactful?")
         st.markdown("""
         **Objectives Addressed:**  
         - **O1:** Assess global tobacco use prevalence and MPOWER policy coverage.  
@@ -88,14 +94,14 @@ with st.expander("🔍 Explore Research Questions & Objectives"):
         """)
 
     with tabs[1]:
-        st.markdown("#### RQ2: What role do region and income level play in shaping tobacco use?")
+        st.markdown("##### RQ2: What role do region and income level play in shaping tobacco use?")
         st.markdown("""
         **Objective Addressed:**  
         - **O3:** Analyze how effectiveness varies by **region** and **income group**.
         """)
 
     with tabs[2]:
-        st.markdown("#### RQ3: How does gender affect the effectiveness of policies?")
+        st.markdown("##### RQ3: How does gender affect the effectiveness of policies?")
         st.markdown("""
         **Objective Addressed:**  
         - **O4:** Explore **gender-specific** impacts of tobacco control policies.
