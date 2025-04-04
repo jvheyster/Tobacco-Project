@@ -3,14 +3,6 @@ import pandas as pd
 from PIL import Image
 from io import StringIO
 
-# Load your datasets (adjust the paths as necessary)
-# For the sake of this example, replace with actual data loading code
-# Example:
-# df_mpower = pd.read_csv("mpower_table.csv")
-# df_tobacco_control = pd.read_csv("tobacco_control_table.csv")
-# df_cigarette_price = pd.read_csv("cigarette_price_table.csv")
-# df_merged = pd.read_csv("merged_dataset.csv")
-
 # Image at the top
 image = Image.open('Streamlit Pics/Preprocessing.png')
 st.image(image, use_container_width=True)
@@ -67,8 +59,7 @@ with st.expander('Enhancing Data with New Variables'):
     st.dataframe(country)
 
 # Interpolation
-# Load the data
-df = pd.read_csv('Data/CleanTobaccoUseStandardised.csv')  # Adjust path if necessary
+df = pd.read_csv('Data/CleanTobaccoUseStandardised.csv')  
 
 # Filter the dataset to keep relevant years
 df = df[(df["Year"] >= 2007) & (df["Year"] <= 2022)]
