@@ -1,99 +1,185 @@
 import streamlit as st
 import pandas as pd
 
+# --- Page Configuration ---
 st.set_page_config(page_title="Statistical Analysis Overview", layout="wide")
 
-# Banner Image
+# --- Banner Image ---
 st.image("Streamlit Pics/MLandStats.png")
 
-# Title
+# --- Title ---
 st.title("Statistical Analysis and Policy Insights")
 
-# Introduction
+# --- Introduction ---
 st.markdown("""
-### Overview
-Our statistical analysis aimed to identify the **individual impacts of tobacco control policies** on tobacco use prevalence. We used Fixed Effects regression models with clustered standard errors, interaction terms, and stratifications by income, continent, and gender to provide robust and policy-relevant insights.
+Our statistical analysis aimed to identify the individual impacts of tobacco control policies on tobacco use prevalence.
+We used a series of fixed effects regression models, adjusted for multicollinearity, interaction effects, and stratified by
+income level, region, and gender to assess the robustness and policy relevance of each intervention.
 """)
 
-# Methods Overview
-st.markdown("## Statistical Methods Explained")
-method = st.radio("Choose a method to see its explanation:", ["Fixed Effects Regression", "Clustered Standard Errors", "Interaction Terms", "Stratification"])
+# --- Statistical Methods Section ---
+st.markdown("### Statistical Methods")
 
-method_descriptions = {
-    "Fixed Effects Regression": "Controls for time-invariant characteristics (like culture or geography), allowing us to isolate the impact of policy changes within each country.",
-    "Clustered Standard Errors": "Adjusts for within-country correlations and heteroskedasticity, improving the reliability of statistical estimates.",
-    "Interaction Terms": "Identifies combined effects of policies that might enhance or diminish their individual impacts (e.g., media campaigns reinforcing risk warnings).",
-    "Stratification": "Analyzes data separately by income, continent, or gender, uncovering nuanced, context-specific effects."
+methods = [
+    "Fixed Effects Regression",
+    "Multicollinearity Check",
+    "Interaction Terms",
+    "Clustered Standard Errors",
+    "Stratified Models"
+]
+
+selected_method = st.radio("Select a modeling step:", methods, horizontal=True)
+
+if selected_method == "Fixed Effects Regression":
+    with st.container():
+        st.info("""
+        ### Fixed Effects Regression
+        Estimate the within-country impact of policy changes by controlling for unobserved, time-invariant country characteristics and global time trends through fixed effects.
+
+        #### Result
+        * Model fit was high (R² = 0.982), suggesting potential overfitting.
+        * **Risk Warnings** were the only policy with a robust, negative, and statistically significant effect.
+        * **Advertisement Bans** had a significant but unexpected positive association.
+        * All other policy coefficients were statistically insignificant or borderline.
+        """)
+
+elif selected_method == "Multicollinearity Check":
+    with st.container():
+        st.info("""
+        ### Multicollinearity Check
+        Assess whether correlations among predictors inflate standard errors and mask individual policy effects by computing Variance Inflation Factors (VIF).
+
+        #### Result
+        * High multicollinearity detected, especially for **Cessation Support** (VIF = 11.3) and **Risk Warnings** (VIF = 10.4).
+        * Instead of excluding variables, interaction terms were introduced to capture potential policy synergies.
+        """)
+
+elif selected_method == "Interaction Terms":
+    with st.container():
+        st.info("""
+        ### Interaction Terms
+        Explore whether combinations of policies — particularly those with theoretical synergy and empirical correlation — have compounded effects that single policies do not capture.
+
+        #### Result
+        * **Media Campaign × Risk Warning** demonstrated a significant negative interaction.
+        * Other combinations (e.g., Price × Ad Ban, Cessation Support × Risk Warning) were borderline significant but unstable in multivariate interaction models.
+        * Instability indicated persistent multicollinearity.
+        """)
+
+elif selected_method == "Clustered Standard Errors":
+    with st.container():
+        st.info("""
+        ### Clustered Standard Errors
+        Improve statistical inference by adjusting standard errors for within-country autocorrelation and heteroskedasticity across time.
+
+        #### Result
+        * **Risk Warnings** remained statistically significant (p = 0.034).
+        * **Media–Risk Warning interaction** became borderline (p = 0.105).
+        * Other policy coefficients lost statistical significance.
+        """)
+
+elif selected_method == "Stratified Models":
+    with st.container():
+        st.info("""
+        ### Stratified Models
+        Explore model performance in more homogenous subsets to uncover contextual variation: data were stratified by income group, continent, and gender. Models retained fixed effects and clustered standard errors.
+
+        #### Result
+        * **By Income Group**:
+            * LMIC: Risk Warnings were highly effective (p = 0.003).
+            * HIC: Media Campaigns showed borderline effect (p = 0.092).
+            * UMIC & LIC: No significant policy effects observed.
+        * **By Continent**:
+            * East Asia & Pacific: Risk Warnings (p = 0.004) highly effective.
+            * Europe & Central Asia: Advertisement Bans reduced tobacco use (p = 0.037).
+            * MENA: Ad Bans (p = 0.015), Cessation Support showed borderline increase (p = 0.079).
+        * **Gender-Stratified**:
+            * LMIC: Risk Warnings significant for both men (p = 0.008) and women (p = 0.026).
+            * HIC: Cigarette Prices reduced female smoking (p = 0.027).
+            * ECA & SSA: Advertisement Bans increased smoking among women (p = 0.035–0.041).
+        """)
+
+# --- Results Dashboard ---
+st.markdown("### Results Dashboard")
+
+stratification_level = st.selectbox("Choose stratification level:", [
+    "None (Pooled)", "By Income Group", "By Continent"
+])
+
+gender_filter = st.selectbox("Choose gender filter:", [
+    "All", "Male", "Female"
+])
+
+# Table mapping
+table_mapping = {
+    ("None (Pooled)", "All"): "Data/policy_results_pooled.csv",
+    ("None (Pooled)", "Male"): "Data/gender_pooled_male.csv",
+    ("None (Pooled)", "Female"): "Data/gender_pooled_female.csv",
+    ("By Income Group", "All"): "Data/policy_results_income.csv",
+    ("By Continent", "All"): "Data/policy_results_continent.csv",
+    ("By Income Group", "Male"): "Data/gender_income_results.csv",
+    ("By Income Group", "Female"): "Data/gender_income_results.csv",
+    ("By Continent", "Male"): "Data/gender_continent_results.csv",
+    ("By Continent", "Female"): "Data/gender_continent_results.csv"
 }
-st.info(method_descriptions[method])
 
-# Load key results data
-@st.cache_data
-def load_results():
-    data = {
-        'Policy': ['Risk Warnings', 'Advertisement Ban', 'Cigarette Prices', 'Media Campaigns', 'Cessation Support', 'Exposure Protection', 'Tax Increases'],
-        'Overall Effect': ['Strong', 'Mixed', 'Limited', 'Mixed', 'Limited', 'Limited', 'None'],
-        'Significant in': ['LMICs, East Asia & Pacific', 'Europe & Central Asia, MENA (counterintuitive)', 'HICs (women only)', 'HICs, Europe & Central Asia (men)', 'Americas (counterintuitive women)', 'Sub-Saharan Africa (women)', 'No significant effect'],
-    }
-    return pd.DataFrame(data)
+key = (stratification_level, gender_filter)
 
-results_df = load_results()
+if key in table_mapping:
+    try:
+        df_result = pd.read_csv(table_mapping[key])
+        st.dataframe(df_result)
+    except FileNotFoundError:
+        st.warning("Results table not found. Please upload the file: {}".format(table_mapping[key]))
+else:
+    st.info("This combination is currently not available.")
 
-# Main Findings
-st.markdown("## Main Statistical Findings")
-view_choice = st.selectbox("Choose an analysis view:", ["Overall Results", "Income Stratification", "Continent Stratification", "Gender-specific"])
+# --- Key Takeaways and Interpretation ---
+st.markdown("### Key Takeaways and Interpretation")
 
-if view_choice == "Overall Results":
-    st.markdown("#### Overall Policy Impact Summary")
-    st.dataframe(results_df.set_index('Policy'))
-
-elif view_choice == "Income Stratification":
-    st.markdown("#### Policy Impact by Income Group")
-    income_data = {
-        'Income Group': ['High Income (HIC)', 'Upper-Middle Income (UMIC)', 'Lower-Middle Income (LMIC)', 'Low Income (LIC)'],
-        'Significant Policies': ['Cigarette Prices (women), Media Campaigns', 'No significant effect', 'Risk Warnings', 'No significant effect']
-    }
-    income_df = pd.DataFrame(income_data)
-    st.dataframe(income_df.set_index('Income Group'))
-
-elif view_choice == "Continent Stratification":
-    st.markdown("#### Policy Impact by Continent")
-    continent_data = {
-        'Continent': ['Europe & Central Asia', 'Middle East & North Africa', 'East Asia & Pacific', 'South Asia', 'Americas', 'Sub-Saharan Africa'],
-        'Significant Policies': ['Advertisement Bans (counterintuitive)', 'Advertisement Bans (counterintuitive)', 'Risk Warnings', 'No significant effect', 'No significant effect', 'Exposure Protection (women)']
-    }
-    continent_df = pd.DataFrame(continent_data)
-    st.dataframe(continent_df.set_index('Continent'))
-
-elif view_choice == "Gender-specific":
-    st.markdown("#### Policy Impact by Gender")
-    gender_data = {
-        'Gender': ['Men', 'Women'],
-        'Significant Policies': ['Risk Warnings (LMICs, East Asia & Pacific)', 'Cigarette Prices (HIC), Risk Warnings (LMICs, East Asia & Pacific), Exposure Protection (Sub-Saharan Africa, mixed effects)']
-    }
-    gender_df = pd.DataFrame(gender_data)
-    st.dataframe(gender_df.set_index('Gender'))
-
-# Key Takeaways
-st.markdown("## Key Takeaways & Policy Insights")
-st.success("""
-- **Risk Warnings**: Most consistent and effective globally, particularly in LMICs and East Asia & Pacific.
-- **Advertisement Bans**: Often associated with unintended increases, potentially due to enforcement gaps or industry adaptations.
-- **Pricing & Taxation**: Effective primarily in High-Income contexts; less impactful elsewhere.
-- **Gender Considerations**: Women show specific responsiveness to cigarette pricing in high-income countries.
-- **Context-Sensitivity**: Policy effectiveness varies greatly by region and economic contexts.
-""")
-
-# Reflection and Outlook
-with st.expander("Reflection & Future Research"):
+with st.expander("Most Effective Policies"):
     st.markdown("""
-    **Limitations:**
-    - High multicollinearity between policies.
-    - Limited data points for certain stratifications.
-    - Potential omitted variable bias.
+    **Risk Warnings**: Consistently effective, especially in LMICs and East Asia & Pacific — likely due to low-cost, standardized design (e.g., pack labeling) and strong impact in low-awareness settings.
 
-    **Future Directions:**
-    - Expand dataset with additional countries and historical data.
-    - Include enforcement quality, illicit markets, and public attitude surveys.
-    - Conduct cost-effectiveness analyses.
+    **Cigarette Prices**: Only significant among women in HICs, suggesting gendered price sensitivity and effective enforcement; no effect in LMICs may reflect illicit trade or poor tax pass-through.
+    """)
+
+with st.expander("Unexpected Findings"):
+    st.markdown("""
+    **Advertisement Bans**: Often linked to higher smoking rates — possibly due to weak enforcement, policy loopholes, or reactive adoption in response to rising use.
+
+    **Cessation Support**: Correlated with increased smoking in some female models; may reflect targeting of high-risk groups or unsuccessful quit attempts.
+    """)
+
+with st.expander("Context-Limited Policies"):
+    st.markdown("""
+    **Media Campaigns**: Borderline impact only in HICs and European men; likely due to inconsistent quality, reach, or audience engagement.
+
+    **Tax Increases**: No significant effect overall — possibly due to low tax rates, compensatory strategies, or illicit markets undermining policy impact.
+    """)
+
+with st.expander("Policy Interactions"):
+    st.markdown("""
+    **Media Campaign × Risk Warning**: Showed a robust joint effect in isolation, indicating the benefit of combining awareness tools — though significance weakened in full models, likely due to multicollinearity.
+    """)
+
+# --- Strengths and Limitations ---
+st.markdown("### Strengths and Limitations")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("#### Strengths")
+    st.markdown("""
+    * Robust fixed effects model to control for country-specific factors and global trends.
+    * Stratified and gender-specific models uncovered contextual differences in policy effectiveness.
+    * Clustered standard errors improved statistical reliability by accounting for within-country correlation.
+    """)
+
+with col2:
+    st.markdown("#### Limitations")
+    st.markdown("""
+    * High multicollinearity made it difficult to isolate individual policy effects.
+    * Small sample sizes in stratified models reduced statistical power.
+    * Potential omitted variable bias, such as unmeasured enforcement quality or informal tobacco markets.
     """)

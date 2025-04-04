@@ -1,0 +1,8 @@
+Policy,Coefficient (β),P-Value,Interpretation
+Risk Warning,–0.83,0.026,Significant negative effect
+Cigarette Price,–0.27,0.027,Significant negative effect
+Advertisement Ban,Not significant,—,No measurable impact
+Media Campaign,Not significant,—,No measurable impact
+Cessation Support,Not significant,—,No measurable impact
+Exposure Protection,Not significant,—,No measurable impact
+Tax Increase,Not significant,—,No measurable impact

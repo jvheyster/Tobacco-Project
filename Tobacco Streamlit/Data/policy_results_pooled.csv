@@ -1,0 +1,8 @@
+Policy,Coefficient (P-Value),Interpretation
+Risk Warning,-0.3382 (P=0.034),"Consistently effective across models, particularly in LMICs and East Asia & Pacific. May be due to lower baseline awareness and strong implementation fidelity."
+Advertisement Ban,0.2972 (P=0.001),"Counterintuitive positive association. Likely due to policy loopholes, delayed implementation, or industry adaptation."
+Cigarette Price,Not significant,"No effect in pooled model. Later found effective for women in HICs, potentially due to gendered price sensitivity."
+Media Campaign,Not significant,Limited standalone effect. Slight signal in stratified HIC and regional models.
+Cessation Support,Not significant,"No clear effect in pooled model. Some stratified models suggest increase, possibly due to substitution or quit attempt dynamics."
+Exposure Protection,Not significant,"Borderline in one model, otherwise not significant. Could reflect exposure differences by gender."
+Tax Increase,Not significant,Lack of significance may reflect compensatory behaviors or tax enforcement weaknesses.
