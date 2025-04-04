@@ -147,7 +147,7 @@
             "Test MAE": 8.79
         },
         "Optimised": {
-            "Train MAE": 8.65,
+            "Train MAE": 3.78,
             "Test MAE": 8.65
         }
     },
@@ -185,8 +185,8 @@
     },
     "XGBoost": {
         "Optmised": {
-            "Train MAE": 8.65,
-            "Test MAE": 8.65
+            "Train MAE": 5.48,
+            "Test MAE": 8.07
         }
     },
     "Income": {

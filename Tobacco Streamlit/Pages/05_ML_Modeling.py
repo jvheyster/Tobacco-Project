@@ -21,7 +21,7 @@ st.image(ml_banner, use_container_width=True)
 st.title("Machine Learning Analysis")
 
 # Expander: Methodology & Preprocessing
-with st.expander("Methodology & Preprocessing"):
+with st.expander("### 📊 Methodology & Preprocessing"):
     st.markdown("""
     **Methodology:**  
     - We used regression models to predict tobacco use prevalence and determine the relative importance of our explanatory variables, starting with **Linear Regression**, **Decision Tree Regressor**, and **Random Forest Regressor**.
@@ -34,7 +34,7 @@ with st.expander("Methodology & Preprocessing"):
     """)
 
 # Expander: Model Performance
-with st.expander("Initial Models"):
+with st.expander("### 🔧 Initial Models"):
     st.markdown("""
     **Observations:**  
     - **Linear Regression** provided stable performance with minimal overfitting.  
@@ -108,7 +108,7 @@ with st.expander("Initial Models"):
             st.dataframe(df.head())    
 
 # Expander: Feature Importance & Model Tuning
-with st.expander("Model Optimisation"):
+with st.expander("### ⚙️ Model Optimisation"):
     st.markdown("""
     **Methods:**  
     - **Leave One Out Encoding** was implemented instead of target encoding to reduce overfitting; however ‘Region’ still played a dominant role.
@@ -198,7 +198,7 @@ with st.expander("Model Optimisation"):
         st.image(MAEgraph, use_container_width=False)
 
 # Expander: Stratification Analysis & Conclusions
-with st.expander("Feature Importance"):
+with st.expander("### 🔍 Feature Importance"):
     st.markdown("""
     **Stratification Analysis:**
     - **Gender**: Training models to predict Female tobacco use and Male tobacco use  
