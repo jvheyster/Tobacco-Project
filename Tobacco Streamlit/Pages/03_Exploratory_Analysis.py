@@ -119,7 +119,7 @@ with col1:
     st.pyplot(fig1)
 
 with col2:
-    st.markdown("**Trends over time (2007–2022)**")
+    st.markdown("**Trends over time (2000–2030)**")
     fig2, ax2 = plt.subplots(figsize=(7, 4))
     sns.boxplot(x="Year", y=group, data=age_df, color=colors[group], ax=ax2)
     ax2.set_ylabel("Tobacco Use Prevalence (%)")
