@@ -191,10 +191,10 @@ with st.expander("### ⚙️ Model Optimisation"):
         }, index=["Linear Regression", "Random Forest Regressor (Original)", "Random Forest Regressor (Tuned)", "XGBoost (Tuned)"]).T)
     
     if optimisation_choice == "Ridge Regression":
-        Coeffgraph = Image.open("coeffvalue.png")
+        Coeffgraph = Image.open("Streamlit Pics/coeffvalue.png")
         st.image(Coeffgraph, use_container_width=False)
 
-        MAEgraph = Image.open("maevalue.png")
+        MAEgraph = Image.open("Streamlit Pics/maevalue.png")
         st.image(MAEgraph, use_container_width=False)
 
 # Expander: Stratification Analysis & Conclusions
