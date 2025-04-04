@@ -5,7 +5,7 @@ from io import StringIO
 
 # Image at the top
 image = Image.open('Streamlit Pics/Preprocessing.png')
-st.image(image, use_container_width=True)
+st.image(image, use_column_width=True)
 
 # Introduction text
 st.write("""

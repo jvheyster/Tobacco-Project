@@ -7,7 +7,7 @@ from PIL import Image
 
 # Display banner image at the top of the page
 banner = Image.open("Streamlit Pics/Data_Presentation.png")
-st.image(banner, use_container_width=True)
+st.image(banner, use_column_width=True)
 
 st.markdown("## Data and Project Discovery")
 

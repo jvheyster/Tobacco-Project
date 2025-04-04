@@ -15,7 +15,7 @@ feature_importance_data = load_feature_importance("Data/model.json")
 
 # If you have a banner image for the machine learning section, load it:
 ml_banner = Image.open("Streamlit Pics/MLandStats.png")
-st.image(ml_banner, use_container_width=True)
+st.image(ml_banner, use_column_width=True)
 
 # Section Title
 st.title("Machine Learning Analysis")
