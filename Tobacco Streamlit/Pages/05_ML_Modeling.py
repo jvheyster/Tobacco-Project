@@ -94,7 +94,7 @@ with st.expander("### 🔧 Initial Models"):
                 "Train": [feature_importance_data["Linear Regression"]["Without Region or Continent"]["Train MAE"],
                         feature_importance_data["Decision Tree Regressor"]["Without Region or Continent"]["Train MAE"],
                         feature_importance_data["Random Forest Regressor"]["Without Region or Continent"]["Train MAE"]],
-                "Test":  [feature_importance_data["Linear Regression"]["Without Region or Continent"]["Train MAE"],
+                "Test":  [feature_importance_data["Linear Regression"]["Without Region or Continent"]["Test MAE"],
                         feature_importance_data["Decision Tree Regressor"]["Without Region or Continent"]["Test MAE"],
                         feature_importance_data["Random Forest Regressor"]["Without Region or Continent"]["Test MAE"]]
             }, index=["Linear Regression", "Decision Tree Regressor", "Random Forest Regressor or Continent"]).T)
