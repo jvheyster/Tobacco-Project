@@ -98,7 +98,7 @@ fig_map = px.choropleth(
 )
 fig_map.update_layout(margin=dict(l=0, r=0, t=0, b=0), width=1000, height=600)
 st.plotly_chart(fig_map)
-st.markdown("*This animated choropleth map highlights the changing landscape of smoking prevalence from 2007 to 2022. Red shades indicate high prevalence, while green denotes low levels. Most countries follow a downward trend over time.*")
+st.markdown("*This animated choropleth map highlights the changing landscape of smoking prevalence from 2007 to 2022. Red shades indicate high prevalence, while green and blue denote low levels. Most countries follow a downward trend over time.*")
 
 st.markdown("---")
 
