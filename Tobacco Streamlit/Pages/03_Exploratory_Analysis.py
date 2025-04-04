@@ -134,17 +134,26 @@ st.markdown("---")
 # -------------------------------------------
 # Graph 3: Top 10 Trends
 # -------------------------------------------
-st.markdown("### Tobacco Use Trends in Heaviest Smoking Countries")
-top_users = ['Kiribati', 'Myanmar', 'Nepal', 'Nauru', 'Bangladesh', 'Greece', 'India', 'Papua New Guinea', 'Madagascar', 'Timor-Leste']
-heaviest_users = age_df[age_df["Region"].isin(top_users)]
+st.markdown("### Tobacco Use Trends by Country")
 
-fig3, ax3 = plt.subplots(figsize=(10, 5))
-sns.lineplot(data=heaviest_users, x="Year", y="Overall use", hue="Region", ax=ax3)
-ax3.set_ylabel("Prevalence (%)")
-ax3.set_xlabel("Year")
-ax3.legend(title="Country", bbox_to_anchor=(1.05, 1), loc='upper left')
-st.pyplot(fig3)
-st.markdown("*This time series focuses on countries with the highest initial smoking prevalence. All selected regions exhibit downward trends, confirming global progress in tobacco control.*")
+# Get unique country names from the dataset
+all_countries = sorted(age_df["Region"].unique())
+
+# User selects countries to compare (default to some top smoking countries)
+selected_countries = st.multiselect("Select countries to compare:", all_countries, default=['Kiribati', 'Myanmar', 'Nepal'])
+
+# Filter dataset based on user selection
+filtered_data = age_df[age_df["Region"].isin(selected_countries)]
+
+# Create interactive Plotly figure
+fig = px.line(filtered_data, x="Year", y="Overall use", color="Region", 
+              labels={"Overall use": "Prevalence (%)"})
+
+# Display the figure in Streamlit
+fig.update_layout(width=1200, height=600)
+st.plotly_chart(fig, use_container_width=False)
+
+st.markdown("*This time series allows users to compare smoking prevalence trends across different countries. Select countries from the dropdown to explore trends.*")
 
 st.markdown("---")
 
