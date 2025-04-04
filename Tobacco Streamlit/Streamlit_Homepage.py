@@ -15,7 +15,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Updated Banner Image with full width
-st.image("Streamlit Pics/Homepage.png", use_column_width=True)
+st.image("Streamlit Pics/Homepage.png", use_container_width=True)
 
 st.markdown("""
 ---

@@ -19,7 +19,7 @@ st.set_page_config(
 
 # Display banner image at the top of the page
 banner = Image.open("Streamlit Pics/Visualisation.png")
-st.image(banner, use_column_width=True)
+st.image(banner, use_container_width=True)
 
 # Main heading
 st.markdown("## Data Exploration and Visualizations")

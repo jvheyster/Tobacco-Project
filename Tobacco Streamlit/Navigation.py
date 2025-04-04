@@ -1,8 +1,8 @@
 import streamlit as st
 
-home_page = st.Page("Pages/Streamlit_Homepage.py", title="Home", icon="🏠")
+home_page = st.Page("Streamlit_Homepage.py", title="Home", icon="🏠")
 intro_page = st.Page("Pages/01_Introduction.py", title="Introduction", icon="📚")
-presentation_page = st.Page("Pages/02_DataPresentation.py", title = "Data Presentation", icon="🗂️")
+presentation_page = st.Page("Pages/02_Data_Presentation.py", title = "Data Presentation", icon="🗂️")
 exp_page = st.Page("Pages/03_Exploratory_Analysis.py", title = "Exploratory Analysis", icon="📊")
 pre_page =st.Page("Pages/04_Preprocessing.py", title = "Preprocessing", icon="🧹")
 ml_page = st.Page("Pages/05_ML_Modeling.py", title="Machine Learning", icon="🤖")
