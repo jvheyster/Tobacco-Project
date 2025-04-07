@@ -50,14 +50,6 @@ with st.expander('Age Standardised Tobacco Prevalence'):
 # Merging Datasets Section
 st.subheader("Merging Datasets")
 
-# Enhancing Data with New Variables dropdown
-with st.expander('Enhancing Data with New Variables'):
-    st.write("""
-    With WHO datasets for 162 countries ('Region'), we aimed to categorize them into smaller groups by integrating World Bank data on Income Group (Low, Lower Middle, Upper Middle, High) and Continental Classification (South Asia, Europe & Central Asia, Middle East & North Africa, East Asia & Pacific, Sub-Saharan Africa, Latin America & Caribbean, North America). Since naming conventions differed, we used FuzzyWuzzy for approximate matching and filled unmatched entries using a dictionary linking countries to their income group and continent.
-    """)
-    country = pd.read_csv('Data/CleanCountryClassification.csv')
-    st.dataframe(country)
-
 # Interpolation
 df = pd.read_csv('Data/CleanTobaccoUseStandardised.csv')  
 
@@ -89,6 +81,7 @@ Pred2020_interpolated.groupby('Region')['Overall use']
 
 # Merge interpolated values into the original dataset
 compare_df = df.copy()
+compare_df = compare_df[compare_df['Year'] == 2020]
 compare_df = compare_df.merge(
 Pred2020_interpolated[['Region', 'Year', 'Overall use']],
 on=['Region', 'Year'],
@@ -98,21 +91,29 @@ suffixes=('', ' (2020 interpolated)')
 
 with st.expander('Handling Missing Values'):
     st.write("""
-    Our explanatory variable tables contained data at two-year intervals (2008-2022), but tobacco usage data had mismatched years. Instead of dropping large portions of data, we applied linear interpolation to estimate missing values. Testing on 2020 data showed an accuracy within 0.57%, validating this approach. The real 2020 values are compared with the interpolated 2020 values in the table below:
-    #""")
+    Our explanatory variable tables contained data at two-year intervals (2008-2022), but tobacco usage data had mismatched years. Instead of dropping large portions of data, we applied linear interpolation to estimate missing values. Testing on 2020 data showed a mean accuracy within 0.6%, validating this approach. The real 2020 values are compared with the interpolated 2020 values in the table below:
+    """)
     st.markdown("<h5 style='font-size: 16px;'>Interpolation Test</h5>", unsafe_allow_html=True)
-
-    # Display table
-    st.dataframe(compare_df)
 
     # Compute and display mean and max differences
     compare_df_2020 = compare_df[compare_df["Year"] == 2020]
-    compare_df_2020['diff'] = compare_df_2020['Overall use'] - compare_df_2020['Overall use (2020 interpolated)']
-    mean_diff = compare_df_2020['diff'].mean()
-    max_diff = compare_df_2020['diff'].max()
+    compare_df_2020['Difference'] = compare_df_2020['Overall use'] - compare_df_2020['Overall use (2020 interpolated)']
+    compare_df_2020['Difference'] = compare_df_2020['Difference'].abs()
+    mean_diff = compare_df_2020['Difference'].mean()
+    max_diff = compare_df_2020['Difference'].max()
+
+    # Display table
+    st.dataframe(compare_df_2020)
 
     st.markdown(f"<h3 style='font-size: 16px;'>Mean Difference between Overall Use and Overall Use (2020 interpolated)(where Year in both columns == 2020): {mean_diff:.4f}</h3>", unsafe_allow_html=True)
-    st.markdown(f"<h3 style='font-size: 16px;'>Max Difference between Overall Use and Overall Use (2020 interpolated)(where Year in both columns == 2020): {max_diff:.4f}</h3>", unsafe_allow_html=True)
+
+# Enhancing Data with New Variables dropdown
+with st.expander('Enhancing Data with New Variables'):
+    st.write("""
+    With WHO datasets for 162 countries ('Region'), we aimed to categorize them into smaller groups by integrating World Bank data on Income Group (Low, Lower Middle, Upper Middle, High) and Continental Classification (South Asia, Europe & Central Asia, Middle East & North Africa, East Asia & Pacific, Sub-Saharan Africa, Latin America & Caribbean, North America). Since naming conventions differed, we used FuzzyWuzzy for approximate matching and filled unmatched entries using a dictionary linking countries to their income group and continent.
+    """)
+    country = pd.read_csv('Data/CleanCountryClassification.csv', index_col = 0)
+    st.dataframe(country)
 
 # Display .info() of merged dataset
 with st.expander("Merged Dataset Preview"):
