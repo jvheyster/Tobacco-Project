@@ -66,9 +66,7 @@ def load_mpower_data():
 
 @st.cache_data
 def load_price_data():
-    price = pd.read_csv("Data/tobaccoprice.csv")
-    price = price.rename(columns={"Location": "Region", "Period": "Year", "Value": "Cigarette_price"})
-    price["Jittered_Year"] = price["Year"] + np.random.uniform(-0.5, 0.5, size=len(price))
+    price = pd.read_csv("Data/CleanCigarettePrice.csv")
     return price
 
 age_df = load_age_standard_data()
@@ -182,28 +180,44 @@ st.markdown("---")
 # Graph 5: Cigarette Prices
 # -------------------------------------------
 st.markdown("### International Cigarette Prices Over Time")
+
+# Region selection
 all_countries = sorted(price_df["Region"].unique())
 default = ["New Zealand", "Sri Lanka", "Australia"]
 options = ["All countries"] + all_countries
 selection = st.multiselect("Select countries to compare:", options=options, default=default)
 
+# Filter data
 if "All countries" in selection:
     filtered_price = price_df
+    show_legend = False
 else:
     filtered_price = price_df[price_df["Region"].isin(selection)]
+    show_legend = True
 
-fig5 = px.scatter(
+# Add jitter to Year to reduce overlapping points
+filtered_price["Jittered_Year"] = filtered_price["Year"] + np.random.uniform(-0.5, 0.5, size=len(filtered_price["Year"]))
+
+# Create scatter plot
+fig = px.scatter(
     filtered_price,
     x="Jittered_Year",
     y="Cigarette_price",
     color="Region",
-    hover_name="Region",
-    opacity=0.7,
-    range_y=[0, 20],
-    labels={"Jittered_Year": "Year", "Cigarette_price": "Price (Intl $)"}
+    hover_data=["Region", "Cigarette_price"],
+    opacity=0.7
 )
-fig5.update_layout(width=1000, height=500, legend_title="Country")
-st.plotly_chart(fig5)
+
+fig.update_layout(
+    width=1000,
+    height=600,
+    xaxis_title="Year",
+    yaxis_title="Price (International Dollars)",
+    showlegend= show_legend
+)
+
+# Display the figure in Streamlit
+st.plotly_chart(fig)
 st.markdown("*This scatterplot tracks changes in cigarette prices by country over time. Price increases vary widely, with some countries clustering near the median and others demonstrating sharp increases.*")
 
 st.markdown("---")
