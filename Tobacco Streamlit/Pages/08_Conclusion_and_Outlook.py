@@ -56,16 +56,16 @@ def load_effectiveness_data():
     df[['average_policy', 'Overall use']] = df[['average_policy', 'Overall use']].apply(pd.to_numeric, errors='coerce')
     df = df.dropna(subset=['Region', 'Year', 'average_policy', 'Overall use'])
 
-    df_2007 = df[df['Year'] == 2007].set_index('Region')
+    df_2008 = df[df['Year'] == 2008].set_index('Region')
     df_2022 = df[df['Year'] == 2022].set_index('Region')
 
-    common_regions = df_2007.index.intersection(df_2022.index)
-    df_2007 = df_2007.loc[common_regions]
+    common_regions = df_2008.index.intersection(df_2022.index)
+    df_2008 = df_2008.loc[common_regions]
     df_2022 = df_2022.loc[common_regions]
 
     result_df = pd.DataFrame(index=common_regions)
-    result_df['policy_diff'] = df_2022['average_policy'] - df_2007['average_policy']
-    result_df['prevalence_diff'] = df_2022['Overall use'] - df_2007['Overall use']
+    result_df['policy_diff'] = df_2022['average_policy'] - df_2008['average_policy']
+    result_df['prevalence_diff'] = df_2022['Overall use'] - df_2008['Overall use']
     result_df['effect'] = result_df['policy_diff'].apply(lambda x: "↑" if x > 0 else ("↓" if x < 0 else "=")) + \
                           result_df['prevalence_diff'].apply(lambda x: "↓" if x < 0 else ("↑" if x > 0 else "="))
     result_df['Region'] = result_df.index
