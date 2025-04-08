@@ -55,7 +55,7 @@ with st.expander("### 🔧 Initial Models"):
                 "Train": [feature_importance_data["Linear Regression"]["Initial Model"]["Train MAE"],
                         feature_importance_data["Decision Tree Regressor"]["Initial Model"]["Train MAE"],
                         feature_importance_data["Random Forest Regressor"]["Initial Model"]["Train MAE"]],
-                "Test":  [feature_importance_data["Linear Regression"]["Initial Model"]["Train MAE"],
+                "Test":  [feature_importance_data["Linear Regression"]["Initial Model"]["Test MAE"],
                         feature_importance_data["Decision Tree Regressor"]["Initial Model"]["Test MAE"],
                         feature_importance_data["Random Forest Regressor"]["Initial Model"]["Test MAE"]]
             }, index=["Linear Regression", "Decision Tree Regressor", "Random Forest Regressor"]).T)
@@ -75,7 +75,7 @@ with st.expander("### 🔧 Initial Models"):
                 "Train": [feature_importance_data["Linear Regression"]["Models Without Region"]["Train MAE"],
                         feature_importance_data["Decision Tree Regressor"]["Models Without Region"]["Train MAE"],
                         feature_importance_data["Random Forest Regressor"]["Models Without Region"]["Train MAE"]],
-                "Test":  [feature_importance_data["Linear Regression"]["Models Without Region"]["Train MAE"],
+                "Test":  [feature_importance_data["Linear Regression"]["Models Without Region"]["Test MAE"],
                         feature_importance_data["Decision Tree Regressor"]["Models Without Region"]["Test MAE"],
                         feature_importance_data["Random Forest Regressor"]["Models Without Region"]["Test MAE"]]
             }, index=["Linear Regression", "Decision Tree Regressor", "Random Forest Regressor"]).T)
