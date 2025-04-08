@@ -128,7 +128,8 @@ key = (stratification_level, gender_filter)
 if key in table_mapping:
     try:
         df_result = pd.read_csv(table_mapping[key])
-        st.dataframe(df_result)
+        df_result = df_result.set_index(df_result.columns[0])  # Set the first column as index
+        st.write(df_result)  # Use st.write instead of st.dataframe to allow for horizontal scrolling
     except FileNotFoundError:
         st.warning("Results table not found. Please upload the file: {}".format(table_mapping[key]))
 else:
@@ -139,29 +140,30 @@ st.markdown("### Key Takeaways and Interpretation")
 
 with st.expander("Most Effective Policies"):
     st.markdown("""
-    **Risk Warnings**: Consistently effective, especially in LMICs and East Asia & Pacific — likely due to low-cost, standardized design (e.g., pack labeling) and strong impact in low-awareness settings.
-
-    **Cigarette Prices**: Only significant among women in HICs, suggesting gendered price sensitivity and effective enforcement; no effect in LMICs may reflect illicit trade or poor tax pass-through.
+    **Risk Warnings**:  
+    * Consistently effective across most models, especially in LMICs and East Asia & Pacific, with a greater impact on men than women.
+    * Likely driven by lower baseline awareness and strong implementation fidelity, with the low-cost, standardized design (e.g., pack labeling) having a significant impact in low-awareness settings.
     """)
 
 with st.expander("Unexpected Findings"):
     st.markdown("""
-    **Advertisement Bans**: Often linked to higher smoking rates — possibly due to weak enforcement, policy loopholes, or reactive adoption in response to rising use.
-
-    **Cessation Support**: Correlated with increased smoking in some female models; may reflect targeting of high-risk groups or unsuccessful quit attempts.
-    """)
-
-with st.expander("Context-Limited Policies"):
-    st.markdown("""
-    **Media Campaigns**: Borderline impact only in HICs and European men; likely due to inconsistent quality, reach, or audience engagement.
-
-    **Tax Increases**: No significant effect overall — possibly due to low tax rates, compensatory strategies, or illicit markets undermining policy impact.
+    **Cigarette Prices and Taxes**:
+    * Taxes showed no measurable effect.
+    * Prices had limited overall impact, with significant effects only among women in high-income countries.
+    * May reflect gender-specific price sensitivity, low tax levels, compensatory behaviors, or access to illicit tobacco products.
+    
+    **Advertisement Bans**:
+    * Unexpectedly associated with higher smoking rates in several models.
+    * Possible reasons include weak enforcement, policy loopholes, or adoption of bans as a reaction to already increasing tobacco use.
     """)
 
 with st.expander("Policy Interactions"):
     st.markdown("""
-    **Media Campaign × Risk Warning**: Showed a robust joint effect in isolation, indicating the benefit of combining awareness tools — though significance weakened in full models, likely due to multicollinearity.
+    **Media Campaign × Risk Warning**:
+    * Demonstrated a synergistic effect when tested alone.
+    * Significance weakened in full models, likely due to multicollinearity and overlapping policy effects.
     """)
+
 
 # --- Strengths and Limitations ---
 st.markdown("### Strengths and Limitations")
@@ -169,7 +171,7 @@ st.markdown("### Strengths and Limitations")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown("#### Strengths")
+    st.markdown("#### Strengths ✅")
     st.markdown("""
     * Robust fixed effects model to control for country-specific factors and global trends.
     * Stratified and gender-specific models uncovered contextual differences in policy effectiveness.
@@ -177,7 +179,7 @@ with col1:
     """)
 
 with col2:
-    st.markdown("#### Limitations")
+    st.markdown("#### Limitations ❌")
     st.markdown("""
     * High multicollinearity made it difficult to isolate individual policy effects.
     * Small sample sizes in stratified models reduced statistical power.
