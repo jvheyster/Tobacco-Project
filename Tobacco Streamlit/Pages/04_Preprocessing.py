@@ -15,14 +15,6 @@ In order to proceed with machine learning and statistical modeling we needed to 
 # Data Cleaning section
 st.subheader("Data Cleaning")
 
-# MPOWER Table dropdown
-with st.expander('MPOWER Table'):
-    st.write("""
-    Policy implementation was originally rated on a 1-5 scale, with 1 indicating no data. To improve clarity, we adjusted the scale to 0-4, where 0 now represents no data.
-    """)
-    emp = pd.read_csv("Data/CleanMPOWER.csv")
-    st.dataframe(emp)
-
 # Tobacco Control Table dropdown
 with st.expander('Tobacco Control Table'):
     st.write("""
@@ -30,6 +22,14 @@ with st.expander('Tobacco Control Table'):
     """)
     tob_ctrl = pd.read_csv("Data/CleanTobaccoControl.csv")
     st.dataframe(tob_ctrl)
+
+# MPOWER Table dropdown
+with st.expander('MPOWER Table'):
+    st.write("""
+    Policy implementation was originally rated on a 1-5 scale, with 1 indicating no data. To improve clarity, we adjusted the scale to 0-4, where 0 now represents no data.
+    """)
+    emp = pd.read_csv("Data/CleanMPOWER.csv")
+    st.dataframe(emp)
 
 # Cigarette Price dropdown
 with st.expander('Cigarette Price'):
