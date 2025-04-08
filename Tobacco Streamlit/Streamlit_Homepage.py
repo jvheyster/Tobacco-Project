@@ -31,10 +31,10 @@ st.markdown("""
 ## What This Presentation Covers
 """)
 
-with st.expander("Background"):
+with st.expander("Introduction"):
     st.markdown("This section provides a brief overview of tobacco use globally, introduces the MPOWER policies by WHO, and outlines the objectives and relevance of our QUIT Project.")
 
-with st.expander("Data Presentation"):
+with st.expander("Data Sources"):
     st.markdown("Detailed description of WHO tobacco-related datasets used in the project, the variables involved, and an initial exploration of key characteristics and trends in tobacco prevalence.")
 
 with st.expander("Exploratory Analysis"):

@@ -122,5 +122,3 @@ st.markdown("""
 
 st.markdown("Ultimately, global tobacco control is advancing—but its success depends on how well policies are adapted, integrated, and implemented in diverse contexts.")
 
-with st.expander("Download Summary"):
-    st.download_button("Download Summary PDF", "Fake_Summary_Bytes", file_name="QUIT_summary.pdf")
