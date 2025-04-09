@@ -118,7 +118,7 @@ with st.expander("### ⚙️ Model Optimisation"):
     - **Ridge regression regularisation** was not able to overcome the importance of Region in predictions. 
  
     
-    **Observation**  
+    **Observations**  
     - The predictive importance of **Region** could not be retained without reducing the importance of other explanatory variables.  
     - We therefore decided to drop **Region** and **Continental Classification** to proceed with analysing feature importance
     - **Linear Regression** performed the best of all models, so we selected this model for our feature importance analysis.          
