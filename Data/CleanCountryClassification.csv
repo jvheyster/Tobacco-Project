@@ -1,0 +1,1756 @@
+,Region,Year,Monitor,exposure_protect,cessation_support,risk_warning,advertisement_ban,tax_increase,media_campaign,Continental Classification,Income Group
+0,Afghanistan,2022,2,4,2,1,4,1,1,South Asia,LIC
+1,Afghanistan,2020,2,4,2,1,4,1,1,South Asia,LIC
+2,Afghanistan,2018,2,4,2,1,4,1,1,South Asia,LIC
+3,Afghanistan,2016,2,4,2,3,4,1,1,South Asia,LIC
+4,Afghanistan,2014,2,2,2,1,3,2,1,South Asia,LIC
+5,Afghanistan,2012,1,2,2,1,3,1,1,South Asia,LIC
+6,Afghanistan,2010,1,2,2,1,3,1,1,South Asia,LIC
+7,Afghanistan,2008,1,2,2,1,3,1,0,South Asia,LIC
+8,Afghanistan,2007,1,2,2,1,3,0,0,South Asia,LIC
+9,Albania,2022,2,4,3,4,4,3,1,Europe & Central Asia,UMIC
+10,Albania,2020,2,4,3,4,4,3,1,Europe & Central Asia,UMIC
+11,Albania,2018,2,4,3,3,4,3,1,Europe & Central Asia,UMIC
+12,Albania,2016,2,4,3,3,4,3,2,Europe & Central Asia,UMIC
+13,Albania,2014,2,4,3,3,4,3,1,Europe & Central Asia,UMIC
+14,Albania,2012,3,4,3,3,4,3,1,Europe & Central Asia,UMIC
+15,Albania,2010,3,4,2,3,4,3,4,Europe & Central Asia,UMIC
+16,Albania,2008,3,4,2,3,4,3,0,Europe & Central Asia,UMIC
+17,Albania,2007,3,4,1,2,4,0,0,Europe & Central Asia,UMIC
+18,Algeria,2022,2,2,2,1,4,2,3,Middle East & North Africa,UMIC
+19,Algeria,2020,2,2,2,1,4,2,1,Middle East & North Africa,UMIC
+20,Algeria,2018,3,2,2,1,4,2,1,Middle East & North Africa,UMIC
+21,Algeria,2016,2,2,2,1,3,2,1,Middle East & North Africa,UMIC
+22,Algeria,2014,3,2,2,1,3,2,1,Middle East & North Africa,UMIC
+23,Algeria,2012,3,2,2,1,3,3,1,Middle East & North Africa,UMIC
+24,Algeria,2010,2,2,2,1,3,2,1,Middle East & North Africa,UMIC
+25,Algeria,2008,1,2,2,1,3,3,0,Middle East & North Africa,UMIC
+26,Algeria,2007,2,2,2,1,3,0,0,Middle East & North Africa,UMIC
+27,Andorra,2022,2,2,3,1,1,4,1,Europe & Central Asia,HIC
+28,Andorra,2020,2,2,3,1,1,4,1,Europe & Central Asia,HIC
+29,Andorra,2018,2,2,3,1,1,4,1,Europe & Central Asia,HIC
+30,Andorra,2016,2,2,3,1,1,3,1,Europe & Central Asia,HIC
+31,Andorra,2014,2,2,3,1,1,3,1,Europe & Central Asia,HIC
+32,Andorra,2012,2,2,3,1,1,3,1,Europe & Central Asia,HIC
+33,Andorra,2010,1,1,3,1,1,3,1,Europe & Central Asia,HIC
+34,Andorra,2008,1,1,3,1,1,1,0,Europe & Central Asia,HIC
+35,Andorra,2007,2,1,3,1,1,0,0,Europe & Central Asia,HIC
+36,Angola,2022,1,2,3,1,3,1,1,Sub-Saharan Africa,LMIC
+37,Angola,2020,1,2,3,1,3,1,4,Sub-Saharan Africa,LMIC
+38,Angola,2018,1,2,3,1,3,1,1,Sub-Saharan Africa,LMIC
+39,Angola,2016,1,2,2,1,1,1,1,Sub-Saharan Africa,LMIC
+40,Angola,2014,1,2,2,1,1,1,1,Sub-Saharan Africa,LMIC
+41,Angola,2012,1,2,2,1,1,1,1,Sub-Saharan Africa,LMIC
+42,Angola,2010,1,2,2,1,1,1,1,Sub-Saharan Africa,LMIC
+43,Angola,2008,1,1,2,1,1,1,0,Sub-Saharan Africa,LMIC
+44,Angola,2007,1,1,2,1,1,0,0,Sub-Saharan Africa,LMIC
+45,Antigua and Barbuda,2022,2,4,1,3,4,1,2,Latin America & Caribbean,HIC
+46,Antigua and Barbuda,2020,2,4,1,3,4,1,3,Latin America & Caribbean,HIC
+47,Antigua and Barbuda,2018,2,4,2,3,4,1,1,Latin America & Caribbean,HIC
+48,Antigua and Barbuda,2016,1,1,2,1,1,1,2,Latin America & Caribbean,HIC
+49,Antigua and Barbuda,2014,2,1,2,1,1,1,1,Latin America & Caribbean,HIC
+50,Antigua and Barbuda,2012,2,1,2,1,1,1,1,Latin America & Caribbean,HIC
+51,Antigua and Barbuda,2010,2,1,2,1,1,1,1,Latin America & Caribbean,HIC
+52,Antigua and Barbuda,2008,2,1,2,1,1,1,0,Latin America & Caribbean,HIC
+53,Antigua and Barbuda,2007,2,1,2,1,1,0,0,Latin America & Caribbean,HIC
+54,Argentina,2022,3,4,3,4,3,4,1,Latin America & Caribbean,UMIC
+55,Argentina,2020,3,4,3,4,3,4,1,Latin America & Caribbean,UMIC
+56,Argentina,2018,3,4,3,4,3,4,2,Latin America & Caribbean,UMIC
+57,Argentina,2016,3,4,3,4,3,4,3,Latin America & Caribbean,UMIC
+58,Argentina,2014,4,4,3,4,3,3,3,Latin America & Caribbean,UMIC
+59,Argentina,2012,4,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+60,Argentina,2010,4,1,3,1,1,3,3,Latin America & Caribbean,UMIC
+61,Argentina,2008,4,1,3,1,1,3,0,Latin America & Caribbean,UMIC
+62,Argentina,2007,3,1,3,1,1,0,0,Latin America & Caribbean,UMIC
+63,Armenia,2022,4,3,3,4,4,2,2,Europe & Central Asia,UMIC
+64,Armenia,2020,4,3,3,4,4,2,3,Europe & Central Asia,UMIC
+65,Armenia,2018,4,2,3,4,1,2,1,Europe & Central Asia,UMIC
+66,Armenia,2016,4,2,3,4,1,2,1,Europe & Central Asia,UMIC
+67,Armenia,2014,4,2,3,3,1,2,3,Europe & Central Asia,UMIC
+68,Armenia,2012,4,2,3,2,1,2,1,Europe & Central Asia,UMIC
+69,Armenia,2010,4,2,2,2,1,1,1,Europe & Central Asia,UMIC
+70,Armenia,2008,4,2,2,2,1,1,0,Europe & Central Asia,UMIC
+71,Armenia,2007,4,2,2,2,1,0,0,Europe & Central Asia,UMIC
+72,Australia,2022,4,4,3,4,3,4,1,East Asia & Pacific,HIC
+73,Australia,2020,4,4,3,4,3,3,1,East Asia & Pacific,HIC
+74,Australia,2018,4,4,4,4,3,4,4,East Asia & Pacific,HIC
+75,Australia,2016,4,4,4,4,3,3,4,East Asia & Pacific,HIC
+76,Australia,2014,4,4,4,4,3,3,4,East Asia & Pacific,HIC
+77,Australia,2012,4,4,4,4,3,3,4,East Asia & Pacific,HIC
+78,Australia,2010,4,4,4,4,3,3,4,East Asia & Pacific,HIC
+79,Australia,2008,4,4,4,4,3,3,0,East Asia & Pacific,HIC
+80,Australia,2007,4,4,4,4,3,0,0,East Asia & Pacific,HIC
+81,Austria,2022,4,2,4,4,3,3,1,Europe & Central Asia,HIC
+82,Austria,2020,4,2,4,4,3,3,3,Europe & Central Asia,HIC
+83,Austria,2018,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+84,Austria,2016,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+85,Austria,2014,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+86,Austria,2012,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+87,Austria,2010,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+88,Austria,2008,4,1,3,2,3,3,0,Europe & Central Asia,HIC
+89,Austria,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+90,Azerbaijan,2022,4,2,2,2,4,3,3,Europe & Central Asia,UMIC
+91,Azerbaijan,2020,4,2,2,2,4,2,1,Europe & Central Asia,UMIC
+92,Azerbaijan,2018,4,2,2,2,4,2,3,Europe & Central Asia,UMIC
+93,Azerbaijan,2016,4,2,2,2,3,1,1,Europe & Central Asia,UMIC
+94,Azerbaijan,2014,4,2,1,2,3,1,1,Europe & Central Asia,UMIC
+95,Azerbaijan,2012,3,2,2,2,3,1,1,Europe & Central Asia,UMIC
+96,Azerbaijan,2010,2,2,2,2,3,1,1,Europe & Central Asia,UMIC
+97,Azerbaijan,2008,1,2,1,1,3,1,0,Europe & Central Asia,UMIC
+98,Azerbaijan,2007,1,2,1,1,3,0,0,Europe & Central Asia,UMIC
+99,Bahamas,2022,2,1,3,1,1,3,1,Latin America & Caribbean,HIC
+100,Bahamas,2020,2,1,3,1,1,2,1,Latin America & Caribbean,HIC
+101,Bahamas,2018,4,1,3,1,1,1,1,Latin America & Caribbean,HIC
+102,Bahamas,2016,4,1,3,1,1,2,1,Latin America & Caribbean,HIC
+103,Bahamas,2014,3,1,3,1,1,2,1,Latin America & Caribbean,HIC
+104,Bahamas,2012,3,1,3,1,1,2,1,Latin America & Caribbean,HIC
+105,Bahamas,2010,3,1,2,1,1,2,1,Latin America & Caribbean,HIC
+106,Bahamas,2008,3,1,2,1,1,2,0,Latin America & Caribbean,HIC
+107,Bahamas,2007,3,1,2,1,1,0,0,Latin America & Caribbean,HIC
+108,Bahrain,2022,2,1,3,3,4,3,4,Middle East & North Africa,HIC
+109,Bahrain,2020,3,1,3,3,4,3,3,Middle East & North Africa,HIC
+110,Bahrain,2018,2,1,3,3,4,3,2,Middle East & North Africa,HIC
+111,Bahrain,2016,2,1,3,3,4,1,2,Middle East & North Africa,HIC
+112,Bahrain,2014,1,1,3,3,4,1,1,Middle East & North Africa,HIC
+113,Bahrain,2012,2,1,3,3,4,1,4,Middle East & North Africa,HIC
+114,Bahrain,2010,2,1,4,1,3,2,3,Middle East & North Africa,HIC
+115,Bahrain,2008,3,1,4,1,1,2,0,Middle East & North Africa,HIC
+116,Bahrain,2007,3,1,4,1,1,0,0,Middle East & North Africa,HIC
+117,Bangladesh,2022,2,2,2,4,3,3,3,South Asia,LMIC
+118,Bangladesh,2020,2,2,2,4,3,3,3,South Asia,LMIC
+119,Bangladesh,2018,4,2,2,4,3,3,3,South Asia,LMIC
+120,Bangladesh,2016,4,2,2,4,3,3,4,South Asia,LMIC
+121,Bangladesh,2014,4,1,2,3,3,3,4,South Asia,LMIC
+122,Bangladesh,2012,4,1,2,2,3,3,4,South Asia,LMIC
+123,Bangladesh,2010,3,1,2,2,3,2,1,South Asia,LMIC
+124,Bangladesh,2008,3,1,2,2,3,2,0,South Asia,LMIC
+125,Bangladesh,2007,3,1,2,2,3,0,0,South Asia,LMIC
+126,Barbados,2022,1,4,3,4,1,2,1,Latin America & Caribbean,HIC
+127,Barbados,2020,1,4,3,4,1,1,1,Latin America & Caribbean,HIC
+128,Barbados,2018,2,4,3,4,1,2,1,Latin America & Caribbean,HIC
+129,Barbados,2016,4,4,3,1,1,2,1,Latin America & Caribbean,HIC
+130,Barbados,2014,4,4,3,1,1,2,1,Latin America & Caribbean,HIC
+131,Barbados,2012,4,4,3,1,1,2,1,Latin America & Caribbean,HIC
+132,Barbados,2010,4,4,2,1,1,2,4,Latin America & Caribbean,HIC
+133,Barbados,2008,3,1,2,1,1,2,0,Latin America & Caribbean,HIC
+134,Barbados,2007,3,1,2,1,1,0,0,Latin America & Caribbean,HIC
+135,Belarus,2022,4,1,3,4,3,3,3,Europe & Central Asia,UMIC
+136,Belarus,2020,3,1,3,4,3,3,4,Europe & Central Asia,UMIC
+137,Belarus,2018,3,1,3,4,3,3,4,Europe & Central Asia,UMIC
+138,Belarus,2016,3,1,3,4,3,2,1,Europe & Central Asia,UMIC
+139,Belarus,2014,2,1,3,3,3,3,4,Europe & Central Asia,UMIC
+140,Belarus,2012,2,1,3,2,3,2,4,Europe & Central Asia,UMIC
+141,Belarus,2010,2,1,3,2,3,2,1,Europe & Central Asia,UMIC
+142,Belarus,2008,3,1,3,2,3,2,0,Europe & Central Asia,UMIC
+143,Belarus,2007,3,1,3,1,3,0,0,Europe & Central Asia,UMIC
+144,Belgium,2022,4,1,3,4,3,4,1,Europe & Central Asia,HIC
+145,Belgium,2020,4,1,3,4,3,4,1,Europe & Central Asia,HIC
+146,Belgium,2018,4,1,3,4,3,4,1,Europe & Central Asia,HIC
+147,Belgium,2016,4,1,3,4,3,4,3,Europe & Central Asia,HIC
+148,Belgium,2014,4,1,3,3,3,4,1,Europe & Central Asia,HIC
+149,Belgium,2012,4,1,3,3,3,4,1,Europe & Central Asia,HIC
+150,Belgium,2010,4,1,3,3,3,4,1,Europe & Central Asia,HIC
+151,Belgium,2008,4,2,4,3,3,4,0,Europe & Central Asia,HIC
+152,Belgium,2007,4,2,4,3,3,0,0,Europe & Central Asia,HIC
+153,Belize,2022,1,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+154,Belize,2020,1,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+155,Belize,2018,2,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+156,Belize,2016,2,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+157,Belize,2014,2,1,1,1,1,2,1,Latin America & Caribbean,UMIC
+158,Belize,2012,2,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+159,Belize,2010,3,1,2,1,1,3,1,Latin America & Caribbean,UMIC
+160,Belize,2008,3,1,2,1,1,3,0,Latin America & Caribbean,UMIC
+161,Belize,2007,3,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+162,Benin,2022,1,4,1,4,4,1,2,Sub-Saharan Africa,LMIC
+163,Benin,2020,3,4,1,2,4,1,1,Sub-Saharan Africa,LMIC
+164,Benin,2018,3,4,1,2,4,1,1,Sub-Saharan Africa,LMIC
+165,Benin,2016,3,3,3,2,3,1,1,Sub-Saharan Africa,LMIC
+166,Benin,2014,2,3,3,2,3,1,3,Sub-Saharan Africa,LMIC
+167,Benin,2012,3,3,2,2,3,1,3,Sub-Saharan Africa,LMIC
+168,Benin,2010,3,2,2,2,3,1,1,Sub-Saharan Africa,LMIC
+169,Benin,2008,2,2,2,2,3,1,0,Sub-Saharan Africa,LMIC
+170,Benin,2007,1,2,2,2,3,0,0,Sub-Saharan Africa,LMIC
+171,Bhutan,2022,4,1,3,1,3,1,1,South Asia,LMIC
+172,Bhutan,2020,4,1,3,1,3,1,1,South Asia,LMIC
+173,Bhutan,2018,4,1,3,1,3,0,1,South Asia,LMIC
+174,Bhutan,2016,4,1,3,1,3,0,1,South Asia,LMIC
+175,Bhutan,2014,4,1,3,1,3,0,4,South Asia,LMIC
+176,Bhutan,2012,2,3,1,1,3,0,4,South Asia,LMIC
+177,Bhutan,2010,2,4,1,1,3,0,4,South Asia,LMIC
+178,Bhutan,2008,2,3,1,1,1,0,0,South Asia,LMIC
+179,Bhutan,2007,2,3,1,1,1,0,0,South Asia,LMIC
+180,Bolivia (Plurinational State of),2022,3,4,3,4,3,2,1,Latin America & Caribbean,LMIC
+181,Bolivia (Plurinational State of),2020,3,4,1,4,3,2,3,Latin America & Caribbean,LMIC
+182,Bolivia (Plurinational State of),2018,3,2,1,4,3,2,3,Latin America & Caribbean,LMIC
+183,Bolivia (Plurinational State of),2016,3,2,3,4,3,2,1,Latin America & Caribbean,LMIC
+184,Bolivia (Plurinational State of),2014,3,2,3,4,3,2,1,Latin America & Caribbean,LMIC
+185,Bolivia (Plurinational State of),2012,2,2,3,4,3,2,2,Latin America & Caribbean,LMIC
+186,Bolivia (Plurinational State of),2010,1,2,2,4,3,2,1,Latin America & Caribbean,LMIC
+187,Bolivia (Plurinational State of),2008,1,2,2,3,3,2,0,Latin America & Caribbean,LMIC
+188,Bolivia (Plurinational State of),2007,1,2,2,3,3,0,0,Latin America & Caribbean,LMIC
+189,Bosnia and Herzegovina,2022,2,1,3,1,1,4,1,Europe & Central Asia,UMIC
+190,Bosnia and Herzegovina,2020,2,1,3,1,1,4,3,Europe & Central Asia,UMIC
+191,Bosnia and Herzegovina,2018,2,1,3,1,1,4,1,Europe & Central Asia,UMIC
+192,Bosnia and Herzegovina,2016,2,1,3,1,3,4,1,Europe & Central Asia,UMIC
+193,Bosnia and Herzegovina,2014,2,1,3,1,3,4,1,Europe & Central Asia,UMIC
+194,Bosnia and Herzegovina,2012,2,1,3,1,3,3,1,Europe & Central Asia,UMIC
+195,Bosnia and Herzegovina,2010,2,1,2,1,3,3,1,Europe & Central Asia,UMIC
+196,Bosnia and Herzegovina,2008,4,1,2,1,3,3,0,Europe & Central Asia,UMIC
+197,Bosnia and Herzegovina,2007,4,1,2,1,3,0,0,Europe & Central Asia,UMIC
+198,Botswana,2022,2,1,3,1,3,3,2,Sub-Saharan Africa,UMIC
+199,Botswana,2020,2,1,3,1,3,3,3,Sub-Saharan Africa,UMIC
+200,Botswana,2018,2,1,3,1,3,2,2,Sub-Saharan Africa,UMIC
+201,Botswana,2016,2,1,2,1,3,2,1,Sub-Saharan Africa,UMIC
+202,Botswana,2014,2,1,2,1,3,3,1,Sub-Saharan Africa,UMIC
+203,Botswana,2012,3,1,2,1,3,2,1,Sub-Saharan Africa,UMIC
+204,Botswana,2010,3,1,2,1,3,3,3,Sub-Saharan Africa,UMIC
+205,Botswana,2008,3,1,2,1,3,2,0,Sub-Saharan Africa,UMIC
+206,Botswana,2007,3,1,2,1,3,0,0,Sub-Saharan Africa,UMIC
+207,Brazil,2022,4,4,4,4,4,4,2,Latin America & Caribbean,UMIC
+208,Brazil,2020,4,4,4,4,4,4,2,Latin America & Caribbean,UMIC
+209,Brazil,2018,4,4,4,4,4,4,4,Latin America & Caribbean,UMIC
+210,Brazil,2016,4,4,4,4,4,3,2,Latin America & Caribbean,UMIC
+211,Brazil,2014,4,4,4,4,4,3,3,Latin America & Caribbean,UMIC
+212,Brazil,2012,3,4,4,4,4,3,2,Latin America & Caribbean,UMIC
+213,Brazil,2010,2,1,4,4,3,3,2,Latin America & Caribbean,UMIC
+214,Brazil,2008,2,1,4,4,3,3,0,Latin America & Caribbean,UMIC
+215,Brazil,2007,2,1,4,4,3,0,0,Latin America & Caribbean,UMIC
+216,Brunei Darussalam,2022,4,4,3,4,3,0,3,East Asia & Pacific,HIC
+217,Brunei Darussalam,2020,4,4,3,4,3,0,3,East Asia & Pacific,HIC
+218,Brunei Darussalam,2018,4,4,3,4,3,0,4,East Asia & Pacific,HIC
+219,Brunei Darussalam,2016,4,4,4,4,3,0,1,East Asia & Pacific,HIC
+220,Brunei Darussalam,2014,4,4,4,4,3,0,3,East Asia & Pacific,HIC
+221,Brunei Darussalam,2012,2,4,3,4,3,3,1,East Asia & Pacific,HIC
+222,Brunei Darussalam,2010,1,3,3,4,3,3,3,East Asia & Pacific,HIC
+223,Brunei Darussalam,2008,1,3,3,4,3,0,0,East Asia & Pacific,HIC
+224,Brunei Darussalam,2007,1,3,3,4,3,0,0,East Asia & Pacific,HIC
+225,Bulgaria,2022,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+226,Bulgaria,2020,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+227,Bulgaria,2018,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+228,Bulgaria,2016,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+229,Bulgaria,2014,4,4,3,2,3,4,3,Europe & Central Asia,HIC
+230,Bulgaria,2012,4,4,3,2,3,4,3,Europe & Central Asia,HIC
+231,Bulgaria,2010,4,1,3,2,3,4,1,Europe & Central Asia,HIC
+232,Bulgaria,2008,4,1,3,2,3,4,0,Europe & Central Asia,HIC
+233,Bulgaria,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+234,Burkina Faso,2022,2,4,2,4,3,2,1,Sub-Saharan Africa,LIC
+235,Burkina Faso,2020,1,4,2,4,3,2,1,Sub-Saharan Africa,LIC
+236,Burkina Faso,2018,2,4,2,4,3,2,1,Sub-Saharan Africa,LIC
+237,Burkina Faso,2016,2,4,2,4,3,2,1,Sub-Saharan Africa,LIC
+238,Burkina Faso,2014,2,4,2,3,3,2,1,Sub-Saharan Africa,LIC
+239,Burkina Faso,2012,1,4,2,3,3,2,1,Sub-Saharan Africa,LIC
+240,Burkina Faso,2010,1,4,2,1,3,2,1,Sub-Saharan Africa,LIC
+241,Burkina Faso,2008,2,1,2,1,3,2,0,Sub-Saharan Africa,LIC
+242,Burkina Faso,2007,2,1,2,1,3,0,0,Sub-Saharan Africa,LIC
+243,Burundi,2022,1,4,2,2,3,2,1,Sub-Saharan Africa,LIC
+244,Burundi,2020,1,4,1,2,3,2,1,Sub-Saharan Africa,LIC
+245,Burundi,2018,1,4,1,2,3,2,1,Sub-Saharan Africa,LIC
+246,Burundi,2016,1,1,1,1,1,2,1,Sub-Saharan Africa,LIC
+247,Burundi,2014,1,1,1,1,1,2,1,Sub-Saharan Africa,LIC
+248,Burundi,2012,2,1,1,1,1,3,1,Sub-Saharan Africa,LIC
+249,Burundi,2010,2,1,1,1,1,3,1,Sub-Saharan Africa,LIC
+250,Burundi,2008,2,1,1,1,1,3,0,Sub-Saharan Africa,LIC
+251,Burundi,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+252,Cote d'Ivoire,2022,2,1,3,2,4,2,3,Sub-Saharan Africa,LMIC
+253,Cote d'Ivoire,2020,2,1,3,1,4,2,3,Sub-Saharan Africa,LMIC
+254,Cote d'Ivoire,2018,2,1,3,1,1,2,3,Sub-Saharan Africa,LMIC
+255,Cote d'Ivoire,2016,1,1,3,1,1,2,3,Sub-Saharan Africa,LMIC
+256,Cote d'Ivoire,2014,2,1,3,1,1,2,3,Sub-Saharan Africa,LMIC
+257,Cote d'Ivoire,2012,2,1,2,1,1,2,1,Sub-Saharan Africa,LMIC
+258,Cote d'Ivoire,2010,2,1,2,1,1,2,2,Sub-Saharan Africa,LMIC
+259,Cote d'Ivoire,2008,1,1,2,1,1,2,0,Sub-Saharan Africa,LMIC
+260,Cote d'Ivoire,2007,1,1,2,1,1,0,0,Sub-Saharan Africa,LMIC
+261,Cabo Verde,2022,2,2,2,2,4,2,1,Sub-Saharan Africa,LMIC
+262,Cabo Verde,2020,2,1,2,1,3,1,4,Sub-Saharan Africa,LMIC
+263,Cabo Verde,2018,1,1,3,1,3,1,3,Sub-Saharan Africa,LMIC
+264,Cabo Verde,2016,4,1,3,1,3,1,1,Sub-Saharan Africa,LMIC
+265,Cabo Verde,2014,4,1,3,1,3,1,1,Sub-Saharan Africa,LMIC
+266,Cabo Verde,2012,4,1,3,1,3,1,1,Sub-Saharan Africa,LMIC
+267,Cabo Verde,2010,4,1,3,1,3,1,1,Sub-Saharan Africa,LMIC
+268,Cabo Verde,2008,3,1,3,1,3,1,0,Sub-Saharan Africa,LMIC
+269,Cabo Verde,2007,3,1,3,1,3,0,0,Sub-Saharan Africa,LMIC
+270,Cambodia,2022,4,4,3,4,3,2,3,East Asia & Pacific,LMIC
+271,Cambodia,2020,4,4,3,4,3,2,2,East Asia & Pacific,LMIC
+272,Cambodia,2018,4,4,2,4,3,2,3,East Asia & Pacific,LMIC
+273,Cambodia,2016,4,4,2,4,3,2,4,East Asia & Pacific,LMIC
+274,Cambodia,2014,4,3,2,2,3,1,1,East Asia & Pacific,LMIC
+275,Cambodia,2012,4,1,2,2,3,1,4,East Asia & Pacific,LMIC
+276,Cambodia,2010,3,1,2,2,1,1,3,East Asia & Pacific,LMIC
+277,Cambodia,2008,3,1,2,1,1,1,0,East Asia & Pacific,LMIC
+278,Cambodia,2007,3,1,2,1,1,0,0,East Asia & Pacific,LMIC
+279,Cameroon,2022,1,2,3,4,3,2,3,Sub-Saharan Africa,LMIC
+280,Cameroon,2020,1,2,3,4,3,2,1,Sub-Saharan Africa,LMIC
+281,Cameroon,2018,3,2,3,4,3,2,1,Sub-Saharan Africa,LMIC
+282,Cameroon,2016,3,2,3,3,3,2,4,Sub-Saharan Africa,LMIC
+283,Cameroon,2014,3,2,1,3,3,2,4,Sub-Saharan Africa,LMIC
+284,Cameroon,2012,1,2,2,3,3,2,1,Sub-Saharan Africa,LMIC
+285,Cameroon,2010,1,1,2,3,3,2,1,Sub-Saharan Africa,LMIC
+286,Cameroon,2008,1,1,2,3,3,2,0,Sub-Saharan Africa,LMIC
+287,Cameroon,2007,1,1,2,3,3,0,0,Sub-Saharan Africa,LMIC
+288,Canada,2022,4,4,4,4,3,3,3,North America,HIC
+289,Canada,2020,4,4,4,4,3,3,3,North America,HIC
+290,Canada,2018,4,4,4,4,3,3,1,North America,HIC
+291,Canada,2016,4,4,4,4,3,3,1,North America,HIC
+292,Canada,2014,4,4,4,4,3,3,1,North America,HIC
+293,Canada,2012,3,4,4,4,3,3,1,North America,HIC
+294,Canada,2010,4,4,4,3,3,3,1,North America,HIC
+295,Canada,2008,4,4,4,3,1,3,0,North America,HIC
+296,Canada,2007,4,4,2,3,1,0,0,North America,HIC
+297,Central African Republic,2022,1,1,1,1,1,2,1,Sub-Saharan Africa,LIC
+298,Central African Republic,2020,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+299,Central African Republic,2018,1,1,1,1,1,2,1,Sub-Saharan Africa,LIC
+300,Central African Republic,2016,1,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+301,Central African Republic,2014,2,1,2,1,1,2,3,Sub-Saharan Africa,LIC
+302,Central African Republic,2012,2,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+303,Central African Republic,2010,2,1,2,1,1,2,1,Sub-Saharan Africa,LIC
+304,Central African Republic,2008,1,1,2,1,1,2,0,Sub-Saharan Africa,LIC
+305,Central African Republic,2007,1,1,2,1,1,0,0,Sub-Saharan Africa,LIC
+306,Chad,2022,2,4,2,4,4,3,1,Sub-Saharan Africa,LIC
+307,Chad,2020,2,4,2,4,4,3,1,Sub-Saharan Africa,LIC
+308,Chad,2018,1,4,2,4,4,2,3,Sub-Saharan Africa,LIC
+309,Chad,2016,1,4,2,4,4,2,1,Sub-Saharan Africa,LIC
+310,Chad,2014,1,4,2,2,4,2,1,Sub-Saharan Africa,LIC
+311,Chad,2012,2,4,2,2,4,2,1,Sub-Saharan Africa,LIC
+312,Chad,2010,2,4,1,2,4,2,1,Sub-Saharan Africa,LIC
+313,Chad,2008,3,1,1,1,2,2,0,Sub-Saharan Africa,LIC
+314,Chad,2007,2,1,1,1,2,0,0,Sub-Saharan Africa,LIC
+315,Chile,2022,4,4,2,4,3,4,3,Latin America & Caribbean,HIC
+316,Chile,2020,4,4,2,4,3,4,3,Latin America & Caribbean,HIC
+317,Chile,2018,4,4,2,4,3,4,3,Latin America & Caribbean,HIC
+318,Chile,2016,4,4,2,4,3,4,1,Latin America & Caribbean,HIC
+319,Chile,2014,4,4,2,4,3,4,1,Latin America & Caribbean,HIC
+320,Chile,2012,4,2,2,4,3,4,3,Latin America & Caribbean,HIC
+321,Chile,2010,4,2,2,4,3,4,1,Latin America & Caribbean,HIC
+322,Chile,2008,4,2,2,4,3,4,0,Latin America & Caribbean,HIC
+323,Chile,2007,4,2,2,4,3,0,0,Latin America & Caribbean,HIC
+324,China,2022,4,1,3,2,3,3,3,East Asia & Pacific,UMIC
+325,China,2020,4,1,3,2,3,3,4,East Asia & Pacific,UMIC
+326,China,2018,4,1,3,2,3,3,3,East Asia & Pacific,UMIC
+327,China,2016,3,1,3,2,3,3,4,East Asia & Pacific,UMIC
+328,China,2014,3,1,3,2,3,3,4,East Asia & Pacific,UMIC
+329,China,2012,3,1,2,2,3,2,4,East Asia & Pacific,UMIC
+330,China,2010,3,1,2,2,3,2,1,East Asia & Pacific,UMIC
+331,China,2008,3,1,2,2,3,2,0,East Asia & Pacific,UMIC
+332,China,2007,2,1,2,1,3,0,0,East Asia & Pacific,UMIC
+333,Colombia,2022,3,4,3,3,4,3,1,Latin America & Caribbean,UMIC
+334,Colombia,2020,3,4,3,3,4,3,2,Latin America & Caribbean,UMIC
+335,Colombia,2018,3,4,3,3,4,4,1,Latin America & Caribbean,UMIC
+336,Colombia,2016,4,4,3,3,4,2,4,Latin America & Caribbean,UMIC
+337,Colombia,2014,4,4,2,3,4,2,4,Latin America & Caribbean,UMIC
+338,Colombia,2012,4,4,2,3,4,3,3,Latin America & Caribbean,UMIC
+339,Colombia,2010,3,4,2,3,4,2,4,Latin America & Caribbean,UMIC
+340,Colombia,2008,3,4,2,1,1,2,0,Latin America & Caribbean,UMIC
+341,Colombia,2007,3,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+342,Comoros,2022,1,2,2,2,1,3,1,Sub-Saharan Africa,LMIC
+343,Comoros,2020,2,2,2,2,1,3,1,Sub-Saharan Africa,LMIC
+344,Comoros,2018,2,2,2,2,1,3,1,Sub-Saharan Africa,LMIC
+345,Comoros,2016,3,2,1,2,1,2,1,Sub-Saharan Africa,LMIC
+346,Comoros,2014,2,2,1,2,1,3,1,Sub-Saharan Africa,LMIC
+347,Comoros,2012,3,1,1,1,1,3,1,Sub-Saharan Africa,LMIC
+348,Comoros,2010,2,1,1,1,3,3,1,Sub-Saharan Africa,LMIC
+349,Comoros,2008,3,1,1,1,1,2,0,Sub-Saharan Africa,LMIC
+350,Comoros,2007,3,1,1,1,1,0,0,Sub-Saharan Africa,LMIC
+351,Congo,2022,2,4,2,2,4,1,1,Sub-Saharan Africa,LIC
+352,Congo,2020,2,4,2,2,4,2,1,Sub-Saharan Africa,LIC
+353,Congo,2018,1,4,3,2,4,2,1,Sub-Saharan Africa,LIC
+354,Congo,2016,1,4,3,2,3,2,1,Sub-Saharan Africa,LIC
+355,Congo,2014,2,4,3,2,3,2,1,Sub-Saharan Africa,LIC
+356,Congo,2012,2,4,3,2,3,2,1,Sub-Saharan Africa,LIC
+357,Congo,2010,2,1,3,1,3,2,1,Sub-Saharan Africa,LIC
+358,Congo,2008,3,1,3,1,3,2,0,Sub-Saharan Africa,LIC
+359,Congo,2007,3,1,2,1,3,0,0,Sub-Saharan Africa,LIC
+360,Cook Islands,2022,4,3,4,3,3,3,1,East Asia & Pacific,HIC
+361,Cook Islands,2020,4,3,4,3,3,1,1,East Asia & Pacific,HIC
+362,Cook Islands,2018,4,3,3,3,3,3,1,East Asia & Pacific,HIC
+363,Cook Islands,2016,4,3,3,3,3,3,1,East Asia & Pacific,HIC
+364,Cook Islands,2014,4,3,3,3,3,3,1,East Asia & Pacific,HIC
+365,Cook Islands,2012,4,3,3,3,3,3,1,East Asia & Pacific,HIC
+366,Cook Islands,2010,4,3,3,3,3,2,1,East Asia & Pacific,HIC
+367,Cook Islands,2008,4,2,3,3,3,2,0,East Asia & Pacific,HIC
+368,Cook Islands,2007,4,1,3,2,3,0,0,East Asia & Pacific,HIC
+369,Costa Rica,2022,4,4,4,4,3,3,1,Latin America & Caribbean,UMIC
+370,Costa Rica,2020,4,4,4,4,3,3,4,Latin America & Caribbean,UMIC
+371,Costa Rica,2018,4,4,4,4,3,3,4,Latin America & Caribbean,UMIC
+372,Costa Rica,2016,4,4,3,4,3,3,4,Latin America & Caribbean,UMIC
+373,Costa Rica,2014,4,4,3,4,3,3,3,Latin America & Caribbean,UMIC
+374,Costa Rica,2012,4,4,3,3,3,3,4,Latin America & Caribbean,UMIC
+375,Costa Rica,2010,4,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+376,Costa Rica,2008,4,1,3,1,1,2,0,Latin America & Caribbean,UMIC
+377,Costa Rica,2007,3,1,3,1,1,0,0,Latin America & Caribbean,UMIC
+378,Croatia,2022,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+379,Croatia,2020,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+380,Croatia,2018,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+381,Croatia,2016,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+382,Croatia,2014,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+383,Croatia,2012,4,2,3,2,3,3,2,Europe & Central Asia,HIC
+384,Croatia,2010,4,2,3,2,3,3,1,Europe & Central Asia,HIC
+385,Croatia,2008,3,2,3,2,3,3,0,Europe & Central Asia,HIC
+386,Croatia,2007,3,1,2,1,3,0,0,Europe & Central Asia,HIC
+387,Cuba,2022,2,2,3,2,1,1,4,Latin America & Caribbean,UMIC
+388,Cuba,2020,2,2,3,2,1,1,4,Latin America & Caribbean,UMIC
+389,Cuba,2018,2,2,3,2,1,3,1,Latin America & Caribbean,UMIC
+390,Cuba,2016,1,2,3,2,1,3,1,Latin America & Caribbean,UMIC
+391,Cuba,2014,3,2,3,2,1,3,4,Latin America & Caribbean,UMIC
+392,Cuba,2012,3,2,3,2,1,4,4,Latin America & Caribbean,UMIC
+393,Cuba,2010,3,2,3,2,1,1,4,Latin America & Caribbean,UMIC
+394,Cuba,2008,1,2,3,2,1,4,0,Latin America & Caribbean,UMIC
+395,Cuba,2007,1,2,3,2,1,0,0,Latin America & Caribbean,UMIC
+396,Cyprus,2022,4,3,3,4,3,3,3,Europe & Central Asia,HIC
+397,Cyprus,2020,4,3,3,4,3,3,3,Europe & Central Asia,HIC
+398,Cyprus,2018,4,3,3,4,3,3,4,Europe & Central Asia,HIC
+399,Cyprus,2016,4,3,3,2,3,4,3,Europe & Central Asia,HIC
+400,Cyprus,2014,4,3,3,2,3,4,1,Europe & Central Asia,HIC
+401,Cyprus,2012,3,3,3,2,3,4,2,Europe & Central Asia,HIC
+402,Cyprus,2010,3,3,3,2,3,3,1,Europe & Central Asia,HIC
+403,Cyprus,2008,3,1,3,2,3,3,0,Europe & Central Asia,HIC
+404,Cyprus,2007,3,1,3,2,3,0,0,Europe & Central Asia,HIC
+405,Czechia,2022,4,2,4,4,3,4,2,Europe & Central Asia,HIC
+406,Czechia,2020,4,2,4,4,3,4,3,Europe & Central Asia,HIC
+407,Czechia,2018,4,2,4,4,3,4,3,Europe & Central Asia,HIC
+408,Czechia,2016,4,2,3,4,3,4,1,Europe & Central Asia,HIC
+409,Czechia,2014,4,2,2,2,3,4,3,Europe & Central Asia,HIC
+410,Czechia,2012,4,2,3,2,3,4,2,Europe & Central Asia,HIC
+411,Czechia,2010,3,2,3,2,3,4,3,Europe & Central Asia,HIC
+412,Czechia,2008,3,2,3,2,3,4,0,Europe & Central Asia,HIC
+413,Czechia,2007,3,2,2,2,3,0,0,Europe & Central Asia,HIC
+414,Democratic People's Republic of Korea,2022,2,3,3,1,1,1,1,East Asia & Pacific,LIC
+415,Democratic People's Republic of Korea,2020,2,3,3,1,1,1,3,East Asia & Pacific,LIC
+416,Democratic People's Republic of Korea,2018,2,3,3,1,1,1,1,East Asia & Pacific,LIC
+417,Democratic People's Republic of Korea,2016,2,3,3,1,1,1,4,East Asia & Pacific,LIC
+418,Democratic People's Republic of Korea,2014,2,2,3,1,1,1,1,East Asia & Pacific,LIC
+419,Democratic People's Republic of Korea,2012,2,2,3,1,1,1,3,East Asia & Pacific,LIC
+420,Democratic People's Republic of Korea,2010,2,2,3,1,1,1,1,East Asia & Pacific,LIC
+421,Democratic People's Republic of Korea,2008,2,1,3,1,1,1,0,East Asia & Pacific,LIC
+422,Democratic People's Republic of Korea,2007,1,1,3,1,1,0,0,East Asia & Pacific,LIC
+423,Democratic Republic of the Congo,2022,1,2,1,3,4,3,1,Sub-Saharan Africa,LIC
+424,Democratic Republic of the Congo,2020,1,2,1,3,4,3,1,Sub-Saharan Africa,LIC
+425,Democratic Republic of the Congo,2018,1,2,2,3,4,2,1,Sub-Saharan Africa,LIC
+426,Democratic Republic of the Congo,2016,1,2,2,2,2,2,1,Sub-Saharan Africa,LIC
+427,Democratic Republic of the Congo,2014,1,2,2,2,2,2,1,Sub-Saharan Africa,LIC
+428,Democratic Republic of the Congo,2012,1,2,2,2,2,2,1,Sub-Saharan Africa,LIC
+429,Democratic Republic of the Congo,2010,1,2,2,2,2,2,1,Sub-Saharan Africa,LIC
+430,Democratic Republic of the Congo,2008,1,2,2,2,2,2,0,Sub-Saharan Africa,LIC
+431,Democratic Republic of the Congo,2007,1,2,2,2,2,0,0,Sub-Saharan Africa,LIC
+432,Denmark,2022,4,1,4,4,3,4,1,Europe & Central Asia,HIC
+433,Denmark,2020,4,1,4,4,3,4,3,Europe & Central Asia,HIC
+434,Denmark,2018,4,1,4,4,3,3,3,Europe & Central Asia,HIC
+435,Denmark,2016,4,1,4,4,3,3,4,Europe & Central Asia,HIC
+436,Denmark,2014,4,1,4,3,3,3,1,Europe & Central Asia,HIC
+437,Denmark,2012,4,1,4,3,3,4,1,Europe & Central Asia,HIC
+438,Denmark,2010,4,1,3,2,3,3,4,Europe & Central Asia,HIC
+439,Denmark,2008,4,1,3,2,3,3,0,Europe & Central Asia,HIC
+440,Denmark,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+441,Djibouti,2022,1,3,1,4,4,1,1,Middle East & North Africa,LMIC
+442,Djibouti,2020,1,3,1,4,4,1,1,Middle East & North Africa,LMIC
+443,Djibouti,2018,2,3,1,4,4,1,1,Middle East & North Africa,LMIC
+444,Djibouti,2016,3,3,2,4,4,2,1,Middle East & North Africa,LMIC
+445,Djibouti,2014,3,3,2,4,4,2,3,Middle East & North Africa,LMIC
+446,Djibouti,2012,3,3,2,4,4,2,1,Middle East & North Africa,LMIC
+447,Djibouti,2010,2,3,2,4,4,2,1,Middle East & North Africa,LMIC
+448,Djibouti,2008,2,3,2,4,4,1,0,Middle East & North Africa,LMIC
+449,Djibouti,2007,3,3,2,2,4,0,0,Middle East & North Africa,LMIC
+450,Dominica,2022,1,1,1,1,1,2,1,Latin America & Caribbean,UMIC
+451,Dominica,2020,1,1,1,1,1,1,1,Latin America & Caribbean,UMIC
+452,Dominica,2018,1,1,1,1,1,1,3,Latin America & Caribbean,UMIC
+453,Dominica,2016,1,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+454,Dominica,2014,2,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+455,Dominica,2012,3,1,2,1,1,1,4,Latin America & Caribbean,UMIC
+456,Dominica,2010,3,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+457,Dominica,2008,3,1,2,1,1,2,0,Latin America & Caribbean,UMIC
+458,Dominica,2007,2,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+459,Dominican Republic,2022,1,2,2,1,1,2,1,Latin America & Caribbean,UMIC
+460,Dominican Republic,2020,2,2,2,1,1,2,1,Latin America & Caribbean,UMIC
+461,Dominican Republic,2018,2,2,2,1,1,3,1,Latin America & Caribbean,UMIC
+462,Dominican Republic,2016,2,2,2,1,1,3,1,Latin America & Caribbean,UMIC
+463,Dominican Republic,2014,2,1,2,1,1,3,1,Latin America & Caribbean,UMIC
+464,Dominican Republic,2012,2,1,2,1,1,3,1,Latin America & Caribbean,UMIC
+465,Dominican Republic,2010,1,1,2,1,1,3,1,Latin America & Caribbean,UMIC
+466,Dominican Republic,2008,3,1,2,1,1,3,0,Latin America & Caribbean,UMIC
+467,Dominican Republic,2007,3,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+468,Ecuador,2022,4,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+469,Ecuador,2020,4,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+470,Ecuador,2018,4,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+471,Ecuador,2016,4,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+472,Ecuador,2014,4,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+473,Ecuador,2012,3,4,3,4,3,3,1,Latin America & Caribbean,UMIC
+474,Ecuador,2010,3,2,3,2,1,3,1,Latin America & Caribbean,UMIC
+475,Ecuador,2008,3,2,3,2,1,3,0,Latin America & Caribbean,UMIC
+476,Ecuador,2007,3,2,2,2,1,0,0,Latin America & Caribbean,UMIC
+477,Egypt,2022,2,4,3,4,3,3,2,Middle East & North Africa,LMIC
+478,Egypt,2020,2,4,3,4,3,4,2,Middle East & North Africa,LMIC
+479,Egypt,2018,4,4,3,4,3,4,1,Middle East & North Africa,LMIC
+480,Egypt,2016,4,4,3,4,3,3,1,Middle East & North Africa,LMIC
+481,Egypt,2014,4,4,2,4,3,3,1,Middle East & North Africa,LMIC
+482,Egypt,2012,4,4,3,4,3,3,4,Middle East & North Africa,LMIC
+483,Egypt,2010,4,4,3,4,3,3,4,Middle East & North Africa,LMIC
+484,Egypt,2008,4,2,3,4,3,3,0,Middle East & North Africa,LMIC
+485,Egypt,2007,4,2,3,3,3,0,0,Middle East & North Africa,LMIC
+486,El Salvador,2022,4,4,3,4,3,2,1,Latin America & Caribbean,UMIC
+487,El Salvador,2020,3,4,3,4,3,2,4,Latin America & Caribbean,UMIC
+488,El Salvador,2018,3,4,4,4,3,2,4,Latin America & Caribbean,UMIC
+489,El Salvador,2016,3,4,4,4,3,3,4,Latin America & Caribbean,UMIC
+490,El Salvador,2014,3,1,3,4,3,3,4,Latin America & Caribbean,UMIC
+491,El Salvador,2012,2,1,4,4,3,3,4,Latin America & Caribbean,UMIC
+492,El Salvador,2010,3,2,3,1,1,3,3,Latin America & Caribbean,UMIC
+493,El Salvador,2008,3,2,3,1,1,2,0,Latin America & Caribbean,UMIC
+494,El Salvador,2007,3,2,3,1,1,0,0,Latin America & Caribbean,UMIC
+495,Equatorial Guinea,2022,1,1,1,1,1,2,1,Sub-Saharan Africa,UMIC
+496,Equatorial Guinea,2020,1,1,1,1,1,1,1,Sub-Saharan Africa,UMIC
+497,Equatorial Guinea,2018,1,1,1,1,1,2,1,Sub-Saharan Africa,UMIC
+498,Equatorial Guinea,2016,1,1,1,1,1,2,1,Sub-Saharan Africa,UMIC
+499,Equatorial Guinea,2014,1,1,1,1,1,2,1,Sub-Saharan Africa,UMIC
+500,Equatorial Guinea,2012,2,1,1,1,1,2,1,Sub-Saharan Africa,UMIC
+501,Equatorial Guinea,2010,2,1,1,1,1,1,1,Sub-Saharan Africa,UMIC
+502,Equatorial Guinea,2008,2,1,1,1,1,1,0,Sub-Saharan Africa,UMIC
+503,Equatorial Guinea,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,UMIC
+504,Eritrea,2022,1,1,1,2,4,1,1,Sub-Saharan Africa,LIC
+505,Eritrea,2020,1,1,1,2,4,1,1,Sub-Saharan Africa,LIC
+506,Eritrea,2018,1,1,1,2,4,3,1,Sub-Saharan Africa,LIC
+507,Eritrea,2016,1,1,1,2,4,3,1,Sub-Saharan Africa,LIC
+508,Eritrea,2014,2,1,1,2,4,3,1,Sub-Saharan Africa,LIC
+509,Eritrea,2012,2,1,1,2,4,3,1,Sub-Saharan Africa,LIC
+510,Eritrea,2010,3,1,1,2,4,3,3,Sub-Saharan Africa,LIC
+511,Eritrea,2008,3,1,1,2,4,3,0,Sub-Saharan Africa,LIC
+512,Eritrea,2007,3,1,1,2,4,0,0,Sub-Saharan Africa,LIC
+513,Estonia,2022,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+514,Estonia,2020,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+515,Estonia,2018,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+516,Estonia,2016,4,1,4,4,3,4,4,Europe & Central Asia,HIC
+517,Estonia,2014,4,1,3,2,3,4,1,Europe & Central Asia,HIC
+518,Estonia,2012,4,1,3,2,3,4,1,Europe & Central Asia,HIC
+519,Estonia,2010,4,1,2,2,3,4,1,Europe & Central Asia,HIC
+520,Estonia,2008,4,1,2,2,3,4,0,Europe & Central Asia,HIC
+521,Estonia,2007,3,1,2,2,3,0,0,Europe & Central Asia,HIC
+522,Eswatini,2022,1,1,3,2,3,3,1,Sub-Saharan Africa,LMIC
+523,Eswatini,2020,1,1,3,2,3,3,1,Sub-Saharan Africa,LMIC
+524,Eswatini,2018,2,1,3,2,3,3,1,Sub-Saharan Africa,LMIC
+525,Eswatini,2016,2,1,3,2,3,2,1,Sub-Saharan Africa,LMIC
+526,Eswatini,2014,3,1,3,2,3,2,1,Sub-Saharan Africa,LMIC
+527,Eswatini,2012,3,1,3,1,1,1,1,Sub-Saharan Africa,LMIC
+528,Eswatini,2010,4,1,3,1,1,2,1,Sub-Saharan Africa,LMIC
+529,Eswatini,2008,4,1,3,1,1,2,0,Sub-Saharan Africa,LMIC
+530,Eswatini,2007,4,1,3,1,1,0,0,Sub-Saharan Africa,LMIC
+531,Ethiopia,2022,1,4,4,4,4,2,4,Sub-Saharan Africa,LIC
+532,Ethiopia,2020,2,4,3,4,4,3,4,Sub-Saharan Africa,LIC
+533,Ethiopia,2018,2,2,3,2,3,2,3,Sub-Saharan Africa,LIC
+534,Ethiopia,2016,2,2,3,2,3,2,3,Sub-Saharan Africa,LIC
+535,Ethiopia,2014,1,1,3,2,3,2,1,Sub-Saharan Africa,LIC
+536,Ethiopia,2012,1,1,3,1,3,2,2,Sub-Saharan Africa,LIC
+537,Ethiopia,2010,1,1,2,1,1,2,1,Sub-Saharan Africa,LIC
+538,Ethiopia,2008,2,1,1,1,1,2,0,Sub-Saharan Africa,LIC
+539,Ethiopia,2007,2,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+540,Fiji,2022,1,2,3,4,3,2,1,East Asia & Pacific,UMIC
+541,Fiji,2020,2,2,3,4,3,2,2,East Asia & Pacific,UMIC
+542,Fiji,2018,2,2,3,4,3,2,4,East Asia & Pacific,UMIC
+543,Fiji,2016,3,2,3,4,3,2,4,East Asia & Pacific,UMIC
+544,Fiji,2014,3,2,3,4,3,2,3,East Asia & Pacific,UMIC
+545,Fiji,2012,3,2,3,2,3,2,2,East Asia & Pacific,UMIC
+546,Fiji,2010,2,2,1,2,3,1,1,East Asia & Pacific,UMIC
+547,Fiji,2008,2,1,1,1,3,2,0,East Asia & Pacific,UMIC
+548,Fiji,2007,3,1,1,1,3,0,0,East Asia & Pacific,UMIC
+549,Finland,2022,4,1,3,4,4,4,2,Europe & Central Asia,HIC
+550,Finland,2020,4,1,3,4,4,4,3,Europe & Central Asia,HIC
+551,Finland,2018,4,1,3,4,4,4,2,Europe & Central Asia,HIC
+552,Finland,2016,4,1,3,4,4,4,1,Europe & Central Asia,HIC
+553,Finland,2014,4,1,3,2,3,4,4,Europe & Central Asia,HIC
+554,Finland,2012,4,1,3,2,3,4,2,Europe & Central Asia,HIC
+555,Finland,2010,3,1,3,2,3,4,4,Europe & Central Asia,HIC
+556,Finland,2008,4,1,3,2,3,4,0,Europe & Central Asia,HIC
+557,Finland,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+558,France,2022,4,2,3,4,3,4,4,Europe & Central Asia,HIC
+559,France,2020,4,2,3,4,3,4,4,Europe & Central Asia,HIC
+560,France,2018,4,2,3,4,3,4,4,Europe & Central Asia,HIC
+561,France,2016,4,2,3,4,3,4,1,Europe & Central Asia,HIC
+562,France,2014,4,2,3,3,3,4,3,Europe & Central Asia,HIC
+563,France,2012,4,2,3,3,3,4,3,Europe & Central Asia,HIC
+564,France,2010,4,2,3,3,3,4,2,Europe & Central Asia,HIC
+565,France,2008,4,2,3,2,3,4,0,Europe & Central Asia,HIC
+566,France,2007,4,2,3,2,3,0,0,Europe & Central Asia,HIC
+567,Gabon,2022,1,2,1,3,3,2,3,Sub-Saharan Africa,UMIC
+568,Gabon,2020,1,2,1,3,3,1,1,Sub-Saharan Africa,UMIC
+569,Gabon,2018,2,2,2,3,3,1,1,Sub-Saharan Africa,UMIC
+570,Gabon,2016,2,2,2,3,3,2,1,Sub-Saharan Africa,UMIC
+571,Gabon,2014,2,2,2,2,3,1,1,Sub-Saharan Africa,UMIC
+572,Gabon,2012,2,1,2,1,1,1,1,Sub-Saharan Africa,UMIC
+573,Gabon,2010,2,1,2,1,1,1,1,Sub-Saharan Africa,UMIC
+574,Gabon,2008,2,1,2,1,1,1,0,Sub-Saharan Africa,UMIC
+575,Gabon,2007,2,1,2,1,1,0,0,Sub-Saharan Africa,UMIC
+576,Gambia,2022,2,4,1,4,4,2,4,Sub-Saharan Africa,LIC
+577,Gambia,2020,2,4,1,4,4,2,3,Sub-Saharan Africa,LIC
+578,Gambia,2018,2,4,1,2,4,2,3,Sub-Saharan Africa,LIC
+579,Gambia,2016,1,4,1,2,4,3,1,Sub-Saharan Africa,LIC
+580,Gambia,2014,2,1,1,2,3,2,3,Sub-Saharan Africa,LIC
+581,Gambia,2012,2,1,1,2,3,2,1,Sub-Saharan Africa,LIC
+582,Gambia,2010,2,1,1,2,3,3,1,Sub-Saharan Africa,LIC
+583,Gambia,2008,1,1,1,1,3,3,0,Sub-Saharan Africa,LIC
+584,Gambia,2007,1,1,1,1,3,0,0,Sub-Saharan Africa,LIC
+585,Georgia,2022,4,3,2,4,3,3,3,Europe & Central Asia,UMIC
+586,Georgia,2020,4,3,2,4,3,4,4,Europe & Central Asia,UMIC
+587,Georgia,2018,4,3,3,4,3,3,4,Europe & Central Asia,UMIC
+588,Georgia,2016,4,2,3,2,1,3,3,Europe & Central Asia,UMIC
+589,Georgia,2014,4,2,3,2,1,2,1,Europe & Central Asia,UMIC
+590,Georgia,2012,4,2,2,2,1,2,4,Europe & Central Asia,UMIC
+591,Georgia,2010,3,2,2,2,1,2,3,Europe & Central Asia,UMIC
+592,Georgia,2008,3,2,2,2,1,2,0,Europe & Central Asia,UMIC
+593,Georgia,2007,4,1,2,2,1,0,0,Europe & Central Asia,UMIC
+594,Germany,2022,4,1,3,4,3,3,3,Europe & Central Asia,HIC
+595,Germany,2020,4,1,3,4,3,3,3,Europe & Central Asia,HIC
+596,Germany,2018,4,1,3,4,3,3,4,Europe & Central Asia,HIC
+597,Germany,2016,4,1,3,4,3,3,3,Europe & Central Asia,HIC
+598,Germany,2014,4,1,3,2,3,3,3,Europe & Central Asia,HIC
+599,Germany,2012,4,1,3,2,3,3,3,Europe & Central Asia,HIC
+600,Germany,2010,4,1,3,2,3,3,4,Europe & Central Asia,HIC
+601,Germany,2008,4,1,3,2,2,4,0,Europe & Central Asia,HIC
+602,Germany,2007,4,1,3,2,2,0,0,Europe & Central Asia,HIC
+603,Ghana,2022,2,1,3,4,4,1,3,Sub-Saharan Africa,LMIC
+604,Ghana,2020,2,1,3,4,4,2,4,Sub-Saharan Africa,LMIC
+605,Ghana,2018,2,1,3,4,4,2,3,Sub-Saharan Africa,LMIC
+606,Ghana,2016,2,1,3,3,4,2,1,Sub-Saharan Africa,LMIC
+607,Ghana,2014,2,1,3,3,4,2,4,Sub-Saharan Africa,LMIC
+608,Ghana,2012,2,1,3,3,4,1,4,Sub-Saharan Africa,LMIC
+609,Ghana,2010,2,1,2,1,1,1,1,Sub-Saharan Africa,LMIC
+610,Ghana,2008,3,1,2,1,1,2,0,Sub-Saharan Africa,LMIC
+611,Ghana,2007,3,1,2,1,1,0,0,Sub-Saharan Africa,LMIC
+612,Greece,2022,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+613,Greece,2020,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+614,Greece,2018,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+615,Greece,2016,4,4,3,4,3,4,1,Europe & Central Asia,HIC
+616,Greece,2014,4,4,3,2,3,4,1,Europe & Central Asia,HIC
+617,Greece,2012,4,4,3,2,3,4,1,Europe & Central Asia,HIC
+618,Greece,2010,4,4,2,2,3,4,4,Europe & Central Asia,HIC
+619,Greece,2008,4,1,2,2,3,3,0,Europe & Central Asia,HIC
+620,Greece,2007,4,1,2,2,3,0,0,Europe & Central Asia,HIC
+621,Grenada,2022,1,1,1,1,1,2,1,Latin America & Caribbean,UMIC
+622,Grenada,2020,2,1,1,1,1,1,1,Latin America & Caribbean,UMIC
+623,Grenada,2018,2,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+624,Grenada,2016,3,1,3,1,1,2,1,Latin America & Caribbean,UMIC
+625,Grenada,2014,3,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+626,Grenada,2012,3,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+627,Grenada,2010,2,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+628,Grenada,2008,2,1,2,1,1,2,0,Latin America & Caribbean,UMIC
+629,Grenada,2007,2,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+630,Guatemala,2022,1,4,3,1,1,2,1,Latin America & Caribbean,UMIC
+631,Guatemala,2020,3,4,3,1,1,2,3,Latin America & Caribbean,UMIC
+632,Guatemala,2018,3,4,3,1,1,2,1,Latin America & Caribbean,UMIC
+633,Guatemala,2016,3,4,3,1,1,2,1,Latin America & Caribbean,UMIC
+634,Guatemala,2014,1,4,3,1,1,2,1,Latin America & Caribbean,UMIC
+635,Guatemala,2012,2,4,3,1,1,2,1,Latin America & Caribbean,UMIC
+636,Guatemala,2010,2,4,3,1,1,3,1,Latin America & Caribbean,UMIC
+637,Guatemala,2008,3,4,3,1,1,3,0,Latin America & Caribbean,UMIC
+638,Guatemala,2007,3,2,3,1,1,0,0,Latin America & Caribbean,UMIC
+639,Guinea,2022,1,2,1,2,4,1,1,Sub-Saharan Africa,LMIC
+640,Guinea,2020,1,2,1,2,4,1,1,Sub-Saharan Africa,LMIC
+641,Guinea,2018,1,2,1,2,4,1,1,Sub-Saharan Africa,LMIC
+642,Guinea,2016,1,2,2,2,4,1,1,Sub-Saharan Africa,LMIC
+643,Guinea,2014,1,2,2,2,4,1,1,Sub-Saharan Africa,LMIC
+644,Guinea,2012,2,2,2,2,4,1,1,Sub-Saharan Africa,LMIC
+645,Guinea,2010,2,2,2,1,3,1,3,Sub-Saharan Africa,LMIC
+646,Guinea,2008,2,2,2,1,3,1,0,Sub-Saharan Africa,LMIC
+647,Guinea,2007,1,2,2,1,3,0,0,Sub-Saharan Africa,LMIC
+648,Guinea-Bissau,2022,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+649,Guinea-Bissau,2020,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+650,Guinea-Bissau,2018,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+651,Guinea-Bissau,2016,1,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+652,Guinea-Bissau,2014,1,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+653,Guinea-Bissau,2012,1,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+654,Guinea-Bissau,2010,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+655,Guinea-Bissau,2008,1,1,1,1,1,1,0,Sub-Saharan Africa,LIC
+656,Guinea-Bissau,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+657,Guyana,2022,1,4,3,4,4,1,1,Latin America & Caribbean,HIC
+658,Guyana,2020,3,4,3,4,4,2,4,Latin America & Caribbean,HIC
+659,Guyana,2018,3,4,3,4,4,2,1,Latin America & Caribbean,HIC
+660,Guyana,2016,3,2,3,1,1,1,1,Latin America & Caribbean,HIC
+661,Guyana,2014,2,2,3,1,1,2,1,Latin America & Caribbean,HIC
+662,Guyana,2012,2,2,3,1,1,2,1,Latin America & Caribbean,HIC
+663,Guyana,2010,2,2,3,1,1,2,1,Latin America & Caribbean,HIC
+664,Guyana,2008,2,2,2,1,1,2,0,Latin America & Caribbean,HIC
+665,Guyana,2007,2,1,2,1,1,0,0,Latin America & Caribbean,HIC
+666,Haiti,2022,2,1,1,1,1,2,1,Latin America & Caribbean,LMIC
+667,Haiti,2020,2,1,1,1,1,1,1,Latin America & Caribbean,LMIC
+668,Haiti,2018,2,1,1,1,1,1,1,Latin America & Caribbean,LMIC
+669,Haiti,2016,1,1,1,1,1,2,1,Latin America & Caribbean,LMIC
+670,Haiti,2014,1,1,1,1,1,1,1,Latin America & Caribbean,LMIC
+671,Haiti,2012,1,1,2,1,1,1,1,Latin America & Caribbean,LMIC
+672,Haiti,2010,2,1,2,1,1,1,1,Latin America & Caribbean,LMIC
+673,Haiti,2008,2,1,2,1,1,1,0,Latin America & Caribbean,LMIC
+674,Haiti,2007,2,1,2,1,1,0,0,Latin America & Caribbean,LMIC
+675,Honduras,2022,1,4,3,4,3,2,1,Latin America & Caribbean,LMIC
+676,Honduras,2020,3,4,3,4,3,2,1,Latin America & Caribbean,LMIC
+677,Honduras,2018,3,4,3,4,3,2,3,Latin America & Caribbean,LMIC
+678,Honduras,2016,3,4,3,3,3,2,4,Latin America & Caribbean,LMIC
+679,Honduras,2014,2,4,3,3,3,2,2,Latin America & Caribbean,LMIC
+680,Honduras,2012,2,4,3,3,3,2,3,Latin America & Caribbean,LMIC
+681,Honduras,2010,1,4,2,3,3,2,3,Latin America & Caribbean,LMIC
+682,Honduras,2008,1,1,2,1,1,2,0,Latin America & Caribbean,LMIC
+683,Honduras,2007,1,1,2,1,1,0,0,Latin America & Caribbean,LMIC
+684,Hungary,2022,4,3,3,4,3,3,3,Europe & Central Asia,HIC
+685,Hungary,2020,4,3,3,4,3,3,1,Europe & Central Asia,HIC
+686,Hungary,2018,4,3,3,4,3,3,1,Europe & Central Asia,HIC
+687,Hungary,2016,4,3,3,4,3,3,1,Europe & Central Asia,HIC
+688,Hungary,2014,4,3,3,3,3,4,2,Europe & Central Asia,HIC
+689,Hungary,2012,4,3,3,3,3,4,3,Europe & Central Asia,HIC
+690,Hungary,2010,4,1,3,2,3,4,2,Europe & Central Asia,HIC
+691,Hungary,2008,3,1,2,2,3,3,0,Europe & Central Asia,HIC
+692,Hungary,2007,3,1,2,2,3,0,0,Europe & Central Asia,HIC
+693,Iceland,2022,4,1,2,3,4,3,1,Europe & Central Asia,HIC
+694,Iceland,2020,4,1,2,3,4,3,1,Europe & Central Asia,HIC
+695,Iceland,2018,4,1,2,3,4,3,1,Europe & Central Asia,HIC
+696,Iceland,2016,4,1,2,3,4,3,1,Europe & Central Asia,HIC
+697,Iceland,2014,4,1,2,3,4,3,1,Europe & Central Asia,HIC
+698,Iceland,2012,4,1,2,3,4,3,2,Europe & Central Asia,HIC
+699,Iceland,2010,4,1,2,2,4,3,1,Europe & Central Asia,HIC
+700,Iceland,2008,4,1,2,2,4,3,0,Europe & Central Asia,HIC
+701,Iceland,2007,4,1,2,2,4,0,0,Europe & Central Asia,HIC
+702,India,2022,3,3,4,4,3,3,3,South Asia,LMIC
+703,India,2020,3,3,4,4,3,3,3,South Asia,LMIC
+704,India,2018,2,3,4,4,3,3,3,South Asia,LMIC
+705,India,2016,1,3,4,4,3,3,3,South Asia,LMIC
+706,India,2014,3,3,3,1,3,2,4,South Asia,LMIC
+707,India,2012,3,3,3,1,3,2,4,South Asia,LMIC
+708,India,2010,3,3,2,1,3,2,4,South Asia,LMIC
+709,India,2008,2,3,2,3,3,2,0,South Asia,LMIC
+710,India,2007,2,2,2,1,3,0,0,South Asia,LMIC
+711,Indonesia,2022,4,2,3,3,1,3,1,East Asia & Pacific,UMIC
+712,Indonesia,2020,4,2,3,3,1,3,4,East Asia & Pacific,UMIC
+713,Indonesia,2018,4,2,3,3,1,3,4,East Asia & Pacific,UMIC
+714,Indonesia,2016,4,2,3,3,1,3,4,East Asia & Pacific,UMIC
+715,Indonesia,2014,4,2,2,3,1,3,1,East Asia & Pacific,UMIC
+716,Indonesia,2012,3,2,2,2,1,3,1,East Asia & Pacific,UMIC
+717,Indonesia,2010,3,2,2,1,1,3,1,East Asia & Pacific,UMIC
+718,Indonesia,2008,3,2,2,1,1,3,0,East Asia & Pacific,UMIC
+719,Indonesia,2007,3,2,2,1,1,0,0,East Asia & Pacific,UMIC
+720,Iran (Islamic Republic of),2022,4,4,4,4,4,2,3,Middle East & North Africa,UMIC
+721,Iran (Islamic Republic of),2020,4,4,3,4,4,1,2,Middle East & North Africa,UMIC
+722,Iran (Islamic Republic of),2018,4,4,3,4,4,1,2,Middle East & North Africa,UMIC
+723,Iran (Islamic Republic of),2016,4,4,4,4,4,2,3,Middle East & North Africa,UMIC
+724,Iran (Islamic Republic of),2014,4,4,4,4,4,1,4,Middle East & North Africa,UMIC
+725,Iran (Islamic Republic of),2012,4,4,4,4,4,1,1,Middle East & North Africa,UMIC
+726,Iran (Islamic Republic of),2010,4,4,4,4,4,1,1,Middle East & North Africa,UMIC
+727,Iran (Islamic Republic of),2008,4,4,4,4,4,1,0,Middle East & North Africa,UMIC
+728,Iran (Islamic Republic of),2007,4,4,4,2,4,0,0,Middle East & North Africa,UMIC
+729,Iraq,2022,2,4,3,3,4,1,3,Middle East & North Africa,UMIC
+730,Iraq,2020,3,4,3,3,4,1,3,Middle East & North Africa,UMIC
+731,Iraq,2018,3,4,3,2,3,1,4,Middle East & North Africa,UMIC
+732,Iraq,2016,3,4,3,2,3,1,2,Middle East & North Africa,UMIC
+733,Iraq,2014,2,4,3,2,3,1,1,Middle East & North Africa,UMIC
+734,Iraq,2012,4,1,2,1,3,1,1,Middle East & North Africa,UMIC
+735,Iraq,2010,2,1,2,1,3,1,1,Middle East & North Africa,UMIC
+736,Iraq,2008,2,1,2,1,3,1,0,Middle East & North Africa,UMIC
+737,Iraq,2007,2,1,2,1,3,0,0,Middle East & North Africa,UMIC
+738,Ireland,2022,4,4,4,4,3,4,4,Europe & Central Asia,HIC
+739,Ireland,2020,4,4,4,4,3,4,4,Europe & Central Asia,HIC
+740,Ireland,2018,4,4,4,4,3,4,4,Europe & Central Asia,HIC
+741,Ireland,2016,4,4,4,4,3,4,4,Europe & Central Asia,HIC
+742,Ireland,2014,4,4,4,3,3,4,4,Europe & Central Asia,HIC
+743,Ireland,2012,4,4,4,3,3,4,1,Europe & Central Asia,HIC
+744,Ireland,2010,4,4,4,2,3,4,4,Europe & Central Asia,HIC
+745,Ireland,2008,4,4,4,2,3,4,0,Europe & Central Asia,HIC
+746,Ireland,2007,4,4,4,2,3,0,0,Europe & Central Asia,HIC
+747,Israel,2022,2,2,4,3,1,4,4,Middle East & North Africa,HIC
+748,Israel,2020,2,2,3,3,1,4,1,Middle East & North Africa,HIC
+749,Israel,2018,3,2,3,2,1,4,1,Middle East & North Africa,HIC
+750,Israel,2016,3,2,4,2,1,4,1,Middle East & North Africa,HIC
+751,Israel,2014,3,1,4,2,1,4,1,Middle East & North Africa,HIC
+752,Israel,2012,2,1,4,2,1,4,1,Middle East & North Africa,HIC
+753,Israel,2010,4,1,4,2,1,3,3,Middle East & North Africa,HIC
+754,Israel,2008,4,1,4,2,1,3,0,Middle East & North Africa,HIC
+755,Israel,2007,3,1,3,2,1,0,0,Middle East & North Africa,HIC
+756,Italy,2022,4,1,3,4,3,4,1,Europe & Central Asia,HIC
+757,Italy,2020,4,1,3,4,3,4,1,Europe & Central Asia,HIC
+758,Italy,2018,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+759,Italy,2016,4,1,3,4,3,4,4,Europe & Central Asia,HIC
+760,Italy,2014,4,1,3,2,3,4,3,Europe & Central Asia,HIC
+761,Italy,2012,4,1,3,2,3,4,2,Europe & Central Asia,HIC
+762,Italy,2010,4,1,3,2,3,4,3,Europe & Central Asia,HIC
+763,Italy,2008,4,1,3,2,3,4,0,Europe & Central Asia,HIC
+764,Italy,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+765,Jamaica,2022,3,4,4,4,1,2,1,Latin America & Caribbean,UMIC
+766,Jamaica,2020,3,4,4,4,1,2,1,Latin America & Caribbean,UMIC
+767,Jamaica,2018,3,4,4,4,1,2,1,Latin America & Caribbean,UMIC
+768,Jamaica,2016,2,4,4,4,1,2,1,Latin America & Caribbean,UMIC
+769,Jamaica,2014,2,4,3,4,1,2,3,Latin America & Caribbean,UMIC
+770,Jamaica,2012,3,1,3,2,1,2,1,Latin America & Caribbean,UMIC
+771,Jamaica,2010,3,1,3,2,1,3,1,Latin America & Caribbean,UMIC
+772,Jamaica,2008,3,1,3,2,1,2,0,Latin America & Caribbean,UMIC
+773,Jamaica,2007,2,1,3,2,1,0,0,Latin America & Caribbean,UMIC
+774,Japan,2022,4,2,3,3,1,3,4,East Asia & Pacific,HIC
+775,Japan,2020,4,2,3,3,1,3,4,East Asia & Pacific,HIC
+776,Japan,2018,4,2,3,2,1,3,2,East Asia & Pacific,HIC
+777,Japan,2016,4,1,3,2,1,3,1,East Asia & Pacific,HIC
+778,Japan,2014,4,1,3,2,1,3,1,East Asia & Pacific,HIC
+779,Japan,2012,4,1,3,2,1,3,1,East Asia & Pacific,HIC
+780,Japan,2010,4,1,3,2,1,3,1,East Asia & Pacific,HIC
+781,Japan,2008,4,1,3,2,1,3,0,East Asia & Pacific,HIC
+782,Japan,2007,4,1,3,2,1,0,0,East Asia & Pacific,HIC
+783,Jordan,2022,2,4,4,2,4,4,4,Middle East & North Africa,LMIC
+784,Jordan,2020,2,4,4,2,4,4,3,Middle East & North Africa,LMIC
+785,Jordan,2018,2,2,3,2,3,4,4,Middle East & North Africa,LMIC
+786,Jordan,2016,2,2,3,2,3,4,4,Middle East & North Africa,LMIC
+787,Jordan,2014,2,2,3,2,3,4,1,Middle East & North Africa,LMIC
+788,Jordan,2012,4,2,3,2,3,4,1,Middle East & North Africa,LMIC
+789,Jordan,2010,4,2,3,2,3,4,3,Middle East & North Africa,LMIC
+790,Jordan,2008,4,2,3,2,3,4,0,Middle East & North Africa,LMIC
+791,Jordan,2007,4,1,3,2,3,0,0,Middle East & North Africa,LMIC
+792,Kazakhstan,2022,4,3,3,4,3,3,3,Europe & Central Asia,UMIC
+793,Kazakhstan,2020,4,3,3,4,3,3,4,Europe & Central Asia,UMIC
+794,Kazakhstan,2018,4,2,3,4,3,3,1,Europe & Central Asia,UMIC
+795,Kazakhstan,2016,4,2,3,4,3,2,3,Europe & Central Asia,UMIC
+796,Kazakhstan,2014,4,2,3,4,3,2,4,Europe & Central Asia,UMIC
+797,Kazakhstan,2012,4,2,3,2,3,2,1,Europe & Central Asia,UMIC
+798,Kazakhstan,2010,4,2,3,2,3,2,4,Europe & Central Asia,UMIC
+799,Kazakhstan,2008,4,2,3,2,3,1,0,Europe & Central Asia,UMIC
+800,Kazakhstan,2007,3,2,3,2,3,0,0,Europe & Central Asia,UMIC
+801,Kenya,2022,1,1,3,3,4,2,4,Sub-Saharan Africa,LMIC
+802,Kenya,2020,2,1,3,3,4,2,1,Sub-Saharan Africa,LMIC
+803,Kenya,2018,3,1,3,3,4,3,1,Sub-Saharan Africa,LMIC
+804,Kenya,2016,3,1,3,3,4,3,4,Sub-Saharan Africa,LMIC
+805,Kenya,2014,3,1,3,3,4,2,1,Sub-Saharan Africa,LMIC
+806,Kenya,2012,2,1,3,2,4,2,1,Sub-Saharan Africa,LMIC
+807,Kenya,2010,2,1,2,2,4,3,1,Sub-Saharan Africa,LMIC
+808,Kenya,2008,3,1,2,2,4,4,0,Sub-Saharan Africa,LMIC
+809,Kenya,2007,3,1,2,2,4,0,0,Sub-Saharan Africa,LMIC
+810,Kiribati,2022,2,3,3,3,4,3,1,East Asia & Pacific,LMIC
+811,Kiribati,2020,3,3,3,3,4,2,1,East Asia & Pacific,LMIC
+812,Kiribati,2018,3,3,3,3,4,2,1,East Asia & Pacific,LMIC
+813,Kiribati,2016,3,2,3,3,4,2,4,East Asia & Pacific,LMIC
+814,Kiribati,2014,2,2,2,2,4,2,3,East Asia & Pacific,LMIC
+815,Kiribati,2012,2,1,1,1,1,3,1,East Asia & Pacific,LMIC
+816,Kiribati,2010,3,1,2,1,1,3,1,East Asia & Pacific,LMIC
+817,Kiribati,2008,2,1,2,1,1,3,0,East Asia & Pacific,LMIC
+818,Kiribati,2007,2,1,2,1,1,0,0,East Asia & Pacific,LMIC
+819,Kuwait,2022,1,2,4,3,4,1,1,Middle East & North Africa,HIC
+820,Kuwait,2020,2,2,4,3,4,1,2,Middle East & North Africa,HIC
+821,Kuwait,2018,4,2,4,3,4,1,1,Middle East & North Africa,HIC
+822,Kuwait,2016,4,2,4,3,4,1,1,Middle East & North Africa,HIC
+823,Kuwait,2014,4,3,4,3,3,1,3,Middle East & North Africa,HIC
+824,Kuwait,2012,4,3,4,3,3,2,4,Middle East & North Africa,HIC
+825,Kuwait,2010,4,1,3,1,3,2,3,Middle East & North Africa,HIC
+826,Kuwait,2008,4,1,3,1,3,2,0,Middle East & North Africa,HIC
+827,Kuwait,2007,3,1,3,1,3,0,0,Middle East & North Africa,HIC
+828,Kyrgyzstan,2022,2,4,3,4,4,3,1,Europe & Central Asia,LMIC
+829,Kyrgyzstan,2020,2,2,3,4,3,3,1,Europe & Central Asia,LMIC
+830,Kyrgyzstan,2018,4,2,3,4,3,2,1,Europe & Central Asia,LMIC
+831,Kyrgyzstan,2016,3,2,3,4,3,2,1,Europe & Central Asia,LMIC
+832,Kyrgyzstan,2014,3,2,3,4,3,2,1,Europe & Central Asia,LMIC
+833,Kyrgyzstan,2012,3,2,3,3,3,2,1,Europe & Central Asia,LMIC
+834,Kyrgyzstan,2010,4,2,2,3,3,2,1,Europe & Central Asia,LMIC
+835,Kyrgyzstan,2008,4,2,2,3,1,2,0,Europe & Central Asia,LMIC
+836,Kyrgyzstan,2007,4,2,2,2,1,0,0,Europe & Central Asia,LMIC
+837,Lao People's Democratic Republic,2022,4,4,1,4,4,1,1,East Asia & Pacific,LMIC
+838,Lao People's Democratic Republic,2020,4,4,1,4,3,1,1,East Asia & Pacific,LMIC
+839,Lao People's Democratic Republic,2018,4,4,1,4,3,1,1,East Asia & Pacific,LMIC
+840,Lao People's Democratic Republic,2016,4,4,1,4,3,1,1,East Asia & Pacific,LMIC
+841,Lao People's Democratic Republic,2014,4,2,1,2,3,1,3,East Asia & Pacific,LMIC
+842,Lao People's Democratic Republic,2012,3,2,2,2,3,1,1,East Asia & Pacific,LMIC
+843,Lao People's Democratic Republic,2010,1,2,2,2,3,1,1,East Asia & Pacific,LMIC
+844,Lao People's Democratic Republic,2008,3,2,2,2,3,1,0,East Asia & Pacific,LMIC
+845,Lao People's Democratic Republic,2007,3,2,2,2,3,0,0,East Asia & Pacific,LMIC
+846,Latvia,2022,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+847,Latvia,2020,4,3,3,4,3,4,4,Europe & Central Asia,HIC
+848,Latvia,2018,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+849,Latvia,2016,4,3,3,4,3,4,3,Europe & Central Asia,HIC
+850,Latvia,2014,4,2,3,3,3,4,1,Europe & Central Asia,HIC
+851,Latvia,2012,4,2,3,3,3,4,1,Europe & Central Asia,HIC
+852,Latvia,2010,4,2,3,3,3,4,1,Europe & Central Asia,HIC
+853,Latvia,2008,4,3,2,3,3,3,0,Europe & Central Asia,HIC
+854,Latvia,2007,4,1,2,2,3,0,0,Europe & Central Asia,HIC
+855,Lebanon,2022,4,4,3,2,3,1,2,Middle East & North Africa,LMIC
+856,Lebanon,2020,4,4,3,2,3,1,1,Middle East & North Africa,LMIC
+857,Lebanon,2018,4,4,3,2,3,1,2,Middle East & North Africa,LMIC
+858,Lebanon,2016,4,4,3,2,3,2,1,Middle East & North Africa,LMIC
+859,Lebanon,2014,4,4,3,2,3,2,4,Middle East & North Africa,LMIC
+860,Lebanon,2012,4,4,3,2,3,2,3,Middle East & North Africa,LMIC
+861,Lebanon,2010,3,2,3,1,1,2,4,Middle East & North Africa,LMIC
+862,Lebanon,2008,4,2,3,1,1,2,0,Middle East & North Africa,LMIC
+863,Lebanon,2007,3,2,3,1,1,0,0,Middle East & North Africa,LMIC
+864,Lesotho,2022,1,1,3,1,1,3,1,Sub-Saharan Africa,LMIC
+865,Lesotho,2020,1,1,3,1,1,3,1,Sub-Saharan Africa,LMIC
+866,Lesotho,2018,1,1,3,1,1,3,3,Sub-Saharan Africa,LMIC
+867,Lesotho,2016,2,1,3,1,1,1,1,Sub-Saharan Africa,LMIC
+868,Lesotho,2014,2,1,3,1,1,2,1,Sub-Saharan Africa,LMIC
+869,Lesotho,2012,3,1,3,1,1,2,1,Sub-Saharan Africa,LMIC
+870,Lesotho,2010,2,1,3,1,1,2,1,Sub-Saharan Africa,LMIC
+871,Lesotho,2008,2,1,2,1,1,2,0,Sub-Saharan Africa,LMIC
+872,Lesotho,2007,2,1,2,1,1,0,0,Sub-Saharan Africa,LMIC
+873,Liberia,2022,2,1,2,1,1,2,1,Sub-Saharan Africa,LIC
+874,Liberia,2020,2,1,2,1,1,2,3,Sub-Saharan Africa,LIC
+875,Liberia,2018,2,1,2,1,1,2,1,Sub-Saharan Africa,LIC
+876,Liberia,2016,2,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+877,Liberia,2014,2,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+878,Liberia,2012,2,1,2,1,1,1,4,Sub-Saharan Africa,LIC
+879,Liberia,2010,1,1,2,1,1,1,1,Sub-Saharan Africa,LIC
+880,Liberia,2008,1,1,2,1,1,1,0,Sub-Saharan Africa,LIC
+881,Liberia,2007,1,1,2,1,1,0,0,Sub-Saharan Africa,LIC
+882,Libya,2022,1,4,3,1,4,2,1,Middle East & North Africa,UMIC
+883,Libya,2020,1,4,3,1,4,1,1,Middle East & North Africa,UMIC
+884,Libya,2018,1,4,3,1,4,1,1,Middle East & North Africa,UMIC
+885,Libya,2016,1,4,3,1,4,1,1,Middle East & North Africa,UMIC
+886,Libya,2014,3,4,3,1,4,1,4,Middle East & North Africa,UMIC
+887,Libya,2012,3,4,3,1,4,1,1,Middle East & North Africa,UMIC
+888,Libya,2010,3,4,2,1,4,1,1,Middle East & North Africa,UMIC
+889,Libya,2008,2,3,2,1,3,1,0,Middle East & North Africa,UMIC
+890,Libya,2007,2,3,1,1,3,0,0,Middle East & North Africa,UMIC
+891,Lithuania,2022,4,2,3,4,3,4,2,Europe & Central Asia,HIC
+892,Lithuania,2020,4,2,3,4,3,3,1,Europe & Central Asia,HIC
+893,Lithuania,2018,4,2,3,4,3,3,1,Europe & Central Asia,HIC
+894,Lithuania,2016,4,2,3,4,3,4,1,Europe & Central Asia,HIC
+895,Lithuania,2014,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+896,Lithuania,2012,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+897,Lithuania,2010,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+898,Lithuania,2008,4,2,3,2,3,3,0,Europe & Central Asia,HIC
+899,Lithuania,2007,3,2,3,2,3,0,0,Europe & Central Asia,HIC
+900,Luxembourg,2022,4,2,4,4,3,3,1,Europe & Central Asia,HIC
+901,Luxembourg,2020,4,2,4,4,3,3,1,Europe & Central Asia,HIC
+902,Luxembourg,2018,4,2,4,4,3,3,4,Europe & Central Asia,HIC
+903,Luxembourg,2016,4,1,4,2,3,3,3,Europe & Central Asia,HIC
+904,Luxembourg,2014,4,1,3,2,3,3,4,Europe & Central Asia,HIC
+905,Luxembourg,2012,4,1,3,2,3,3,4,Europe & Central Asia,HIC
+906,Luxembourg,2010,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+907,Luxembourg,2008,3,1,1,2,3,3,0,Europe & Central Asia,HIC
+908,Luxembourg,2007,3,1,1,2,3,0,0,Europe & Central Asia,HIC
+909,Madagascar,2022,2,4,2,4,4,4,1,Sub-Saharan Africa,LIC
+910,Madagascar,2020,2,4,2,4,4,4,1,Sub-Saharan Africa,LIC
+911,Madagascar,2018,3,4,2,4,4,4,1,Sub-Saharan Africa,LIC
+912,Madagascar,2016,2,4,2,4,4,4,1,Sub-Saharan Africa,LIC
+913,Madagascar,2014,2,4,2,4,4,4,1,Sub-Saharan Africa,LIC
+914,Madagascar,2012,2,1,2,4,4,4,4,Sub-Saharan Africa,LIC
+915,Madagascar,2010,2,1,2,3,4,4,4,Sub-Saharan Africa,LIC
+916,Madagascar,2008,2,1,2,1,4,3,0,Sub-Saharan Africa,LIC
+917,Madagascar,2007,1,1,2,1,4,0,0,Sub-Saharan Africa,LIC
+918,Malawi,2022,2,1,1,1,1,2,1,Sub-Saharan Africa,LIC
+919,Malawi,2020,2,1,1,1,1,3,1,Sub-Saharan Africa,LIC
+920,Malawi,2018,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+921,Malawi,2016,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+922,Malawi,2014,3,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+923,Malawi,2012,3,1,1,1,1,2,1,Sub-Saharan Africa,LIC
+924,Malawi,2010,3,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+925,Malawi,2008,3,1,1,1,1,2,0,Sub-Saharan Africa,LIC
+926,Malawi,2007,3,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+927,Malaysia,2022,4,1,3,4,3,3,4,East Asia & Pacific,UMIC
+928,Malaysia,2020,4,1,3,4,3,3,4,East Asia & Pacific,UMIC
+929,Malaysia,2018,4,1,3,4,3,3,1,East Asia & Pacific,UMIC
+930,Malaysia,2016,4,1,3,4,3,3,4,East Asia & Pacific,UMIC
+931,Malaysia,2014,4,1,3,4,3,3,4,East Asia & Pacific,UMIC
+932,Malaysia,2012,4,1,3,4,3,3,4,East Asia & Pacific,UMIC
+933,Malaysia,2010,4,1,3,4,3,3,4,East Asia & Pacific,UMIC
+934,Malaysia,2008,3,1,3,4,3,3,0,East Asia & Pacific,UMIC
+935,Malaysia,2007,3,1,3,1,3,0,0,East Asia & Pacific,UMIC
+936,Maldives,2022,3,2,3,3,4,2,1,South Asia,UMIC
+937,Maldives,2020,2,2,3,3,4,2,1,South Asia,UMIC
+938,Maldives,2018,2,2,3,2,4,2,1,South Asia,UMIC
+939,Maldives,2016,2,2,3,2,4,3,1,South Asia,UMIC
+940,Maldives,2014,2,2,1,2,4,3,1,South Asia,UMIC
+941,Maldives,2012,2,2,2,2,4,2,1,South Asia,UMIC
+942,Maldives,2010,2,2,2,2,4,2,1,South Asia,UMIC
+943,Maldives,2008,2,1,2,2,3,2,0,South Asia,UMIC
+944,Maldives,2007,2,1,2,2,3,0,0,South Asia,UMIC
+945,Mali,2022,1,1,3,2,3,1,1,Sub-Saharan Africa,LIC
+946,Mali,2020,1,1,3,2,3,2,1,Sub-Saharan Africa,LIC
+947,Mali,2018,1,1,3,2,3,2,1,Sub-Saharan Africa,LIC
+948,Mali,2016,1,1,3,2,3,2,1,Sub-Saharan Africa,LIC
+949,Mali,2014,1,1,1,2,3,2,1,Sub-Saharan Africa,LIC
+950,Mali,2012,2,1,2,2,3,2,1,Sub-Saharan Africa,LIC
+951,Mali,2010,2,1,2,1,4,1,1,Sub-Saharan Africa,LIC
+952,Mali,2008,3,1,2,1,1,1,0,Sub-Saharan Africa,LIC
+953,Mali,2007,2,1,2,1,1,0,0,Sub-Saharan Africa,LIC
+954,Malta,2022,4,4,3,4,3,4,1,Middle East & North Africa,HIC
+955,Malta,2020,4,4,3,4,3,4,1,Middle East & North Africa,HIC
+956,Malta,2018,4,4,3,4,3,4,1,Middle East & North Africa,HIC
+957,Malta,2016,4,4,4,4,3,4,1,Middle East & North Africa,HIC
+958,Malta,2014,4,4,4,3,3,3,1,Middle East & North Africa,HIC
+959,Malta,2012,4,4,3,3,3,4,2,Middle East & North Africa,HIC
+960,Malta,2010,4,4,3,3,3,4,3,Middle East & North Africa,HIC
+961,Malta,2008,4,2,3,2,3,4,0,Middle East & North Africa,HIC
+962,Malta,2007,4,2,3,2,3,0,0,Middle East & North Africa,HIC
+963,Marshall Islands,2022,3,4,3,1,1,3,1,East Asia & Pacific,UMIC
+964,Marshall Islands,2020,3,4,3,1,1,3,1,East Asia & Pacific,UMIC
+965,Marshall Islands,2018,3,4,3,1,1,3,1,East Asia & Pacific,UMIC
+966,Marshall Islands,2016,2,4,3,1,1,3,1,East Asia & Pacific,UMIC
+967,Marshall Islands,2014,2,4,3,1,1,3,1,East Asia & Pacific,UMIC
+968,Marshall Islands,2012,2,4,3,1,1,2,1,East Asia & Pacific,UMIC
+969,Marshall Islands,2010,2,4,3,1,1,2,1,East Asia & Pacific,UMIC
+970,Marshall Islands,2008,2,4,3,1,1,3,0,East Asia & Pacific,UMIC
+971,Marshall Islands,2007,3,4,3,1,1,0,0,East Asia & Pacific,UMIC
+972,Mauritania,2022,2,1,3,4,4,1,1,Sub-Saharan Africa,LMIC
+973,Mauritania,2020,2,1,3,4,4,1,1,Sub-Saharan Africa,LMIC
+974,Mauritania,2018,2,1,1,2,4,1,1,Sub-Saharan Africa,LMIC
+975,Mauritania,2016,1,1,1,1,1,1,1,Sub-Saharan Africa,LMIC
+976,Mauritania,2014,2,1,1,1,1,1,1,Sub-Saharan Africa,LMIC
+977,Mauritania,2012,2,1,1,1,1,1,1,Sub-Saharan Africa,LMIC
+978,Mauritania,2010,2,1,1,1,1,1,1,Sub-Saharan Africa,LMIC
+979,Mauritania,2008,3,1,1,1,1,1,0,Sub-Saharan Africa,LMIC
+980,Mauritania,2007,3,1,1,1,1,0,0,Sub-Saharan Africa,LMIC
+981,Mauritius,2022,4,4,4,4,4,4,1,Sub-Saharan Africa,UMIC
+982,Mauritius,2020,3,3,3,4,4,4,1,Sub-Saharan Africa,UMIC
+983,Mauritius,2018,3,3,3,4,4,4,1,Sub-Saharan Africa,UMIC
+984,Mauritius,2016,3,3,3,4,4,3,4,Sub-Saharan Africa,UMIC
+985,Mauritius,2014,3,3,3,4,4,3,3,Sub-Saharan Africa,UMIC
+986,Mauritius,2012,4,3,3,4,4,3,4,Sub-Saharan Africa,UMIC
+987,Mauritius,2010,4,3,3,4,4,3,1,Sub-Saharan Africa,UMIC
+988,Mauritius,2008,4,3,3,4,4,4,0,Sub-Saharan Africa,UMIC
+989,Mauritius,2007,4,1,3,1,3,0,0,Sub-Saharan Africa,UMIC
+990,Mexico,2022,2,4,4,4,4,3,3,Latin America & Caribbean,UMIC
+991,Mexico,2020,2,1,4,4,1,3,3,Latin America & Caribbean,UMIC
+992,Mexico,2018,2,1,4,4,1,3,1,Latin America & Caribbean,UMIC
+993,Mexico,2016,3,1,4,4,1,3,1,Latin America & Caribbean,UMIC
+994,Mexico,2014,3,1,4,4,1,3,3,Latin America & Caribbean,UMIC
+995,Mexico,2012,3,1,3,4,1,3,1,Latin America & Caribbean,UMIC
+996,Mexico,2010,2,1,3,4,1,3,1,Latin America & Caribbean,UMIC
+997,Mexico,2008,2,1,3,3,1,3,0,Latin America & Caribbean,UMIC
+998,Mexico,2007,2,1,3,1,1,0,0,Latin America & Caribbean,UMIC
+999,Micronesia (Federated States of),2022,2,2,3,1,3,2,1,East Asia & Pacific,LMIC
+1000,Micronesia (Federated States of),2020,2,2,3,1,3,2,1,East Asia & Pacific,LMIC
+1001,Micronesia (Federated States of),2018,2,2,3,1,3,2,1,East Asia & Pacific,LMIC
+1002,Micronesia (Federated States of),2016,3,2,3,1,3,3,1,East Asia & Pacific,LMIC
+1003,Micronesia (Federated States of),2014,3,2,3,1,3,3,1,East Asia & Pacific,LMIC
+1004,Micronesia (Federated States of),2012,3,2,2,1,1,3,1,East Asia & Pacific,LMIC
+1005,Micronesia (Federated States of),2010,2,1,2,1,1,3,1,East Asia & Pacific,LMIC
+1006,Micronesia (Federated States of),2008,2,1,2,1,1,3,0,East Asia & Pacific,LMIC
+1007,Micronesia (Federated States of),2007,2,1,2,1,1,0,0,East Asia & Pacific,LMIC
+1008,Monaco,2022,2,1,3,1,1,1,4,Europe & Central Asia,HIC
+1009,Monaco,2020,2,1,3,1,1,1,4,Europe & Central Asia,HIC
+1010,Monaco,2018,2,1,3,1,1,1,1,Europe & Central Asia,HIC
+1011,Monaco,2016,2,1,3,1,1,1,1,Europe & Central Asia,HIC
+1012,Monaco,2014,2,1,3,1,1,1,1,Europe & Central Asia,HIC
+1013,Monaco,2012,2,1,3,1,1,1,1,Europe & Central Asia,HIC
+1014,Monaco,2010,2,1,3,1,1,1,1,Europe & Central Asia,HIC
+1015,Monaco,2008,2,1,3,1,1,1,0,Europe & Central Asia,HIC
+1016,Monaco,2007,2,1,2,1,1,0,0,Europe & Central Asia,HIC
+1017,Mongolia,2022,4,2,3,4,4,2,1,East Asia & Pacific,UMIC
+1018,Mongolia,2020,4,2,3,4,4,2,1,East Asia & Pacific,UMIC
+1019,Mongolia,2018,4,2,3,4,4,2,1,East Asia & Pacific,UMIC
+1020,Mongolia,2016,4,2,3,4,4,3,1,East Asia & Pacific,UMIC
+1021,Mongolia,2014,4,4,3,4,4,3,4,East Asia & Pacific,UMIC
+1022,Mongolia,2012,4,4,3,4,4,2,1,East Asia & Pacific,UMIC
+1023,Mongolia,2010,4,1,3,3,3,2,4,East Asia & Pacific,UMIC
+1024,Mongolia,2008,4,1,3,3,3,2,0,East Asia & Pacific,UMIC
+1025,Mongolia,2007,3,1,3,2,3,0,0,East Asia & Pacific,UMIC
+1026,Montenegro,2022,4,2,1,4,3,4,1,Europe & Central Asia,UMIC
+1027,Montenegro,2020,4,2,1,4,3,4,1,Europe & Central Asia,UMIC
+1028,Montenegro,2018,4,2,1,3,3,4,1,Europe & Central Asia,UMIC
+1029,Montenegro,2016,4,2,3,3,3,3,1,Europe & Central Asia,UMIC
+1030,Montenegro,2014,4,2,3,3,3,4,1,Europe & Central Asia,UMIC
+1031,Montenegro,2012,3,2,3,2,3,4,1,Europe & Central Asia,UMIC
+1032,Montenegro,2010,4,2,1,2,3,3,1,Europe & Central Asia,UMIC
+1033,Montenegro,2008,3,2,1,2,3,2,0,Europe & Central Asia,UMIC
+1034,Montenegro,2007,2,2,1,2,3,0,0,Europe & Central Asia,UMIC
+1035,Morocco,2022,2,2,2,1,3,4,4,Middle East & North Africa,LMIC
+1036,Morocco,2020,3,2,2,1,3,4,4,Middle East & North Africa,LMIC
+1037,Morocco,2018,3,2,2,1,3,3,3,Middle East & North Africa,LMIC
+1038,Morocco,2016,2,2,2,1,3,3,4,Middle East & North Africa,LMIC
+1039,Morocco,2014,2,2,2,1,3,3,1,Middle East & North Africa,LMIC
+1040,Morocco,2012,2,2,2,1,3,3,1,Middle East & North Africa,LMIC
+1041,Morocco,2010,4,2,2,1,3,3,4,Middle East & North Africa,LMIC
+1042,Morocco,2008,4,2,2,1,3,3,0,Middle East & North Africa,LMIC
+1043,Morocco,2007,4,2,2,1,3,0,0,Middle East & North Africa,LMIC
+1044,Mozambique,2022,1,1,3,1,3,1,1,Sub-Saharan Africa,LIC
+1045,Mozambique,2020,2,1,3,1,3,2,1,Sub-Saharan Africa,LIC
+1046,Mozambique,2018,2,1,3,1,3,2,1,Sub-Saharan Africa,LIC
+1047,Mozambique,2016,2,1,2,1,3,2,1,Sub-Saharan Africa,LIC
+1048,Mozambique,2014,2,1,2,1,3,2,1,Sub-Saharan Africa,LIC
+1049,Mozambique,2012,1,1,2,1,3,1,1,Sub-Saharan Africa,LIC
+1050,Mozambique,2010,2,1,2,1,3,2,1,Sub-Saharan Africa,LIC
+1051,Mozambique,2008,2,1,2,1,3,2,0,Sub-Saharan Africa,LIC
+1052,Mozambique,2007,2,1,2,1,3,0,0,Sub-Saharan Africa,LIC
+1053,Myanmar,2022,1,2,3,4,3,2,1,East Asia & Pacific,LMIC
+1054,Myanmar,2020,2,2,3,3,3,2,4,East Asia & Pacific,LMIC
+1055,Myanmar,2018,4,2,3,3,3,2,4,East Asia & Pacific,LMIC
+1056,Myanmar,2016,4,2,3,3,3,2,1,East Asia & Pacific,LMIC
+1057,Myanmar,2014,4,2,3,1,3,3,1,East Asia & Pacific,LMIC
+1058,Myanmar,2012,4,2,2,1,3,3,2,East Asia & Pacific,LMIC
+1059,Myanmar,2010,3,2,2,1,3,2,2,East Asia & Pacific,LMIC
+1060,Myanmar,2008,3,2,2,1,3,2,0,East Asia & Pacific,LMIC
+1061,Myanmar,2007,3,2,2,1,3,0,0,East Asia & Pacific,LMIC
+1062,Namibia,2022,1,4,3,4,3,3,1,Sub-Saharan Africa,UMIC
+1063,Namibia,2020,1,4,3,4,3,2,4,Sub-Saharan Africa,UMIC
+1064,Namibia,2018,2,4,3,4,3,2,3,Sub-Saharan Africa,UMIC
+1065,Namibia,2016,2,4,3,4,3,2,1,Sub-Saharan Africa,UMIC
+1066,Namibia,2014,2,4,3,4,3,2,1,Sub-Saharan Africa,UMIC
+1067,Namibia,2012,2,4,3,1,3,2,1,Sub-Saharan Africa,UMIC
+1068,Namibia,2010,2,4,2,1,3,2,1,Sub-Saharan Africa,UMIC
+1069,Namibia,2008,3,1,2,1,1,2,0,Sub-Saharan Africa,UMIC
+1070,Namibia,2007,3,1,2,1,1,0,0,Sub-Saharan Africa,UMIC
+1071,Nauru,2022,1,4,2,2,3,2,4,East Asia & Pacific,HIC
+1072,Nauru,2020,2,4,2,2,3,2,1,East Asia & Pacific,HIC
+1073,Nauru,2018,2,4,2,2,3,2,1,East Asia & Pacific,HIC
+1074,Nauru,2016,3,4,2,2,3,3,1,East Asia & Pacific,HIC
+1075,Nauru,2014,2,4,2,2,3,1,1,East Asia & Pacific,HIC
+1076,Nauru,2012,2,4,2,2,3,1,1,East Asia & Pacific,HIC
+1077,Nauru,2010,1,4,2,2,3,2,1,East Asia & Pacific,HIC
+1078,Nauru,2008,2,1,2,1,1,2,0,East Asia & Pacific,HIC
+1079,Nauru,2007,2,1,2,1,1,0,0,East Asia & Pacific,HIC
+1080,Nepal,2022,2,4,1,4,4,2,3,South Asia,LMIC
+1081,Nepal,2020,3,4,1,4,4,2,1,South Asia,LMIC
+1082,Nepal,2018,3,4,3,4,4,2,1,South Asia,LMIC
+1083,Nepal,2016,3,4,3,4,4,2,4,South Asia,LMIC
+1084,Nepal,2014,3,4,2,4,4,2,4,South Asia,LMIC
+1085,Nepal,2012,3,4,2,4,3,2,3,South Asia,LMIC
+1086,Nepal,2010,4,2,3,1,3,2,3,South Asia,LMIC
+1087,Nepal,2008,3,1,3,1,1,1,0,South Asia,LMIC
+1088,Nepal,2007,3,1,1,1,1,0,0,South Asia,LMIC
+1089,Netherlands (Kingdom of the),2022,4,4,4,4,4,4,4,Europe & Central Asia,HIC
+1090,Netherlands (Kingdom of the),2020,4,1,4,4,3,4,1,Europe & Central Asia,HIC
+1091,Netherlands (Kingdom of the),2018,4,1,4,4,3,3,3,Europe & Central Asia,HIC
+1092,Netherlands (Kingdom of the),2016,4,1,4,4,3,3,4,Europe & Central Asia,HIC
+1093,Netherlands (Kingdom of the),2014,4,1,4,2,3,3,4,Europe & Central Asia,HIC
+1094,Netherlands (Kingdom of the),2012,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+1095,Netherlands (Kingdom of the),2010,4,1,3,2,3,3,4,Europe & Central Asia,HIC
+1096,Netherlands (Kingdom of the),2008,4,1,2,2,3,3,0,Europe & Central Asia,HIC
+1097,Netherlands (Kingdom of the),2007,4,1,2,2,3,0,0,Europe & Central Asia,HIC
+1098,New Zealand,2022,4,4,4,4,3,4,4,East Asia & Pacific,HIC
+1099,New Zealand,2020,4,4,4,4,3,4,4,East Asia & Pacific,HIC
+1100,New Zealand,2018,4,4,4,4,3,4,4,East Asia & Pacific,HIC
+1101,New Zealand,2016,4,4,4,4,3,3,4,East Asia & Pacific,HIC
+1102,New Zealand,2014,4,4,4,4,3,4,3,East Asia & Pacific,HIC
+1103,New Zealand,2012,4,4,4,4,3,3,4,East Asia & Pacific,HIC
+1104,New Zealand,2010,4,4,4,4,3,4,3,East Asia & Pacific,HIC
+1105,New Zealand,2008,4,4,4,4,3,3,0,East Asia & Pacific,HIC
+1106,New Zealand,2007,4,4,4,4,3,0,0,East Asia & Pacific,HIC
+1107,Nicaragua,2022,2,3,2,3,1,4,1,Latin America & Caribbean,LMIC
+1108,Nicaragua,2020,2,3,2,3,1,3,1,Latin America & Caribbean,LMIC
+1109,Nicaragua,2018,2,3,2,3,1,2,1,Latin America & Caribbean,LMIC
+1110,Nicaragua,2016,2,3,2,3,1,2,1,Latin America & Caribbean,LMIC
+1111,Nicaragua,2014,2,3,2,3,1,2,1,Latin America & Caribbean,LMIC
+1112,Nicaragua,2012,1,3,2,3,1,2,1,Latin America & Caribbean,LMIC
+1113,Nicaragua,2010,1,3,2,3,1,2,1,Latin America & Caribbean,LMIC
+1114,Nicaragua,2008,1,1,2,1,1,1,0,Latin America & Caribbean,LMIC
+1115,Nicaragua,2007,1,1,2,1,1,0,0,Latin America & Caribbean,LMIC
+1116,Niger,2022,2,2,1,4,4,2,1,Sub-Saharan Africa,LIC
+1117,Niger,2020,1,2,1,4,4,2,1,Sub-Saharan Africa,LIC
+1118,Niger,2018,1,2,2,3,4,2,1,Sub-Saharan Africa,LIC
+1119,Niger,2016,1,2,2,3,4,2,1,Sub-Saharan Africa,LIC
+1120,Niger,2014,2,2,2,3,4,2,1,Sub-Saharan Africa,LIC
+1121,Niger,2012,3,2,2,3,4,2,1,Sub-Saharan Africa,LIC
+1122,Niger,2010,3,2,2,2,4,2,4,Sub-Saharan Africa,LIC
+1123,Niger,2008,3,2,2,2,4,2,0,Sub-Saharan Africa,LIC
+1124,Niger,2007,3,1,2,2,4,0,0,Sub-Saharan Africa,LIC
+1125,Nigeria,2022,1,1,3,4,4,2,3,Sub-Saharan Africa,LMIC
+1126,Nigeria,2020,1,1,3,4,4,2,1,Sub-Saharan Africa,LMIC
+1127,Nigeria,2018,1,1,3,3,4,2,1,Sub-Saharan Africa,LMIC
+1128,Nigeria,2016,2,1,3,3,4,1,1,Sub-Saharan Africa,LMIC
+1129,Nigeria,2014,2,2,3,1,1,1,1,Sub-Saharan Africa,LMIC
+1130,Nigeria,2012,2,2,3,1,1,1,1,Sub-Saharan Africa,LMIC
+1131,Nigeria,2010,1,2,3,1,1,1,1,Sub-Saharan Africa,LMIC
+1132,Nigeria,2008,1,2,3,1,1,1,0,Sub-Saharan Africa,LMIC
+1133,Nigeria,2007,1,2,3,1,1,0,0,Sub-Saharan Africa,LMIC
+1134,Niue,2022,3,4,3,2,4,1,1,East Asia & Pacific,HIC
+1135,Niue,2020,3,4,3,2,4,3,1,East Asia & Pacific,HIC
+1136,Niue,2018,2,4,3,2,4,4,1,East Asia & Pacific,HIC
+1137,Niue,2016,2,1,3,1,1,4,1,East Asia & Pacific,HIC
+1138,Niue,2014,4,1,3,1,1,4,1,East Asia & Pacific,HIC
+1139,Niue,2012,4,1,3,1,1,3,1,East Asia & Pacific,HIC
+1140,Niue,2010,4,1,3,1,1,3,3,East Asia & Pacific,HIC
+1141,Niue,2008,2,1,3,1,1,4,0,East Asia & Pacific,HIC
+1142,Niue,2007,2,1,3,1,1,0,0,East Asia & Pacific,HIC
+1143,North Macedonia,2022,3,4,3,3,3,4,1,Europe & Central Asia,UMIC
+1144,North Macedonia,2020,3,4,3,3,3,4,1,Europe & Central Asia,UMIC
+1145,North Macedonia,2018,3,4,3,3,3,4,1,Europe & Central Asia,UMIC
+1146,North Macedonia,2016,2,4,3,3,3,3,1,Europe & Central Asia,UMIC
+1147,North Macedonia,2014,3,4,3,3,3,3,1,Europe & Central Asia,UMIC
+1148,North Macedonia,2012,3,4,2,3,3,3,1,Europe & Central Asia,UMIC
+1149,North Macedonia,2010,3,4,2,3,3,3,1,Europe & Central Asia,UMIC
+1150,North Macedonia,2008,2,4,2,3,3,3,0,Europe & Central Asia,UMIC
+1151,North Macedonia,2007,2,1,2,2,3,0,0,Europe & Central Asia,UMIC
+1152,Norway,2022,4,4,3,3,3,3,4,Europe & Central Asia,HIC
+1153,Norway,2020,4,4,3,3,3,3,4,Europe & Central Asia,HIC
+1154,Norway,2018,4,4,3,3,3,3,4,Europe & Central Asia,HIC
+1155,Norway,2016,4,4,3,3,3,3,4,Europe & Central Asia,HIC
+1156,Norway,2014,4,4,3,3,3,3,4,Europe & Central Asia,HIC
+1157,Norway,2012,4,2,3,3,3,3,4,Europe & Central Asia,HIC
+1158,Norway,2010,3,2,3,3,3,3,1,Europe & Central Asia,HIC
+1159,Norway,2008,4,2,3,2,3,3,0,Europe & Central Asia,HIC
+1160,Norway,2007,4,2,3,2,3,0,0,Europe & Central Asia,HIC
+1161,"occupied Palestinian territory, including east Jerusalem",2022,2,4,2,1,4,4,4,,
+1162,"occupied Palestinian territory, including east Jerusalem",2020,1,4,2,1,4,4,2,,
+1163,"occupied Palestinian territory, including east Jerusalem",2018,1,4,2,1,4,4,3,,
+1164,"occupied Palestinian territory, including east Jerusalem",2016,2,4,2,1,4,4,1,,
+1165,"occupied Palestinian territory, including east Jerusalem",2014,3,4,2,1,4,4,2,,
+1166,"occupied Palestinian territory, including east Jerusalem",2012,3,4,2,1,4,4,1,,
+1167,"occupied Palestinian territory, including east Jerusalem",2010,3,3,2,1,3,4,1,,
+1168,"occupied Palestinian territory, including east Jerusalem",2008,2,3,2,1,3,1,0,,
+1169,"occupied Palestinian territory, including east Jerusalem",2007,2,3,2,1,3,0,0,,
+1170,Oman,2022,2,1,1,3,3,3,1,Middle East & North Africa,HIC
+1171,Oman,2020,3,1,1,3,3,3,1,Middle East & North Africa,HIC
+1172,Oman,2018,3,1,2,3,3,2,1,Middle East & North Africa,HIC
+1173,Oman,2016,2,1,3,3,3,1,1,Middle East & North Africa,HIC
+1174,Oman,2014,2,1,3,3,1,1,1,Middle East & North Africa,HIC
+1175,Oman,2012,3,1,2,3,1,1,1,Middle East & North Africa,HIC
+1176,Oman,2010,3,1,2,1,1,2,1,Middle East & North Africa,HIC
+1177,Oman,2008,3,1,2,1,1,2,0,Middle East & North Africa,HIC
+1178,Oman,2007,2,1,2,1,1,0,0,Middle East & North Africa,HIC
+1179,Pakistan,2022,2,4,3,4,3,3,1,South Asia,LMIC
+1180,Pakistan,2020,2,4,3,4,3,3,3,South Asia,LMIC
+1181,Pakistan,2018,4,4,3,4,3,3,4,South Asia,LMIC
+1182,Pakistan,2016,4,4,3,3,3,3,4,South Asia,LMIC
+1183,Pakistan,2014,4,4,3,3,3,3,3,South Asia,LMIC
+1184,Pakistan,2012,4,4,2,3,1,3,1,South Asia,LMIC
+1185,Pakistan,2010,2,4,2,3,1,3,1,South Asia,LMIC
+1186,Pakistan,2008,2,2,2,2,1,3,0,South Asia,LMIC
+1187,Pakistan,2007,2,3,2,2,1,0,0,South Asia,LMIC
+1188,Palau,2022,4,3,3,1,3,3,2,East Asia & Pacific,HIC
+1189,Palau,2020,4,3,3,1,3,3,4,East Asia & Pacific,HIC
+1190,Palau,2018,4,3,3,1,3,3,3,East Asia & Pacific,HIC
+1191,Palau,2016,4,3,3,1,3,3,1,East Asia & Pacific,HIC
+1192,Palau,2014,4,3,3,1,3,3,4,East Asia & Pacific,HIC
+1193,Palau,2012,4,3,3,1,3,3,4,East Asia & Pacific,HIC
+1194,Palau,2010,4,1,3,1,1,3,1,East Asia & Pacific,HIC
+1195,Palau,2008,2,1,3,1,1,3,0,East Asia & Pacific,HIC
+1196,Palau,2007,2,1,3,1,1,0,0,East Asia & Pacific,HIC
+1197,Panama,2022,3,4,3,4,4,3,4,Latin America & Caribbean,HIC
+1198,Panama,2020,3,4,3,4,4,3,1,Latin America & Caribbean,HIC
+1199,Panama,2018,3,4,3,4,4,3,4,Latin America & Caribbean,HIC
+1200,Panama,2016,4,4,4,4,4,3,2,Latin America & Caribbean,HIC
+1201,Panama,2014,4,4,4,4,4,3,3,Latin America & Caribbean,HIC
+1202,Panama,2012,4,4,4,4,4,3,1,Latin America & Caribbean,HIC
+1203,Panama,2010,4,4,4,4,4,3,1,Latin America & Caribbean,HIC
+1204,Panama,2008,3,4,3,4,4,2,0,Latin America & Caribbean,HIC
+1205,Panama,2007,3,2,3,4,1,0,0,Latin America & Caribbean,HIC
+1206,Papua New Guinea,2022,1,4,1,2,3,3,1,East Asia & Pacific,LMIC
+1207,Papua New Guinea,2020,2,4,1,2,3,3,1,East Asia & Pacific,LMIC
+1208,Papua New Guinea,2018,2,4,2,2,3,3,1,East Asia & Pacific,LMIC
+1209,Papua New Guinea,2016,2,4,1,1,3,2,1,East Asia & Pacific,LMIC
+1210,Papua New Guinea,2014,2,4,1,1,3,2,1,East Asia & Pacific,LMIC
+1211,Papua New Guinea,2012,3,4,1,1,3,2,1,East Asia & Pacific,LMIC
+1212,Papua New Guinea,2010,3,2,1,1,3,1,1,East Asia & Pacific,LMIC
+1213,Papua New Guinea,2008,3,2,1,1,3,2,0,East Asia & Pacific,LMIC
+1214,Papua New Guinea,2007,3,2,1,1,3,0,0,East Asia & Pacific,LMIC
+1215,Paraguay,2022,2,4,3,2,3,1,1,Latin America & Caribbean,UMIC
+1216,Paraguay,2020,2,4,3,2,3,1,2,Latin America & Caribbean,UMIC
+1217,Paraguay,2018,2,3,3,2,3,1,1,Latin America & Caribbean,UMIC
+1218,Paraguay,2016,3,1,3,2,3,1,1,Latin America & Caribbean,UMIC
+1219,Paraguay,2014,3,1,3,1,1,1,1,Latin America & Caribbean,UMIC
+1220,Paraguay,2012,3,1,3,1,1,1,1,Latin America & Caribbean,UMIC
+1221,Paraguay,2010,2,1,3,1,1,1,1,Latin America & Caribbean,UMIC
+1222,Paraguay,2008,3,1,3,1,1,1,0,Latin America & Caribbean,UMIC
+1223,Paraguay,2007,3,1,3,1,1,0,0,Latin America & Caribbean,UMIC
+1224,Peru,2022,4,4,3,4,1,3,1,Latin America & Caribbean,UMIC
+1225,Peru,2020,4,4,3,4,1,3,2,Latin America & Caribbean,UMIC
+1226,Peru,2018,4,4,3,4,1,2,1,Latin America & Caribbean,UMIC
+1227,Peru,2016,4,4,3,4,1,2,2,Latin America & Caribbean,UMIC
+1228,Peru,2014,4,4,3,4,1,2,1,Latin America & Caribbean,UMIC
+1229,Peru,2012,4,4,2,4,1,2,1,Latin America & Caribbean,UMIC
+1230,Peru,2010,4,4,2,4,1,2,1,Latin America & Caribbean,UMIC
+1231,Peru,2008,4,2,2,1,1,2,0,Latin America & Caribbean,UMIC
+1232,Peru,2007,3,2,2,1,1,0,0,Latin America & Caribbean,UMIC
+1233,Philippines,2022,4,2,4,4,3,3,3,East Asia & Pacific,LMIC
+1234,Philippines,2020,4,2,4,4,3,3,3,East Asia & Pacific,LMIC
+1235,Philippines,2018,4,2,3,4,3,3,3,East Asia & Pacific,LMIC
+1236,Philippines,2016,4,2,3,4,3,3,4,East Asia & Pacific,LMIC
+1237,Philippines,2014,4,2,3,4,3,3,1,East Asia & Pacific,LMIC
+1238,Philippines,2012,4,2,3,1,3,2,1,East Asia & Pacific,LMIC
+1239,Philippines,2010,4,2,3,1,3,2,4,East Asia & Pacific,LMIC
+1240,Philippines,2008,4,2,3,1,3,2,0,East Asia & Pacific,LMIC
+1241,Philippines,2007,4,2,3,1,1,0,0,East Asia & Pacific,LMIC
+1242,Poland,2022,4,2,3,4,3,4,2,Europe & Central Asia,HIC
+1243,Poland,2020,4,2,3,4,3,4,2,Europe & Central Asia,HIC
+1244,Poland,2018,4,2,3,4,3,4,1,Europe & Central Asia,HIC
+1245,Poland,2016,4,2,3,4,3,4,3,Europe & Central Asia,HIC
+1246,Poland,2014,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1247,Poland,2012,4,2,3,2,3,4,3,Europe & Central Asia,HIC
+1248,Poland,2010,4,2,3,2,3,4,4,Europe & Central Asia,HIC
+1249,Poland,2008,4,1,3,2,3,4,0,Europe & Central Asia,HIC
+1250,Poland,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+1251,Portugal,2022,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+1252,Portugal,2020,4,3,3,4,3,4,1,Europe & Central Asia,HIC
+1253,Portugal,2018,4,3,3,4,3,3,2,Europe & Central Asia,HIC
+1254,Portugal,2016,4,3,3,4,3,3,4,Europe & Central Asia,HIC
+1255,Portugal,2014,4,2,3,2,3,3,4,Europe & Central Asia,HIC
+1256,Portugal,2012,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1257,Portugal,2010,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1258,Portugal,2008,4,2,3,2,3,4,0,Europe & Central Asia,HIC
+1259,Portugal,2007,4,2,3,2,3,0,0,Europe & Central Asia,HIC
+1260,Qatar,2022,2,2,3,4,4,3,3,Middle East & North Africa,HIC
+1261,Qatar,2020,2,1,3,4,4,3,4,Middle East & North Africa,HIC
+1262,Qatar,2018,4,1,3,3,4,2,4,Middle East & North Africa,HIC
+1263,Qatar,2016,4,1,3,3,4,1,1,Middle East & North Africa,HIC
+1264,Qatar,2014,4,1,3,3,3,1,1,Middle East & North Africa,HIC
+1265,Qatar,2012,4,1,3,3,3,1,1,Middle East & North Africa,HIC
+1266,Qatar,2010,3,1,3,1,3,2,1,Middle East & North Africa,HIC
+1267,Qatar,2008,3,1,3,1,3,2,0,Middle East & North Africa,HIC
+1268,Qatar,2007,3,1,3,1,3,0,0,Middle East & North Africa,HIC
+1269,Republic of Korea,2022,4,1,4,3,1,3,4,East Asia & Pacific,HIC
+1270,Republic of Korea,2020,4,1,4,3,1,3,4,East Asia & Pacific,HIC
+1271,Republic of Korea,2018,4,1,4,3,1,3,4,East Asia & Pacific,HIC
+1272,Republic of Korea,2016,4,1,4,3,1,3,4,East Asia & Pacific,HIC
+1273,Republic of Korea,2014,4,1,4,2,1,3,4,East Asia & Pacific,HIC
+1274,Republic of Korea,2012,4,1,4,2,1,3,4,East Asia & Pacific,HIC
+1275,Republic of Korea,2010,4,1,4,2,1,3,1,East Asia & Pacific,HIC
+1276,Republic of Korea,2008,4,1,4,2,1,3,0,East Asia & Pacific,HIC
+1277,Republic of Korea,2007,4,1,4,2,1,0,0,East Asia & Pacific,HIC
+1278,Republic of Moldova,2022,4,4,3,4,4,3,1,Europe & Central Asia,UMIC
+1279,Republic of Moldova,2020,4,4,3,4,4,3,1,Europe & Central Asia,UMIC
+1280,Republic of Moldova,2018,4,4,3,4,4,3,4,Europe & Central Asia,UMIC
+1281,Republic of Moldova,2016,4,4,3,4,4,3,4,Europe & Central Asia,UMIC
+1282,Republic of Moldova,2014,4,2,3,2,3,3,4,Europe & Central Asia,UMIC
+1283,Republic of Moldova,2012,4,2,2,2,3,2,1,Europe & Central Asia,UMIC
+1284,Republic of Moldova,2010,4,2,2,2,3,2,2,Europe & Central Asia,UMIC
+1285,Republic of Moldova,2008,2,2,2,2,3,1,0,Europe & Central Asia,UMIC
+1286,Republic of Moldova,2007,2,2,2,2,3,0,0,Europe & Central Asia,UMIC
+1287,Romania,2022,4,4,4,4,3,3,1,Europe & Central Asia,HIC
+1288,Romania,2020,4,4,3,4,3,3,1,Europe & Central Asia,HIC
+1289,Romania,2018,4,4,3,4,3,3,1,Europe & Central Asia,HIC
+1290,Romania,2016,4,4,3,4,3,3,3,Europe & Central Asia,HIC
+1291,Romania,2014,4,1,3,3,3,4,1,Europe & Central Asia,HIC
+1292,Romania,2012,4,1,4,3,3,3,1,Europe & Central Asia,HIC
+1293,Romania,2010,4,1,4,3,3,4,3,Europe & Central Asia,HIC
+1294,Romania,2008,4,1,4,3,3,3,0,Europe & Central Asia,HIC
+1295,Romania,2007,3,1,3,2,3,0,0,Europe & Central Asia,HIC
+1296,Russian Federation,2022,4,4,3,4,4,3,4,Europe & Central Asia,HIC
+1297,Russian Federation,2020,4,4,3,4,4,3,4,Europe & Central Asia,HIC
+1298,Russian Federation,2018,4,4,3,4,4,3,1,Europe & Central Asia,HIC
+1299,Russian Federation,2016,4,4,3,4,4,3,3,Europe & Central Asia,HIC
+1300,Russian Federation,2014,4,4,3,4,4,2,4,Europe & Central Asia,HIC
+1301,Russian Federation,2012,4,1,2,2,1,2,4,Europe & Central Asia,HIC
+1302,Russian Federation,2010,4,1,2,2,1,2,4,Europe & Central Asia,HIC
+1303,Russian Federation,2008,4,1,2,2,1,2,0,Europe & Central Asia,HIC
+1304,Russian Federation,2007,4,1,2,1,1,0,0,Europe & Central Asia,HIC
+1305,Rwanda,2022,2,1,1,2,1,3,3,Sub-Saharan Africa,LIC
+1306,Rwanda,2020,1,1,1,2,1,3,4,Sub-Saharan Africa,LIC
+1307,Rwanda,2018,1,1,1,2,1,3,2,Sub-Saharan Africa,LIC
+1308,Rwanda,2016,2,1,2,2,1,3,1,Sub-Saharan Africa,LIC
+1309,Rwanda,2014,2,1,2,1,1,2,1,Sub-Saharan Africa,LIC
+1310,Rwanda,2012,3,1,1,1,1,2,3,Sub-Saharan Africa,LIC
+1311,Rwanda,2010,2,1,1,1,1,2,4,Sub-Saharan Africa,LIC
+1312,Rwanda,2008,2,1,1,1,1,2,0,Sub-Saharan Africa,LIC
+1313,Rwanda,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+1314,Saint Kitts and Nevis,2022,1,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1315,Saint Kitts and Nevis,2020,1,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1316,Saint Kitts and Nevis,2018,1,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1317,Saint Kitts and Nevis,2016,1,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1318,Saint Kitts and Nevis,2014,2,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1319,Saint Kitts and Nevis,2012,3,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1320,Saint Kitts and Nevis,2010,3,1,2,1,1,1,1,Latin America & Caribbean,HIC
+1321,Saint Kitts and Nevis,2008,2,1,2,1,1,1,0,Latin America & Caribbean,HIC
+1322,Saint Kitts and Nevis,2007,2,1,2,1,1,0,0,Latin America & Caribbean,HIC
+1323,Saint Lucia,2022,3,4,3,4,1,2,4,Latin America & Caribbean,UMIC
+1324,Saint Lucia,2020,3,4,3,4,1,3,4,Latin America & Caribbean,UMIC
+1325,Saint Lucia,2018,2,1,3,4,1,3,4,Latin America & Caribbean,UMIC
+1326,Saint Lucia,2016,3,1,3,1,1,3,1,Latin America & Caribbean,UMIC
+1327,Saint Lucia,2014,3,1,1,1,1,3,1,Latin America & Caribbean,UMIC
+1328,Saint Lucia,2012,3,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+1329,Saint Lucia,2010,2,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+1330,Saint Lucia,2008,2,1,2,1,1,2,0,Latin America & Caribbean,UMIC
+1331,Saint Lucia,2007,2,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+1332,Saint Vincent and the Grenadines,2022,2,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1333,Saint Vincent and the Grenadines,2020,2,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1334,Saint Vincent and the Grenadines,2018,3,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1335,Saint Vincent and the Grenadines,2016,3,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1336,Saint Vincent and the Grenadines,2014,3,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1337,Saint Vincent and the Grenadines,2012,2,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1338,Saint Vincent and the Grenadines,2010,2,1,2,1,1,1,1,Latin America & Caribbean,UMIC
+1339,Saint Vincent and the Grenadines,2008,2,1,2,1,1,1,0,Latin America & Caribbean,UMIC
+1340,Saint Vincent and the Grenadines,2007,2,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+1341,Samoa,2022,2,3,3,4,3,2,3,East Asia & Pacific,LMIC
+1342,Samoa,2020,2,3,3,4,3,2,1,East Asia & Pacific,LMIC
+1343,Samoa,2018,3,3,3,4,3,2,2,East Asia & Pacific,LMIC
+1344,Samoa,2016,3,3,3,4,3,3,1,East Asia & Pacific,LMIC
+1345,Samoa,2014,3,3,2,4,3,3,4,East Asia & Pacific,LMIC
+1346,Samoa,2012,2,3,2,2,3,3,4,East Asia & Pacific,LMIC
+1347,Samoa,2010,2,3,2,2,3,3,4,East Asia & Pacific,LMIC
+1348,Samoa,2008,2,3,2,2,3,3,0,East Asia & Pacific,LMIC
+1349,Samoa,2007,3,1,2,1,1,0,0,East Asia & Pacific,LMIC
+1350,San Marino,2022,2,2,1,1,3,3,1,Europe & Central Asia,HIC
+1351,San Marino,2020,2,2,1,1,3,1,1,Europe & Central Asia,HIC
+1352,San Marino,2018,3,2,1,1,3,1,1,Europe & Central Asia,HIC
+1353,San Marino,2016,3,2,3,1,3,3,1,Europe & Central Asia,HIC
+1354,San Marino,2014,3,2,3,1,3,3,1,Europe & Central Asia,HIC
+1355,San Marino,2012,2,2,2,1,3,3,1,Europe & Central Asia,HIC
+1356,San Marino,2010,2,2,2,1,3,3,1,Europe & Central Asia,HIC
+1357,San Marino,2008,1,2,2,1,3,1,0,Europe & Central Asia,HIC
+1358,San Marino,2007,1,1,2,1,1,0,0,Europe & Central Asia,HIC
+1359,Sao Tome and Principe,2022,2,1,1,1,3,2,1,Sub-Saharan Africa,LMIC
+1360,Sao Tome and Principe,2020,2,1,1,1,3,2,1,Sub-Saharan Africa,LMIC
+1361,Sao Tome and Principe,2018,1,1,1,1,3,2,1,Sub-Saharan Africa,LMIC
+1362,Sao Tome and Principe,2016,1,1,3,1,3,2,1,Sub-Saharan Africa,LMIC
+1363,Sao Tome and Principe,2014,2,1,3,1,3,2,1,Sub-Saharan Africa,LMIC
+1364,Sao Tome and Principe,2012,3,1,1,1,1,2,4,Sub-Saharan Africa,LMIC
+1365,Sao Tome and Principe,2010,3,1,1,1,1,2,1,Sub-Saharan Africa,LMIC
+1366,Sao Tome and Principe,2008,2,1,1,1,1,2,0,Sub-Saharan Africa,LMIC
+1367,Sao Tome and Principe,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LMIC
+1368,Saudi Arabia,2022,3,3,4,4,4,3,2,Middle East & North Africa,HIC
+1369,Saudi Arabia,2020,2,3,4,4,4,3,4,Middle East & North Africa,HIC
+1370,Saudi Arabia,2018,2,3,4,4,4,3,3,Middle East & North Africa,HIC
+1371,Saudi Arabia,2016,2,3,3,3,3,1,2,Middle East & North Africa,HIC
+1372,Saudi Arabia,2014,3,4,3,3,1,1,1,Middle East & North Africa,HIC
+1373,Saudi Arabia,2012,2,4,3,3,1,1,2,Middle East & North Africa,HIC
+1374,Saudi Arabia,2010,4,2,3,1,1,2,2,Middle East & North Africa,HIC
+1375,Saudi Arabia,2008,4,2,3,1,1,2,0,Middle East & North Africa,HIC
+1376,Saudi Arabia,2007,3,2,3,1,1,0,0,Middle East & North Africa,HIC
+1377,Senegal,2022,2,3,3,4,4,2,1,Sub-Saharan Africa,LMIC
+1378,Senegal,2020,3,3,3,4,4,2,1,Sub-Saharan Africa,LMIC
+1379,Senegal,2018,3,3,4,4,4,2,4,Sub-Saharan Africa,LMIC
+1380,Senegal,2016,3,3,4,4,4,2,1,Sub-Saharan Africa,LMIC
+1381,Senegal,2014,2,1,3,1,3,2,4,Sub-Saharan Africa,LMIC
+1382,Senegal,2012,2,1,2,1,1,2,1,Sub-Saharan Africa,LMIC
+1383,Senegal,2010,2,1,2,1,1,2,1,Sub-Saharan Africa,LMIC
+1384,Senegal,2008,3,1,2,1,1,2,0,Sub-Saharan Africa,LMIC
+1385,Senegal,2007,3,1,2,1,1,0,0,Sub-Saharan Africa,LMIC
+1386,Serbia,2022,4,2,3,2,3,4,1,Europe & Central Asia,UMIC
+1387,Serbia,2020,4,2,3,2,3,4,1,Europe & Central Asia,UMIC
+1388,Serbia,2018,4,2,3,2,3,4,1,Europe & Central Asia,UMIC
+1389,Serbia,2016,4,2,3,2,3,4,1,Europe & Central Asia,UMIC
+1390,Serbia,2014,4,2,3,2,3,4,1,Europe & Central Asia,UMIC
+1391,Serbia,2012,4,2,3,2,3,4,3,Europe & Central Asia,UMIC
+1392,Serbia,2010,4,2,3,2,3,4,3,Europe & Central Asia,UMIC
+1393,Serbia,2008,3,2,2,2,3,3,0,Europe & Central Asia,UMIC
+1394,Serbia,2007,3,2,2,2,3,0,0,Europe & Central Asia,UMIC
+1395,Seychelles,2022,1,4,3,4,4,3,3,Sub-Saharan Africa,HIC
+1396,Seychelles,2020,2,4,3,4,4,3,3,Sub-Saharan Africa,HIC
+1397,Seychelles,2018,3,4,3,4,4,3,4,Sub-Saharan Africa,HIC
+1398,Seychelles,2016,3,4,3,4,4,3,4,Sub-Saharan Africa,HIC
+1399,Seychelles,2014,2,4,3,4,4,4,1,Sub-Saharan Africa,HIC
+1400,Seychelles,2012,2,4,2,4,4,3,4,Sub-Saharan Africa,HIC
+1401,Seychelles,2010,2,4,2,2,4,3,2,Sub-Saharan Africa,HIC
+1402,Seychelles,2008,3,1,2,1,1,4,0,Sub-Saharan Africa,HIC
+1403,Seychelles,2007,3,1,2,1,1,0,0,Sub-Saharan Africa,HIC
+1404,Sierra Leone,2022,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1405,Sierra Leone,2020,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1406,Sierra Leone,2018,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1407,Sierra Leone,2016,1,1,1,1,1,1,3,Sub-Saharan Africa,LIC
+1408,Sierra Leone,2014,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1409,Sierra Leone,2012,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1410,Sierra Leone,2010,2,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1411,Sierra Leone,2008,1,1,1,1,1,1,0,Sub-Saharan Africa,LIC
+1412,Sierra Leone,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+1413,Singapore,2022,4,2,4,4,3,3,2,East Asia & Pacific,HIC
+1414,Singapore,2020,4,2,4,4,3,3,3,East Asia & Pacific,HIC
+1415,Singapore,2018,4,2,4,4,3,3,3,East Asia & Pacific,HIC
+1416,Singapore,2016,4,2,4,4,3,3,4,East Asia & Pacific,HIC
+1417,Singapore,2014,4,2,4,4,3,3,4,East Asia & Pacific,HIC
+1418,Singapore,2012,4,2,4,4,3,3,4,East Asia & Pacific,HIC
+1419,Singapore,2010,4,2,4,3,3,3,4,East Asia & Pacific,HIC
+1420,Singapore,2008,4,2,4,3,3,3,0,East Asia & Pacific,HIC
+1421,Singapore,2007,3,2,4,3,3,0,0,East Asia & Pacific,HIC
+1422,Slovakia,2022,4,2,4,4,3,4,1,Europe & Central Asia,HIC
+1423,Slovakia,2020,4,2,4,4,3,4,1,Europe & Central Asia,HIC
+1424,Slovakia,2018,4,2,4,4,3,4,1,Europe & Central Asia,HIC
+1425,Slovakia,2016,4,2,3,4,3,4,1,Europe & Central Asia,HIC
+1426,Slovakia,2014,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1427,Slovakia,2012,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1428,Slovakia,2010,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1429,Slovakia,2008,4,2,2,2,3,4,0,Europe & Central Asia,HIC
+1430,Slovakia,2007,4,2,2,2,3,0,0,Europe & Central Asia,HIC
+1431,Slovenia,2022,4,2,3,4,4,4,1,Europe & Central Asia,HIC
+1432,Slovenia,2020,4,2,3,4,4,4,1,Europe & Central Asia,HIC
+1433,Slovenia,2018,4,2,3,4,4,4,2,Europe & Central Asia,HIC
+1434,Slovenia,2016,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1435,Slovenia,2014,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1436,Slovenia,2012,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1437,Slovenia,2010,4,2,3,2,3,4,1,Europe & Central Asia,HIC
+1438,Slovenia,2008,4,2,3,2,3,3,0,Europe & Central Asia,HIC
+1439,Slovenia,2007,4,2,3,2,3,0,0,Europe & Central Asia,HIC
+1440,Solomon Islands,2022,1,2,3,4,3,2,1,East Asia & Pacific,LMIC
+1441,Solomon Islands,2020,2,2,3,4,3,1,1,East Asia & Pacific,LMIC
+1442,Solomon Islands,2018,2,2,3,4,3,2,1,East Asia & Pacific,LMIC
+1443,Solomon Islands,2016,3,2,3,4,3,2,1,East Asia & Pacific,LMIC
+1444,Solomon Islands,2014,2,2,3,4,3,2,3,East Asia & Pacific,LMIC
+1445,Solomon Islands,2012,2,2,2,2,3,2,1,East Asia & Pacific,LMIC
+1446,Solomon Islands,2010,3,2,2,2,3,1,1,East Asia & Pacific,LMIC
+1447,Solomon Islands,2008,3,1,2,1,1,1,0,East Asia & Pacific,LMIC
+1448,Solomon Islands,2007,2,1,2,1,1,0,0,East Asia & Pacific,LMIC
+1449,Somalia,2022,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1450,Somalia,2020,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1451,Somalia,2018,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1452,Somalia,2016,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1453,Somalia,2014,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1454,Somalia,2012,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1455,Somalia,2010,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1456,Somalia,2008,1,1,1,1,1,1,0,Sub-Saharan Africa,LIC
+1457,Somalia,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+1458,South Africa,2022,2,1,3,1,3,3,4,Sub-Saharan Africa,UMIC
+1459,South Africa,2020,1,1,3,1,3,3,3,Sub-Saharan Africa,UMIC
+1460,South Africa,2018,1,1,3,1,3,3,1,Sub-Saharan Africa,UMIC
+1461,South Africa,2016,4,1,3,1,3,2,1,Sub-Saharan Africa,UMIC
+1462,South Africa,2014,4,1,3,1,3,2,1,Sub-Saharan Africa,UMIC
+1463,South Africa,2012,4,1,2,1,3,2,1,Sub-Saharan Africa,UMIC
+1464,South Africa,2010,4,1,2,1,3,2,1,Sub-Saharan Africa,UMIC
+1465,South Africa,2008,3,1,2,1,3,2,0,Sub-Saharan Africa,UMIC
+1466,South Africa,2007,3,1,2,1,3,0,0,Sub-Saharan Africa,UMIC
+1467,South Sudan,2022,1,1,1,1,1,3,1,Sub-Saharan Africa,LIC
+1468,South Sudan,2020,1,1,1,1,1,3,1,Sub-Saharan Africa,LIC
+1469,South Sudan,2018,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1470,South Sudan,2016,1,1,1,1,1,4,1,Sub-Saharan Africa,LIC
+1471,South Sudan,2014,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1472,South Sudan,2012,1,1,1,1,1,1,1,Sub-Saharan Africa,LIC
+1473,South Sudan,2010,1,1,1,1,1,1,3,Sub-Saharan Africa,LIC
+1474,South Sudan,2008,1,1,1,1,1,1,0,Sub-Saharan Africa,LIC
+1475,South Sudan,2007,1,1,1,1,1,0,0,Sub-Saharan Africa,LIC
+1476,Spain,2022,4,4,3,4,4,4,3,Europe & Central Asia,HIC
+1477,Spain,2020,4,4,3,4,4,4,3,Europe & Central Asia,HIC
+1478,Spain,2018,4,4,3,4,4,4,1,Europe & Central Asia,HIC
+1479,Spain,2016,4,4,3,3,4,4,1,Europe & Central Asia,HIC
+1480,Spain,2014,4,4,3,3,4,4,1,Europe & Central Asia,HIC
+1481,Spain,2012,4,4,3,3,4,4,1,Europe & Central Asia,HIC
+1482,Spain,2010,4,4,3,3,4,4,1,Europe & Central Asia,HIC
+1483,Spain,2008,4,3,3,2,3,4,0,Europe & Central Asia,HIC
+1484,Spain,2007,4,3,3,2,3,0,0,Europe & Central Asia,HIC
+1485,Sri Lanka,2022,4,3,3,4,3,3,4,South Asia,LMIC
+1486,Sri Lanka,2020,4,3,3,4,3,4,1,South Asia,LMIC
+1487,Sri Lanka,2018,4,3,3,4,3,3,1,South Asia,LMIC
+1488,Sri Lanka,2016,3,3,3,4,3,3,1,South Asia,LMIC
+1489,Sri Lanka,2014,2,3,2,4,3,3,1,South Asia,LMIC
+1490,Sri Lanka,2012,2,3,2,4,3,3,1,South Asia,LMIC
+1491,Sri Lanka,2010,4,3,2,1,3,3,3,South Asia,LMIC
+1492,Sri Lanka,2008,4,3,2,1,3,3,0,South Asia,LMIC
+1493,Sri Lanka,2007,4,3,2,1,3,0,0,South Asia,LMIC
+1494,Sudan,2022,1,1,3,2,4,3,1,Sub-Saharan Africa,LIC
+1495,Sudan,2020,2,1,3,1,3,3,1,Sub-Saharan Africa,LIC
+1496,Sudan,2018,3,1,2,1,3,3,1,Sub-Saharan Africa,LIC
+1497,Sudan,2016,3,1,1,1,3,3,1,Sub-Saharan Africa,LIC
+1498,Sudan,2014,2,1,1,1,3,3,3,Sub-Saharan Africa,LIC
+1499,Sudan,2012,2,1,1,1,3,3,1,Sub-Saharan Africa,LIC
+1500,Sudan,2010,2,1,1,1,3,3,3,Sub-Saharan Africa,LIC
+1501,Sudan,2008,2,1,1,1,3,3,0,Sub-Saharan Africa,LIC
+1502,Sudan,2007,2,1,1,1,3,0,0,Sub-Saharan Africa,LIC
+1503,Suriname,2022,1,4,2,4,4,2,3,Latin America & Caribbean,UMIC
+1504,Suriname,2020,2,4,2,4,4,2,1,Latin America & Caribbean,UMIC
+1505,Suriname,2018,3,4,3,4,4,2,1,Latin America & Caribbean,UMIC
+1506,Suriname,2016,3,4,3,4,4,3,4,Latin America & Caribbean,UMIC
+1507,Suriname,2014,3,4,3,3,4,3,4,Latin America & Caribbean,UMIC
+1508,Suriname,2012,4,1,2,1,1,3,2,Latin America & Caribbean,UMIC
+1509,Suriname,2010,3,1,2,1,1,2,1,Latin America & Caribbean,UMIC
+1510,Suriname,2008,3,1,2,1,1,3,0,Latin America & Caribbean,UMIC
+1511,Suriname,2007,2,1,2,1,1,0,0,Latin America & Caribbean,UMIC
+1512,Sweden,2022,4,1,4,4,3,3,1,Europe & Central Asia,HIC
+1513,Sweden,2020,4,1,4,4,3,3,3,Europe & Central Asia,HIC
+1514,Sweden,2018,4,1,4,4,3,3,1,Europe & Central Asia,HIC
+1515,Sweden,2016,4,1,3,4,3,3,1,Europe & Central Asia,HIC
+1516,Sweden,2014,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+1517,Sweden,2012,4,1,3,2,3,3,1,Europe & Central Asia,HIC
+1518,Sweden,2010,4,1,3,2,3,3,4,Europe & Central Asia,HIC
+1519,Sweden,2008,4,1,3,2,3,3,0,Europe & Central Asia,HIC
+1520,Sweden,2007,4,1,3,2,3,0,0,Europe & Central Asia,HIC
+1521,Switzerland,2022,4,1,3,3,1,3,1,Europe & Central Asia,HIC
+1522,Switzerland,2020,4,1,3,3,1,3,1,Europe & Central Asia,HIC
+1523,Switzerland,2018,4,1,3,3,1,3,4,Europe & Central Asia,HIC
+1524,Switzerland,2016,4,1,3,3,1,3,4,Europe & Central Asia,HIC
+1525,Switzerland,2014,4,1,3,3,1,3,1,Europe & Central Asia,HIC
+1526,Switzerland,2012,4,1,3,3,1,3,4,Europe & Central Asia,HIC
+1527,Switzerland,2010,4,1,3,3,1,3,4,Europe & Central Asia,HIC
+1528,Switzerland,2008,4,1,3,3,1,3,0,Europe & Central Asia,HIC
+1529,Switzerland,2007,4,1,3,3,1,0,0,Europe & Central Asia,HIC
+1530,Syrian Arab Republic,2022,1,3,1,1,3,1,1,Middle East & North Africa,LIC
+1531,Syrian Arab Republic,2020,1,3,1,1,3,2,1,Middle East & North Africa,LIC
+1532,Syrian Arab Republic,2018,1,3,3,1,3,2,1,Middle East & North Africa,LIC
+1533,Syrian Arab Republic,2016,1,3,3,1,3,2,1,Middle East & North Africa,LIC
+1534,Syrian Arab Republic,2014,2,3,3,1,3,1,1,Middle East & North Africa,LIC
+1535,Syrian Arab Republic,2012,2,3,3,1,3,2,3,Middle East & North Africa,LIC
+1536,Syrian Arab Republic,2010,2,3,3,1,3,2,1,Middle East & North Africa,LIC
+1537,Syrian Arab Republic,2008,4,1,3,1,3,2,0,Middle East & North Africa,LIC
+1538,Syrian Arab Republic,2007,4,1,3,1,3,0,0,Middle East & North Africa,LIC
+1539,Turkiye,2022,4,4,4,4,4,4,4,Europe & Central Asia,UMIC
+1540,Turkiye,2020,4,4,4,4,4,4,4,Europe & Central Asia,UMIC
+1541,Turkiye,2018,4,4,4,4,4,4,4,Europe & Central Asia,UMIC
+1542,Turkiye,2016,4,4,4,4,4,4,4,Europe & Central Asia,UMIC
+1543,Turkiye,2014,4,4,4,4,4,4,4,Europe & Central Asia,UMIC
+1544,Turkiye,2012,4,4,4,4,4,4,4,Europe & Central Asia,UMIC
+1545,Turkiye,2010,4,4,4,3,3,4,4,Europe & Central Asia,UMIC
+1546,Turkiye,2008,4,4,2,2,3,3,0,Europe & Central Asia,UMIC
+1547,Turkiye,2007,4,1,2,2,1,0,0,Europe & Central Asia,UMIC
+1548,Tajikistan,2022,4,4,1,4,3,3,1,Europe & Central Asia,LMIC
+1549,Tajikistan,2020,4,4,1,4,3,2,1,Europe & Central Asia,LMIC
+1550,Tajikistan,2018,4,4,1,4,3,2,1,Europe & Central Asia,LMIC
+1551,Tajikistan,2016,3,1,2,1,3,2,1,Europe & Central Asia,LMIC
+1552,Tajikistan,2014,2,1,2,1,3,2,1,Europe & Central Asia,LMIC
+1553,Tajikistan,2012,1,1,2,1,3,2,1,Europe & Central Asia,LMIC
+1554,Tajikistan,2010,2,1,2,1,3,2,1,Europe & Central Asia,LMIC
+1555,Tajikistan,2008,2,1,2,1,3,1,0,Europe & Central Asia,LMIC
+1556,Tajikistan,2007,2,1,2,1,3,0,0,Europe & Central Asia,LMIC
+1557,Thailand,2022,4,4,3,4,3,4,4,East Asia & Pacific,UMIC
+1558,Thailand,2020,4,4,3,4,3,4,4,East Asia & Pacific,UMIC
+1559,Thailand,2018,4,4,3,4,3,4,3,East Asia & Pacific,UMIC
+1560,Thailand,2016,4,4,3,4,3,3,4,East Asia & Pacific,UMIC
+1561,Thailand,2014,4,4,3,4,3,3,4,East Asia & Pacific,UMIC
+1562,Thailand,2012,4,4,3,4,3,3,3,East Asia & Pacific,UMIC
+1563,Thailand,2010,4,4,3,4,3,3,3,East Asia & Pacific,UMIC
+1564,Thailand,2008,4,1,3,4,3,3,0,East Asia & Pacific,UMIC
+1565,Thailand,2007,4,1,3,4,3,0,0,East Asia & Pacific,UMIC
+1566,Timor-Leste,2022,2,3,3,4,3,2,4,East Asia & Pacific,LMIC
+1567,Timor-Leste,2020,2,3,3,4,3,1,4,East Asia & Pacific,LMIC
+1568,Timor-Leste,2018,3,3,3,4,3,1,4,East Asia & Pacific,LMIC
+1569,Timor-Leste,2016,3,3,1,3,3,2,3,East Asia & Pacific,LMIC
+1570,Timor-Leste,2014,3,1,1,1,1,2,1,East Asia & Pacific,LMIC
+1571,Timor-Leste,2012,2,1,1,1,1,2,1,East Asia & Pacific,LMIC
+1572,Timor-Leste,2010,2,1,1,1,1,1,1,East Asia & Pacific,LMIC
+1573,Timor-Leste,2008,2,1,1,1,1,1,0,East Asia & Pacific,LMIC
+1574,Timor-Leste,2007,2,1,1,1,1,0,0,East Asia & Pacific,LMIC
+1575,Togo,2022,2,2,1,3,4,1,1,Sub-Saharan Africa,LIC
+1576,Togo,2020,2,2,1,3,4,2,4,Sub-Saharan Africa,LIC
+1577,Togo,2018,2,2,1,3,4,1,4,Sub-Saharan Africa,LIC
+1578,Togo,2016,3,2,1,3,4,1,1,Sub-Saharan Africa,LIC
+1579,Togo,2014,3,2,1,3,4,1,3,Sub-Saharan Africa,LIC
+1580,Togo,2012,3,2,2,3,4,1,1,Sub-Saharan Africa,LIC
+1581,Togo,2010,2,2,2,2,1,1,4,Sub-Saharan Africa,LIC
+1582,Togo,2008,2,1,2,1,1,1,0,Sub-Saharan Africa,LIC
+1583,Togo,2007,2,1,2,1,1,0,0,Sub-Saharan Africa,LIC
+1584,Tonga,2022,3,3,4,3,3,3,4,East Asia & Pacific,UMIC
+1585,Tonga,2020,3,3,4,3,3,3,4,East Asia & Pacific,UMIC
+1586,Tonga,2018,3,3,3,3,3,3,4,East Asia & Pacific,UMIC
+1587,Tonga,2016,2,3,3,3,3,3,4,East Asia & Pacific,UMIC
+1588,Tonga,2014,3,3,3,3,3,3,1,East Asia & Pacific,UMIC
+1589,Tonga,2012,3,1,3,3,3,3,1,East Asia & Pacific,UMIC
+1590,Tonga,2010,3,1,2,3,3,3,1,East Asia & Pacific,UMIC
+1591,Tonga,2008,2,1,2,3,3,2,0,East Asia & Pacific,UMIC
+1592,Tonga,2007,2,1,1,3,3,0,0,East Asia & Pacific,UMIC
+1593,Trinidad and Tobago,2022,2,4,3,4,1,2,2,Latin America & Caribbean,HIC
+1594,Trinidad and Tobago,2020,2,4,3,4,1,2,1,Latin America & Caribbean,HIC
+1595,Trinidad and Tobago,2018,2,4,3,4,1,2,1,Latin America & Caribbean,HIC
+1596,Trinidad and Tobago,2016,3,4,3,4,1,2,1,Latin America & Caribbean,HIC
+1597,Trinidad and Tobago,2014,3,4,3,4,1,2,1,Latin America & Caribbean,HIC
+1598,Trinidad and Tobago,2012,3,4,3,1,1,2,1,Latin America & Caribbean,HIC
+1599,Trinidad and Tobago,2010,2,4,2,1,1,2,1,Latin America & Caribbean,HIC
+1600,Trinidad and Tobago,2008,2,1,2,1,1,2,0,Latin America & Caribbean,HIC
+1601,Trinidad and Tobago,2007,2,1,2,1,1,0,0,Latin America & Caribbean,HIC
+1602,Tunisia,2022,2,1,3,3,3,3,4,Middle East & North Africa,LMIC
+1603,Tunisia,2020,3,1,3,2,3,3,4,Middle East & North Africa,LMIC
+1604,Tunisia,2018,3,1,3,2,3,3,2,Middle East & North Africa,LMIC
+1605,Tunisia,2016,2,1,3,2,3,3,3,Middle East & North Africa,LMIC
+1606,Tunisia,2014,2,1,3,2,3,3,4,Middle East & North Africa,LMIC
+1607,Tunisia,2012,2,1,3,1,3,4,4,Middle East & North Africa,LMIC
+1608,Tunisia,2010,4,1,2,1,3,4,3,Middle East & North Africa,LMIC
+1609,Tunisia,2008,4,1,2,1,3,4,0,Middle East & North Africa,LMIC
+1610,Tunisia,2007,4,1,2,1,3,0,0,Middle East & North Africa,LMIC
+1611,Turkmenistan,2022,2,4,3,4,3,2,4,Europe & Central Asia,UMIC
+1612,Turkmenistan,2020,3,4,3,4,3,2,4,Europe & Central Asia,UMIC
+1613,Turkmenistan,2018,3,4,3,4,3,2,4,Europe & Central Asia,UMIC
+1614,Turkmenistan,2016,3,4,3,4,3,2,1,Europe & Central Asia,UMIC
+1615,Turkmenistan,2014,2,4,3,4,3,2,4,Europe & Central Asia,UMIC
+1616,Turkmenistan,2012,1,4,3,2,1,2,1,Europe & Central Asia,UMIC
+1617,Turkmenistan,2010,1,4,3,2,1,3,1,Europe & Central Asia,UMIC
+1618,Turkmenistan,2008,1,4,3,1,1,2,0,Europe & Central Asia,UMIC
+1619,Turkmenistan,2007,1,4,3,1,1,0,0,Europe & Central Asia,UMIC
+1620,Tuvalu,2022,2,2,2,2,4,2,1,East Asia & Pacific,UMIC
+1621,Tuvalu,2020,3,2,2,2,4,2,4,East Asia & Pacific,UMIC
+1622,Tuvalu,2018,3,2,2,2,4,1,1,East Asia & Pacific,UMIC
+1623,Tuvalu,2016,3,2,3,2,4,3,1,East Asia & Pacific,UMIC
+1624,Tuvalu,2014,2,2,3,2,4,2,1,East Asia & Pacific,UMIC
+1625,Tuvalu,2012,2,2,3,2,4,1,3,East Asia & Pacific,UMIC
+1626,Tuvalu,2010,3,2,3,2,4,1,1,East Asia & Pacific,UMIC
+1627,Tuvalu,2008,3,2,3,2,4,1,0,East Asia & Pacific,UMIC
+1628,Tuvalu,2007,3,1,3,1,1,0,0,East Asia & Pacific,UMIC
+1629,Uganda,2022,2,4,2,3,4,2,1,Sub-Saharan Africa,LIC
+1630,Uganda,2020,2,4,2,3,4,2,3,Sub-Saharan Africa,LIC
+1631,Uganda,2018,3,4,2,3,4,2,3,Sub-Saharan Africa,LIC
+1632,Uganda,2016,3,4,3,3,4,2,1,Sub-Saharan Africa,LIC
+1633,Uganda,2014,4,2,3,2,1,2,2,Sub-Saharan Africa,LIC
+1634,Uganda,2012,2,2,3,2,1,2,1,Sub-Saharan Africa,LIC
+1635,Uganda,2010,2,2,3,2,1,2,1,Sub-Saharan Africa,LIC
+1636,Uganda,2008,2,2,3,1,1,3,0,Sub-Saharan Africa,LIC
+1637,Uganda,2007,2,2,3,1,1,0,0,Sub-Saharan Africa,LIC
+1638,Ukraine,2022,4,4,2,4,4,3,4,Europe & Central Asia,UMIC
+1639,Ukraine,2020,4,3,2,4,3,4,4,Europe & Central Asia,UMIC
+1640,Ukraine,2018,4,3,2,4,3,3,2,Europe & Central Asia,UMIC
+1641,Ukraine,2016,4,3,2,4,3,4,1,Europe & Central Asia,UMIC
+1642,Ukraine,2014,4,3,2,4,3,4,1,Europe & Central Asia,UMIC
+1643,Ukraine,2012,4,3,2,4,3,3,1,Europe & Central Asia,UMIC
+1644,Ukraine,2010,4,2,2,4,3,3,1,Europe & Central Asia,UMIC
+1645,Ukraine,2008,4,1,2,2,3,2,0,Europe & Central Asia,UMIC
+1646,Ukraine,2007,4,1,2,2,1,0,0,Europe & Central Asia,UMIC
+1647,United Arab Emirates,2022,2,2,4,3,4,3,1,Middle East & North Africa,HIC
+1648,United Arab Emirates,2020,3,2,4,3,4,3,3,Middle East & North Africa,HIC
+1649,United Arab Emirates,2018,3,2,4,3,4,3,1,Middle East & North Africa,HIC
+1650,United Arab Emirates,2016,2,2,4,3,4,1,3,Middle East & North Africa,HIC
+1651,United Arab Emirates,2014,3,2,4,3,4,1,3,Middle East & North Africa,HIC
+1652,United Arab Emirates,2012,3,2,4,3,3,2,1,Middle East & North Africa,HIC
+1653,United Arab Emirates,2010,3,2,4,1,3,2,3,Middle East & North Africa,HIC
+1654,United Arab Emirates,2008,3,1,4,1,3,2,0,Middle East & North Africa,HIC
+1655,United Arab Emirates,2007,3,1,2,1,3,0,0,Middle East & North Africa,HIC
+1656,United Kingdom of Great Britain and Northern Ireland,2022,4,4,3,4,3,4,4,Europe & Central Asia,HIC
+1657,United Kingdom of Great Britain and Northern Ireland,2020,4,4,3,4,3,4,4,Europe & Central Asia,HIC
+1658,United Kingdom of Great Britain and Northern Ireland,2018,4,4,3,4,3,4,4,Europe & Central Asia,HIC
+1659,United Kingdom of Great Britain and Northern Ireland,2016,4,4,3,4,3,4,4,Europe & Central Asia,HIC
+1660,United Kingdom of Great Britain and Northern Ireland,2014,4,4,3,3,3,4,4,Europe & Central Asia,HIC
+1661,United Kingdom of Great Britain and Northern Ireland,2012,4,4,3,3,3,4,4,Europe & Central Asia,HIC
+1662,United Kingdom of Great Britain and Northern Ireland,2010,4,4,3,3,3,4,4,Europe & Central Asia,HIC
+1663,United Kingdom of Great Britain and Northern Ireland,2008,4,4,3,3,3,4,0,Europe & Central Asia,HIC
+1664,United Kingdom of Great Britain and Northern Ireland,2007,4,4,3,3,3,0,0,Europe & Central Asia,HIC
+1665,United Republic of Tanzania,2022,2,1,2,2,3,2,1,Sub-Saharan Africa,LMIC
+1666,United Republic of Tanzania,2020,3,1,2,2,3,2,1,Sub-Saharan Africa,LMIC
+1667,United Republic of Tanzania,2018,3,1,2,2,3,2,1,Sub-Saharan Africa,LMIC
+1668,United Republic of Tanzania,2016,3,1,3,2,3,2,1,Sub-Saharan Africa,LMIC
+1669,United Republic of Tanzania,2014,3,1,3,2,3,2,1,Sub-Saharan Africa,LMIC
+1670,United Republic of Tanzania,2012,2,1,3,1,3,2,1,Sub-Saharan Africa,LMIC
+1671,United Republic of Tanzania,2010,1,1,3,1,3,2,1,Sub-Saharan Africa,LMIC
+1672,United Republic of Tanzania,2008,1,1,3,1,3,2,0,Sub-Saharan Africa,LMIC
+1673,United Republic of Tanzania,2007,1,1,3,1,3,0,0,Sub-Saharan Africa,LMIC
+1674,United States of America,2022,4,1,4,1,1,2,4,North America,HIC
+1675,United States of America,2020,4,1,4,1,1,2,4,North America,HIC
+1676,United States of America,2018,4,1,4,1,1,2,4,North America,HIC
+1677,United States of America,2016,4,1,4,1,1,2,4,North America,HIC
+1678,United States of America,2014,4,1,4,1,1,2,4,North America,HIC
+1679,United States of America,2012,4,1,4,1,1,2,4,North America,HIC
+1680,United States of America,2010,4,1,4,1,1,2,1,North America,HIC
+1681,United States of America,2008,4,1,4,1,1,2,0,North America,HIC
+1682,United States of America,2007,4,1,2,1,1,0,0,North America,HIC
+1683,Uruguay,2022,4,4,3,4,4,3,4,Latin America & Caribbean,HIC
+1684,Uruguay,2020,4,4,3,4,4,3,1,Latin America & Caribbean,HIC
+1685,Uruguay,2018,4,4,3,4,4,3,1,Latin America & Caribbean,HIC
+1686,Uruguay,2016,4,4,3,4,4,3,1,Latin America & Caribbean,HIC
+1687,Uruguay,2014,4,4,3,4,4,3,3,Latin America & Caribbean,HIC
+1688,Uruguay,2012,4,4,4,4,3,3,4,Latin America & Caribbean,HIC
+1689,Uruguay,2010,4,4,4,4,3,3,3,Latin America & Caribbean,HIC
+1690,Uruguay,2008,4,4,4,4,3,3,0,Latin America & Caribbean,HIC
+1691,Uruguay,2007,4,4,4,4,1,0,0,Latin America & Caribbean,HIC
+1692,Uzbekistan,2022,3,1,3,2,3,3,2,Europe & Central Asia,LMIC
+1693,Uzbekistan,2020,2,1,3,2,3,3,1,Europe & Central Asia,LMIC
+1694,Uzbekistan,2018,3,1,3,2,3,2,1,Europe & Central Asia,LMIC
+1695,Uzbekistan,2016,3,1,3,2,3,2,1,Europe & Central Asia,LMIC
+1696,Uzbekistan,2014,3,1,3,2,3,2,1,Europe & Central Asia,LMIC
+1697,Uzbekistan,2012,1,1,2,2,3,2,3,Europe & Central Asia,LMIC
+1698,Uzbekistan,2010,2,1,2,2,1,2,1,Europe & Central Asia,LMIC
+1699,Uzbekistan,2008,2,1,2,1,1,2,0,Europe & Central Asia,LMIC
+1700,Uzbekistan,2007,2,1,2,1,1,0,0,Europe & Central Asia,LMIC
+1701,Vanuatu,2022,3,1,2,4,4,4,1,East Asia & Pacific,LMIC
+1702,Vanuatu,2020,3,1,2,4,4,3,1,East Asia & Pacific,LMIC
+1703,Vanuatu,2018,2,1,2,4,4,3,1,East Asia & Pacific,LMIC
+1704,Vanuatu,2016,3,1,2,4,4,3,1,East Asia & Pacific,LMIC
+1705,Vanuatu,2014,3,1,2,4,4,3,1,East Asia & Pacific,LMIC
+1706,Vanuatu,2012,3,1,2,2,4,3,1,East Asia & Pacific,LMIC
+1707,Vanuatu,2010,2,1,2,2,4,3,1,East Asia & Pacific,LMIC
+1708,Vanuatu,2008,2,1,2,2,4,3,0,East Asia & Pacific,LMIC
+1709,Vanuatu,2007,2,1,1,1,1,0,0,East Asia & Pacific,LMIC
+1710,Venezuela (Bolivarian Republic of),2022,2,4,3,4,4,3,1,Latin America & Caribbean,UMIC
+1711,Venezuela (Bolivarian Republic of),2020,2,4,3,4,4,3,1,Latin America & Caribbean,UMIC
+1712,Venezuela (Bolivarian Republic of),2018,1,4,3,4,1,3,1,Latin America & Caribbean,UMIC
+1713,Venezuela (Bolivarian Republic of),2016,2,4,3,4,1,3,1,Latin America & Caribbean,UMIC
+1714,Venezuela (Bolivarian Republic of),2014,3,4,3,4,1,3,1,Latin America & Caribbean,UMIC
+1715,Venezuela (Bolivarian Republic of),2012,3,4,3,4,1,3,1,Latin America & Caribbean,UMIC
+1716,Venezuela (Bolivarian Republic of),2010,2,1,3,4,1,3,4,Latin America & Caribbean,UMIC
+1717,Venezuela (Bolivarian Republic of),2008,1,1,3,4,1,3,0,Latin America & Caribbean,UMIC
+1718,Venezuela (Bolivarian Republic of),2007,1,1,3,4,1,0,0,Latin America & Caribbean,UMIC
+1719,Viet Nam,2022,4,3,3,4,3,2,4,East Asia & Pacific,LMIC
+1720,Viet Nam,2020,4,3,3,4,3,2,4,East Asia & Pacific,LMIC
+1721,Viet Nam,2018,4,3,3,4,3,2,4,East Asia & Pacific,LMIC
+1722,Viet Nam,2016,4,3,2,4,3,2,4,East Asia & Pacific,LMIC
+1723,Viet Nam,2014,4,3,2,4,3,2,4,East Asia & Pacific,LMIC
+1724,Viet Nam,2012,4,3,2,3,3,2,4,East Asia & Pacific,LMIC
+1725,Viet Nam,2010,3,3,2,2,3,2,4,East Asia & Pacific,LMIC
+1726,Viet Nam,2008,3,3,2,2,3,2,0,East Asia & Pacific,LMIC
+1727,Viet Nam,2007,3,3,2,2,3,0,0,East Asia & Pacific,LMIC
+1728,Yemen,2022,1,2,2,3,4,3,1,Middle East & North Africa,LIC
+1729,Yemen,2020,1,3,2,3,4,3,2,Middle East & North Africa,LIC
+1730,Yemen,2018,2,3,2,3,4,3,2,Middle East & North Africa,LIC
+1731,Yemen,2016,2,3,2,3,4,3,1,Middle East & North Africa,LIC
+1732,Yemen,2014,2,3,2,3,4,3,2,Middle East & North Africa,LIC
+1733,Yemen,2012,2,1,2,3,3,3,1,Middle East & North Africa,LIC
+1734,Yemen,2010,2,1,2,2,3,3,2,Middle East & North Africa,LIC
+1735,Yemen,2008,3,1,2,2,3,3,0,Middle East & North Africa,LIC
+1736,Yemen,2007,3,1,2,2,3,0,0,Middle East & North Africa,LIC
+1737,Zambia,2022,2,3,4,1,1,1,1,Sub-Saharan Africa,LMIC
+1738,Zambia,2020,2,3,3,1,1,2,2,Sub-Saharan Africa,LMIC
+1739,Zambia,2018,2,3,3,1,1,2,1,Sub-Saharan Africa,LMIC
+1740,Zambia,2016,2,3,2,1,1,2,1,Sub-Saharan Africa,LMIC
+1741,Zambia,2014,2,3,2,1,1,2,1,Sub-Saharan Africa,LMIC
+1742,Zambia,2012,2,3,2,1,1,2,1,Sub-Saharan Africa,LMIC
+1743,Zambia,2010,1,3,2,1,1,2,4,Sub-Saharan Africa,LMIC
+1744,Zambia,2008,2,3,2,1,1,2,0,Sub-Saharan Africa,LMIC
+1745,Zambia,2007,2,2,2,1,1,0,0,Sub-Saharan Africa,LMIC
+1746,Zimbabwe,2022,1,2,3,1,1,2,1,Sub-Saharan Africa,LMIC
+1747,Zimbabwe,2020,1,2,3,1,1,2,1,Sub-Saharan Africa,LMIC
+1748,Zimbabwe,2018,2,2,3,1,1,2,1,Sub-Saharan Africa,LMIC
+1749,Zimbabwe,2016,2,2,3,1,1,2,1,Sub-Saharan Africa,LMIC
+1750,Zimbabwe,2014,2,2,1,1,1,2,1,Sub-Saharan Africa,LMIC
+1751,Zimbabwe,2012,1,2,2,1,1,2,1,Sub-Saharan Africa,LMIC
+1752,Zimbabwe,2010,2,2,2,1,1,3,1,Sub-Saharan Africa,LMIC
+1753,Zimbabwe,2008,2,2,2,1,1,2,0,Sub-Saharan Africa,LMIC
+1754,Zimbabwe,2007,2,2,2,1,1,0,0,Sub-Saharan Africa,LMIC
