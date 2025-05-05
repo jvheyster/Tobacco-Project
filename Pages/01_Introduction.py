@@ -35,7 +35,7 @@ with st.expander("🚬 Tobacco Use and Health Risks"):
         - Stroke
 
         In addition to health impacts, tobacco use places a significant economic burden on healthcare systems and reduces global productivity.  
-        Tobacco use prevalence varies widely—from **3.3% to 48.3%** across countries in our dataset.
+        Tobacco use prevalence varies widely—from **3.3% to 48.3%** for the year 2022 across countries in our dataset.
         """)
     with col2:
         st.image("Streamlit Pics/LungCancer.png", use_container_width=True)
