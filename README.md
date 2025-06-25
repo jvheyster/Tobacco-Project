@@ -7,7 +7,7 @@ This project explores how effective MPOWER policies and tobacco taxation are in 
 
 **🔍 Project Goal**  
 To assess the effectiveness of tobacco control measures and tobacco pricing on tobacco use prevalence,  
-with a focus on regional, gender, and income group differences — to identify best practices for policy design.
+with a focus on regional, gender, and income group differences - in order to identify best practices for policy design.
 
 ---
 
